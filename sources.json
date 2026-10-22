@@ -224,6 +224,244 @@
     }
   },
   {
+    "nom": "Sinfonietta de Lausanne",
+    "url": "https://www.sinfonietta.ch/actualites/",
+    "categorie": "Orchestres",
+    "description": "Orchestre lausannois de jeunes professionnel·les : recrutement, saisons et financement.",
+    "traductions": {
+      "de": {
+        "description": "Lausanner Orchester junger Berufsmusiker:innen: Stellen, Spielzeiten und Finanzierung."
+      },
+      "it": {
+        "description": "Orchestra losannese di giovani professionisti: reclutamento, stagioni e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Ensemble Symphonique Neuchâtel",
+    "url": "https://www.esn-ne.ch/",
+    "categorie": "Orchestres",
+    "description": "Orchestre neuchâtelois : saisons, collaborations et financement.",
+    "traductions": {
+      "de": {
+        "description": "Sinfonieorchester Neuenburg: Spielzeiten, Zusammenarbeit und Finanzierung."
+      },
+      "it": {
+        "description": "Orchestra sinfonica di Neuchâtel: stagioni, collaborazioni e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Orchestre de Chambre Fribourgeois",
+    "url": "https://www.ocf.ch/fr/emploijobs",
+    "categorie": "Orchestres",
+    "description": "Orchestre de chambre fribourgeois : emplois, collaborations et financement.",
+    "traductions": {
+      "de": {
+        "description": "Freiburger Kammerorchester: Stellen, Zusammenarbeit und Finanzierung."
+      },
+      "it": {
+        "description": "Orchestra da camera di Friburgo: impieghi, collaborazioni e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Ensemble Contrechamps",
+    "url": "https://www.contrechamps.ch",
+    "categorie": "Orchestres",
+    "description": "Ensemble genevois de musique contemporaine et de création.",
+    "traductions": {
+      "de": {
+        "description": "Genfer Ensemble für zeitgenössische Musik und Uraufführungen."
+      },
+      "it": {
+        "description": "Ensemble ginevrino di musica contemporanea e di creazione."
+      }
+    }
+  },
+  {
+    "nom": "Sinfonieorchester Basel",
+    "url": "https://www.sinfonieorchesterbasel.ch/de/stories",
+    "categorie": "Orchestres",
+    "description": "Orchestre symphonique de Bâle : actualités, carrière et direction.",
+    "traductions": {
+      "de": {
+        "description": "Sinfonieorchester Basel: Neuigkeiten, Karriere und Leitung."
+      },
+      "it": {
+        "description": "Orchestra sinfonica di Basilea: notizie, carriera e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Luzerner Sinfonieorchester",
+    "url": "https://sinfonieorchester.ch/de/jobs/",
+    "categorie": "Orchestres",
+    "description": "Orchestre symphonique de Lucerne : postes, saisons et financement.",
+    "traductions": {
+      "de": {
+        "description": "Luzerner Sinfonieorchester: Stellen, Spielzeiten und Finanzierung."
+      },
+      "it": {
+        "description": "Orchestra sinfonica di Lucerna: posti, stagioni e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Musikkollegium Winterthur",
+    "url": "https://www.musikkollegium.ch/ueber-uns/news-aktuelles",
+    "categorie": "Orchestres",
+    "description": "Orchestre de Winterthour : actualités, postes ouverts et direction.",
+    "traductions": {
+      "de": {
+        "description": "Musikkollegium Winterthur: Neuigkeiten, offene Stellen und Leitung."
+      },
+      "it": {
+        "description": "Orchestra di Winterthur: notizie, posti vacanti e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Sinfonieorchester St.Gallen",
+    "url": "https://www.konzertundtheater.ch/blog/",
+    "categorie": "Orchestres",
+    "description": "Orchestre de Konzert und Theater St.Gallen : actualités, postes et saisons.",
+    "traductions": {
+      "de": {
+        "description": "Sinfonieorchester von Konzert und Theater St.Gallen: Neuigkeiten, Stellen und Spielzeiten."
+      },
+      "it": {
+        "description": "Orchestra di Konzert und Theater St.Gallen: notizie, posti e stagioni."
+      }
+    }
+  },
+  {
+    "nom": "Kammerorchester Basel",
+    "url": "https://www.kammerorchesterbasel.ch/en/the-basel-chamber-orchestra/news.html",
+    "categorie": "Orchestres",
+    "description": "Orchestre de chambre bâlois, géré par ses musicien·nes : actualités et projets.",
+    "traductions": {
+      "de": {
+        "description": "Basler Kammerorchester, von seinen Musiker:innen getragen: Neuigkeiten und Projekte."
+      },
+      "it": {
+        "description": "Orchestra da camera di Basilea, gestita dai suoi musicisti: notizie e progetti."
+      }
+    }
+  },
+  {
+    "nom": "Zürcher Kammerorchester",
+    "url": "https://zko.ch/news/berichte/",
+    "categorie": "Orchestres",
+    "description": "Orchestre de chambre zurichois : actualités, postes et direction.",
+    "traductions": {
+      "de": {
+        "description": "Zürcher Kammerorchester: Neuigkeiten, Stellen und Leitung."
+      },
+      "it": {
+        "description": "Orchestra da camera di Zurigo: notizie, posti e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Orchestra della Svizzera italiana",
+    "url": "https://www.osi.swiss/press",
+    "categorie": "Orchestres",
+    "description": "Orchestre de la Suisse italienne : communiqués, postes et direction.",
+    "traductions": {
+      "de": {
+        "description": "Orchestra della Svizzera italiana: Medienmitteilungen, Stellen und Leitung."
+      },
+      "it": {
+        "description": "Orchestra della Svizzera italiana: comunicati, posti e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Sinfonie Orchester Biel Solothurn (TOBS)",
+    "url": "https://www.tobs.ch/now",
+    "categorie": "Orchestres",
+    "description": "Orchestre bilingue de Bienne-Soleure : actualités, postes et saisons.",
+    "traductions": {
+      "de": {
+        "description": "Zweisprachiges Orchester Biel Solothurn: Neuigkeiten, Stellen und Spielzeiten."
+      },
+      "it": {
+        "description": "Orchestra bilingue di Bienne-Soletta: notizie, posti e stagioni."
+      }
+    }
+  },
+  {
+    "nom": "Ensemble Vocal de Lausanne",
+    "url": "https://www.evl.ch",
+    "categorie": "Chœurs",
+    "description": "Chœur lausannois fondé par Michel Corboz : saisons, projets et financement.",
+    "traductions": {
+      "de": {
+        "description": "Lausanner Chor, gegründet von Michel Corboz: Spielzeiten, Projekte und Finanzierung."
+      },
+      "it": {
+        "description": "Coro losannese fondato da Michel Corboz: stagioni, progetti e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Gli Angeli Genève",
+    "url": "https://www.gliangeligeneve.com",
+    "categorie": "Chœurs",
+    "description": "Ensemble vocal et instrumental baroque genevois.",
+    "traductions": {
+      "de": {
+        "description": "Genfer Barockensemble für Gesang und Instrumente."
+      },
+      "it": {
+        "description": "Ensemble vocale e strumentale barocco ginevrino."
+      }
+    }
+  },
+  {
+    "nom": "Zürcher Sing-Akademie",
+    "url": "https://sing-akademie.ch/en/activities/",
+    "categorie": "Chœurs",
+    "description": "Chœur professionnel zurichois, partenaire du Tonhalle-Orchester : activités et auditions.",
+    "traductions": {
+      "de": {
+        "description": "Professioneller Zürcher Chor, Partner des Tonhalle-Orchesters: Aktivitäten und Vorsingen."
+      },
+      "it": {
+        "description": "Coro professionale zurighese, partner della Tonhalle-Orchester: attività e audizioni."
+      }
+    }
+  },
+  {
+    "nom": "Basler Madrigalisten",
+    "url": "https://www.basler-madrigalisten.ch/vorsingen.html",
+    "categorie": "Chœurs",
+    "description": "Ensemble vocal professionnel bâlois : auditions et projets.",
+    "traductions": {
+      "de": {
+        "description": "Professionelles Basler Vokalensemble: Vorsingen und Projekte."
+      },
+      "it": {
+        "description": "Ensemble vocale professionale di Basilea: audizioni e progetti."
+      }
+    }
+  },
+  {
+    "nom": "RSI — Musica (Coro della RSI)",
+    "url": "https://www.rsi.ch/cultura/musica/",
+    "categorie": "Chœurs",
+    "description": "Rubrique musique de la radio-télévision tessinoise, dont l'actualité du Coro della RSI.",
+    "traductions": {
+      "de": {
+        "description": "Musikrubrik des Tessiner Radios und Fernsehens, inklusive Coro della RSI."
+      },
+      "it": {
+        "description": "Rubrica musicale della RSI, compresa l'attualità del Coro della RSI."
+      }
+    }
+  },
+  {
     "nom": "Grand Théâtre de Genève",
     "url": "https://www.gtg.ch/actualites/",
     "categorie": "Opéras",
@@ -248,6 +486,62 @@
       },
       "it": {
         "description": "Opera di Losanna: reclutamento, stagioni e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Opernhaus Zürich",
+    "url": "https://www.opernhaus.ch/presse/",
+    "categorie": "Opéras",
+    "description": "Opéra de Zurich et Philharmonia Zürich : communiqués, postes et direction.",
+    "traductions": {
+      "de": {
+        "description": "Opernhaus Zürich und Philharmonia Zürich: Medienmitteilungen, Stellen und Leitung."
+      },
+      "it": {
+        "description": "Opera di Zurigo e Philharmonia Zürich: comunicati, posti e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Theater Basel",
+    "url": "https://www.theater-basel.ch/de/medien",
+    "categorie": "Opéras",
+    "description": "Théâtre de Bâle (opéra) : communiqués, postes et direction.",
+    "traductions": {
+      "de": {
+        "description": "Theater Basel (Oper): Medienmitteilungen, Stellen und Leitung."
+      },
+      "it": {
+        "description": "Teatro di Basilea (opera): comunicati, posti e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Lucerne Festival",
+    "url": "https://www.lucernefestival.ch/de/news",
+    "categorie": "Festivals",
+    "description": "Festival de Lucerne : programmation, académie et financement.",
+    "traductions": {
+      "de": {
+        "description": "Lucerne Festival: Programm, Academy und Finanzierung."
+      },
+      "it": {
+        "description": "Lucerne Festival: programmazione, accademia e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Verbier Festival",
+    "url": "https://www.verbierfestival.com/actualites/",
+    "categorie": "Festivals",
+    "description": "Festival de Verbier : académie, orchestres de jeunes et actualités.",
+    "traductions": {
+      "de": {
+        "description": "Verbier Festival: Akademie, Jugendorchester und Neuigkeiten."
+      },
+      "it": {
+        "description": "Verbier Festival: accademia, orchestre giovanili e notizie."
       }
     }
   },
