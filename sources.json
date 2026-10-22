@@ -1,41 +1,548 @@
 [
-  {"nom": "Action Intermittence", "url": "https://action-intermittence.ch/", "categorie": "Syndicats"},
-  {"nom": "SSRS", "url": "https://ssrs.ch/", "categorie": "Syndicats"},
-  {"nom": "USDAM / SMV", "url": "https://smv.ch/fr/", "categorie": "Syndicats"},
-  {"nom": "ARCS", "url": "https://www.arcs-association.ch/", "categorie": "Associations"},
-  {"nom": "SONART", "url": "https://www.sonart.swiss/", "categorie": "Associations"},
-  {"nom": "Bachtrack", "url": "https://bachtrack.com/fr_FR", "categorie": "International"},
-  {"nom": "FIM", "url": "https://www.fim-musicians.org/", "categorie": "International"},
-  {"nom": "Berner Symphonieorchester (Bühnen Bern)", "url": "https://www.buehnenbern.ch", "categorie": "Orchestres"},
-  {"nom": "Orchestre de Chambre de Lausanne", "url": "https://www.ocl.ch/actualites/", "categorie": "Orchestres"},
-  {"nom": "Orchestre de la Suisse Romande", "url": "https://www.osr.ch/en/about-the-osr/news", "categorie": "Orchestres"},
-  {"nom": "Tonhalle-Orchester Zürich", "url": "https://www.tonhalle-orchester.ch", "categorie": "Orchestres"},
-  {"nom": "HEMU — Haute École de Musique", "url": "https://www.hemu.ch", "categorie": "Hautes écoles"},
-  {"nom": "HKB — Hochschule der Künste Bern", "url": "https://www.hkb.bfh.ch", "categorie": "Hautes écoles"},
-  {"nom": "Musik-Akademie Basel", "url": "https://www.musik-akademie.ch", "categorie": "Hautes écoles"},
-  {"nom": "ZHdK — Zürcher Hochschule der Künste", "url": "https://www.zhdk.ch", "categorie": "Hautes écoles"},
-  {"nom": "Initiative Musikvielfalt", "url": "https://musikvielfalt.ch/de/news/", "categorie": "Politique culturelle"},
-  {"nom": "Observatoire romand de la culture", "url": "https://www.observatoire-culture.ch/", "categorie": "Politique culturelle"},
-  {"nom": "Office fédéral de la culture", "url": "https://www.bak.admin.ch/bak/fr/home.html", "categorie": "Politique culturelle"},
-  {"nom": "Pro Helvetia", "url": "https://prohelvetia.ch/fr/", "categorie": "Politique culturelle"},
-  {"nom": "Suisseculture Sociale", "url": "https://www.suisseculture.ch/", "categorie": "Politique culturelle"},
-  {"nom": "Le Temps", "url": "https://www.letemps.ch/culture/musique", "categorie": "Médias"},
-  {"nom": "RTS Culture / Espace 2", "url": "https://www.rts.ch/culture/musiques/", "categorie": "Médias"},
-  {"nom": "Schweizer Musikzeitung", "url": "https://www.musikzeitung.ch/", "categorie": "Médias"},
-  {"nom": "Revue musicale de Suisse romande", "url": "https://www.rmsr.ch", "categorie": "Médias"},
-  {"nom": "Scènes Magazine", "url": "https://www.scenesmagazine.com", "categorie": "Médias"},
-  {"nom": "SRF Kultur — Musik", "url": "https://www.srf.ch/kultur/musik", "categorie": "Médias"},
-  {"nom": "Swissinfo — Culture", "url": "https://www.swissinfo.ch/fre/culture/", "categorie": "Médias"},
-  {"nom": "Conseil suisse de la musique", "url": "https://www.musikrat.ch", "categorie": "Associations"},
-  {"nom": "SSPM / SMPV", "url": "https://www.smpv.ch/news/", "categorie": "Associations"},
-  {"nom": "Association suisse des écoles de musique (VMS)", "url": "https://www.verband-musikschulen.ch/de/medien/medien", "categorie": "Associations"},
-  {"nom": "Orchestres professionnels suisses (orchester.ch)", "url": "https://www.orchester.ch/blog", "categorie": "Associations"},
-  {"nom": "SUISA", "url": "https://blog.suisa.ch/fr/unternehmen/", "categorie": "Droits"},
-  {"nom": "Swissperform", "url": "https://www.swissperform.ch/de/news/", "categorie": "Droits"},
-  {"nom": "Hautes écoles de musique suisses (CHEMS)", "url": "https://www.musikzeitung.ch/en/kategorie/basis/kmhs", "categorie": "Hautes écoles"},
-  {"nom": "Artos — emplois", "url": "https://artos-net.ch/emplois", "categorie": "Emplois"},
-  {"nom": "HEM Genève-Neuchâtel", "url": "https://hem.hesge.ch/la-hem/actualites", "categorie": "Hautes écoles"},
-  {"nom": "Grand Théâtre de Genève", "url": "https://www.gtg.ch/actualites/", "categorie": "Opéras"},
-  {"nom": "Opéra de Lausanne", "url": "https://www.opera-lausanne.ch", "categorie": "Opéras"},
-  {"nom": "Orchestre de Chambre de Genève", "url": "https://locg.ch/fr/explorer", "categorie": "Orchestres"}
+  {
+    "nom": "Action Intermittence",
+    "url": "https://action-intermittence.ch/",
+    "categorie": "Syndicats",
+    "description": "Collectif romand qui milite pour la reconnaissance du statut des intermittent·es du spectacle.",
+    "traductions": {
+      "de": {
+        "description": "Westschweizer Kollektiv, das sich für die Anerkennung des Status der intermittierend Beschäftigten einsetzt."
+      },
+      "it": {
+        "description": "Collettivo romando che si batte per il riconoscimento dello statuto dei e delle lavoratrici intermittenti dello spettacolo."
+      }
+    }
+  },
+  {
+    "nom": "SSRS",
+    "url": "https://ssrs.ch/",
+    "categorie": "Syndicats",
+    "description": "Syndicat romand du spectacle : droits, assurance chômage et prévoyance des artistes de scène.",
+    "traductions": {
+      "de": {
+        "description": "Westschweizer Gewerkschaft der darstellenden Künste: Rechte, Arbeitslosenversicherung und Vorsorge."
+      },
+      "it": {
+        "description": "Sindacato romando dello spettacolo: diritti, assicurazione disoccupazione e previdenza degli artisti di scena."
+      }
+    }
+  },
+  {
+    "nom": "USDAM / SMV",
+    "url": "https://smv.ch/fr/",
+    "categorie": "Syndicats",
+    "description": "Syndicat des musicien·nes d'orchestre et indépendant·es, fondé en 1914.",
+    "traductions": {
+      "de": {
+        "description": "Gewerkschaft der Orchestermusiker:innen und Freischaffenden, gegründet 1914."
+      },
+      "it": {
+        "description": "Sindacato dei e delle musicisti d'orchestra e indipendenti, fondato nel 1914."
+      }
+    }
+  },
+  {
+    "nom": "ARCS",
+    "url": "https://www.arcs-association.ch/",
+    "categorie": "Associations",
+    "description": "Association romande des choristes et solistes lyriques professionnel·les.",
+    "traductions": {
+      "de": {
+        "description": "Westschweizer Verband der professionellen Chorsänger:innen und Gesangssolist:innen."
+      },
+      "it": {
+        "description": "Associazione romanda di coristi e solisti lirici professionisti."
+      }
+    }
+  },
+  {
+    "nom": "SONART",
+    "url": "https://www.sonart.swiss/",
+    "categorie": "Associations",
+    "description": "Principale association professionnelle des musicien·nes en Suisse, tous styles confondus.",
+    "traductions": {
+      "de": {
+        "description": "Wichtigster Berufsverband der Musikschaffenden in der Schweiz, über alle Stile hinweg."
+      },
+      "it": {
+        "description": "Principale associazione professionale dei e delle musicisti in Svizzera, di tutti i generi."
+      }
+    }
+  },
+  {
+    "nom": "Conseil suisse de la musique",
+    "url": "https://www.musikrat.ch",
+    "categorie": "Associations",
+    "description": "Faîtière de la musique en Suisse : prises de position politiques et consultations.",
+    "traductions": {
+      "de": {
+        "description": "Dachverband der Musik in der Schweiz: politische Stellungnahmen und Vernehmlassungen."
+      },
+      "it": {
+        "description": "Organizzazione mantello della musica in Svizzera: prese di posizione politiche e consultazioni."
+      }
+    }
+  },
+  {
+    "nom": "SSPM / SMPV",
+    "url": "https://www.smpv.ch/news/",
+    "categorie": "Associations",
+    "description": "Société suisse de pédagogie musicale : enseignement, tarifs et conditions de travail.",
+    "traductions": {
+      "de": {
+        "description": "Schweizerischer Musikpädagogischer Verband: Unterricht, Tarife und Arbeitsbedingungen."
+      },
+      "it": {
+        "description": "Società svizzera di pedagogia musicale: insegnamento, tariffe e condizioni di lavoro."
+      }
+    }
+  },
+  {
+    "nom": "Association suisse des écoles de musique (VMS)",
+    "url": "https://www.verband-musikschulen.ch/de/medien/medien",
+    "categorie": "Associations",
+    "description": "Faîtière des écoles de musique : statistiques, financement et politique de formation.",
+    "traductions": {
+      "de": {
+        "description": "Verband Musikschulen Schweiz: Statistiken, Finanzierung und Bildungspolitik."
+      },
+      "it": {
+        "description": "Associazione svizzera delle scuole di musica: statistiche, finanziamento e politica formativa."
+      }
+    }
+  },
+  {
+    "nom": "Orchestres professionnels suisses (orchester.ch)",
+    "url": "https://www.orchester.ch/blog",
+    "categorie": "Associations",
+    "description": "Association des orchestres professionnels : conventions, financement et positions.",
+    "traductions": {
+      "de": {
+        "description": "Verband Schweizerischer Berufsorchester: Verträge, Finanzierung und Positionen."
+      },
+      "it": {
+        "description": "Associazione delle orchestre professionali svizzere: contratti, finanziamento e posizioni."
+      }
+    }
+  },
+  {
+    "nom": "SUISA",
+    "url": "https://blog.suisa.ch/fr/unternehmen/",
+    "categorie": "Droits",
+    "description": "Coopérative des auteur·es et éditeurs de musique : droits d'auteur, répartitions, tarifs.",
+    "traductions": {
+      "de": {
+        "description": "Genossenschaft der Urheber:innen und Verleger von Musik: Urheberrechte, Verteilung, Tarife."
+      },
+      "it": {
+        "description": "Cooperativa degli autori ed editori di musica: diritti d'autore, ripartizioni, tariffe."
+      }
+    }
+  },
+  {
+    "nom": "Swissperform",
+    "url": "https://www.swissperform.ch/de/news/",
+    "categorie": "Droits",
+    "description": "Société de gestion des droits voisins des interprètes et producteurs.",
+    "traductions": {
+      "de": {
+        "description": "Verwertungsgesellschaft für die verwandten Schutzrechte von Interpret:innen und Produzent:innen."
+      },
+      "it": {
+        "description": "Società di gestione dei diritti di protezione affini di interpreti e produttori."
+      }
+    }
+  },
+  {
+    "nom": "Berner Symphonieorchester (Bühnen Bern)",
+    "url": "https://www.buehnenbern.ch",
+    "categorie": "Orchestres",
+    "description": "Orchestre de Bühnen Bern : auditions, conventions collectives et communications financières.",
+    "traductions": {
+      "de": {
+        "description": "Orchester von Bühnen Bern: Probespiele, Gesamtarbeitsverträge und Finanzkommunikation."
+      },
+      "it": {
+        "description": "Orchestra di Bühnen Bern: audizioni, contratti collettivi e comunicazioni finanziarie."
+      }
+    }
+  },
+  {
+    "nom": "Orchestre de Chambre de Lausanne",
+    "url": "https://www.ocl.ch/actualites/",
+    "categorie": "Orchestres",
+    "description": "Orchestre lausannois : postes, coproductions, tournées et financement.",
+    "traductions": {
+      "de": {
+        "description": "Lausanner Kammerorchester: Stellen, Koproduktionen, Tourneen und Finanzierung."
+      },
+      "it": {
+        "description": "Orchestra da camera di Losanna: posti, coproduzioni, tournée e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Orchestre de la Suisse Romande",
+    "url": "https://www.osr.ch/en/about-the-osr/news",
+    "categorie": "Orchestres",
+    "description": "Orchestre genevois : concours, auditions, conventions collectives et annonces économiques.",
+    "traductions": {
+      "de": {
+        "description": "Genfer Orchester: Wettbewerbe, Probespiele, Gesamtarbeitsverträge und wirtschaftliche Mitteilungen."
+      },
+      "it": {
+        "description": "Orchestra ginevrina: concorsi, audizioni, contratti collettivi e annunci economici."
+      }
+    }
+  },
+  {
+    "nom": "Tonhalle-Orchester Zürich",
+    "url": "https://www.tonhalle-orchester.ch",
+    "categorie": "Orchestres",
+    "description": "Orchestre zurichois : offres de postes, budget et décisions structurelles.",
+    "traductions": {
+      "de": {
+        "description": "Zürcher Orchester: Stellenangebote, Budget und strukturelle Entscheide."
+      },
+      "it": {
+        "description": "Orchestra zurighese: offerte di lavoro, budget e decisioni strutturali."
+      }
+    }
+  },
+  {
+    "nom": "Orchestre de Chambre de Genève",
+    "url": "https://locg.ch/fr/explorer",
+    "categorie": "Orchestres",
+    "description": "Orchestre genevois : auditions, emplois, direction et financement.",
+    "traductions": {
+      "de": {
+        "description": "Genfer Kammerorchester: Probespiele, Stellen, Leitung und Finanzierung."
+      },
+      "it": {
+        "description": "Orchestra da camera di Ginevra: audizioni, impieghi, direzione e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "Grand Théâtre de Genève",
+    "url": "https://www.gtg.ch/actualites/",
+    "categorie": "Opéras",
+    "description": "Opéra de Genève : auditions, chœur, budget et direction.",
+    "traductions": {
+      "de": {
+        "description": "Genfer Opernhaus: Vorsingen, Chor, Budget und Leitung."
+      },
+      "it": {
+        "description": "Teatro d'opera di Ginevra: audizioni, coro, budget e direzione."
+      }
+    }
+  },
+  {
+    "nom": "Opéra de Lausanne",
+    "url": "https://www.opera-lausanne.ch",
+    "categorie": "Opéras",
+    "description": "Opéra de Lausanne : recrutement, saisons et financement.",
+    "traductions": {
+      "de": {
+        "description": "Oper Lausanne: Stellen, Spielzeiten und Finanzierung."
+      },
+      "it": {
+        "description": "Opera di Losanna: reclutamento, stagioni e finanziamento."
+      }
+    }
+  },
+  {
+    "nom": "HEMU — Haute École de Musique",
+    "url": "https://www.hemu.ch",
+    "categorie": "Hautes écoles",
+    "description": "Haute école de musique de Lausanne, Fribourg et Sion : postes, concours d'entrée, études.",
+    "traductions": {
+      "de": {
+        "description": "Musikhochschule in Lausanne, Freiburg und Sitten: Stellen, Aufnahmeprüfungen, Studien."
+      },
+      "it": {
+        "description": "Scuola universitaria di musica di Losanna, Friburgo e Sion: posti, ammissioni, studi."
+      }
+    }
+  },
+  {
+    "nom": "HKB — Hochschule der Künste Bern",
+    "url": "https://www.hkb.bfh.ch",
+    "categorie": "Hautes écoles",
+    "description": "Haute école des arts de Berne : emplois, orchestres académiques et débuts de carrière.",
+    "traductions": {
+      "de": {
+        "description": "Hochschule der Künste Bern: Stellen, Hochschulorchester und Berufseinstieg."
+      },
+      "it": {
+        "description": "Scuola universitaria delle arti di Berna: impieghi, orchestre accademiche e avvio della carriera."
+      }
+    }
+  },
+  {
+    "nom": "Musik-Akademie Basel",
+    "url": "https://www.musik-akademie.ch",
+    "categorie": "Hautes écoles",
+    "description": "Académie de musique de Bâle et sa haute école (FHNW) : concours, postes, formation.",
+    "traductions": {
+      "de": {
+        "description": "Musik-Akademie Basel mit ihrer Hochschule (FHNW): Wettbewerbe, Stellen, Ausbildung."
+      },
+      "it": {
+        "description": "Accademia di musica di Basilea e la sua scuola universitaria (FHNW): concorsi, posti, formazione."
+      }
+    }
+  },
+  {
+    "nom": "ZHdK — Zürcher Hochschule der Künste",
+    "url": "https://www.zhdk.ch",
+    "categorie": "Hautes écoles",
+    "description": "Haute école des arts de Zurich : emplois, programmes et études sur les parcours des musicien·nes.",
+    "traductions": {
+      "de": {
+        "description": "Zürcher Hochschule der Künste: Stellen, Programme und Studien zu Laufbahnen von Musiker:innen."
+      },
+      "it": {
+        "description": "Scuola universitaria delle arti di Zurigo: impieghi, programmi e studi sui percorsi dei musicisti."
+      }
+    }
+  },
+  {
+    "nom": "Hautes écoles de musique suisses (CHEMS)",
+    "url": "https://www.musikzeitung.ch/en/kategorie/basis/kmhs",
+    "categorie": "Hautes écoles",
+    "description": "Conférence des hautes écoles de musique : formation et politique des hautes écoles.",
+    "traductions": {
+      "de": {
+        "description": "Konferenz Musikhochschulen Schweiz: Ausbildung und Hochschulpolitik."
+      },
+      "it": {
+        "description": "Conferenza delle scuole universitarie di musica svizzere: formazione e politica universitaria."
+      }
+    }
+  },
+  {
+    "nom": "HEM Genève-Neuchâtel",
+    "url": "https://hem.hesge.ch/la-hem/actualites",
+    "categorie": "Hautes écoles",
+    "description": "Haute école de musique de Genève et Neuchâtel : postes, concours et études.",
+    "traductions": {
+      "de": {
+        "description": "Musikhochschule Genf und Neuenburg: Stellen, Wettbewerbe und Studien."
+      },
+      "it": {
+        "description": "Scuola universitaria di musica di Ginevra e Neuchâtel: posti, concorsi e studi."
+      }
+    }
+  },
+  {
+    "nom": "Initiative Musikvielfalt",
+    "url": "https://musikvielfalt.ch/de/news/",
+    "categorie": "Politique culturelle",
+    "description": "Campagne pour une répartition plus équitable des soutiens publics entre les styles musicaux.",
+    "traductions": {
+      "de": {
+        "description": "Kampagne für eine gerechtere Verteilung der öffentlichen Musikförderung zwischen den Stilen."
+      },
+      "it": {
+        "description": "Campagna per una ripartizione più equa dei sostegni pubblici tra i generi musicali."
+      }
+    }
+  },
+  {
+    "nom": "Observatoire romand de la culture",
+    "url": "https://www.observatoire-culture.ch/",
+    "categorie": "Politique culturelle",
+    "description": "Études et données sur l'écosystème culturel romand, rattaché à l'IDHEAP à Lausanne.",
+    "traductions": {
+      "de": {
+        "description": "Studien und Daten zum Westschweizer Kulturbereich, angegliedert an das IDHEAP in Lausanne."
+      },
+      "it": {
+        "description": "Studi e dati sull'ecosistema culturale romando, legato all'IDHEAP di Losanna."
+      }
+    }
+  },
+  {
+    "nom": "Office fédéral de la culture",
+    "url": "https://www.bak.admin.ch/bak/fr/home.html",
+    "categorie": "Politique culturelle",
+    "description": "Message culture, aides de la Confédération et communiqués officiels.",
+    "traductions": {
+      "de": {
+        "description": "Kulturbotschaft, Förderung des Bundes und offizielle Mitteilungen."
+      },
+      "it": {
+        "description": "Messaggio sulla cultura, sostegni della Confederazione e comunicati ufficiali."
+      }
+    }
+  },
+  {
+    "nom": "Pro Helvetia",
+    "url": "https://prohelvetia.ch/fr/",
+    "categorie": "Politique culturelle",
+    "description": "Fondation suisse pour la culture : appels, soutiens aux tournées et aux projets à l'étranger.",
+    "traductions": {
+      "de": {
+        "description": "Schweizer Kulturstiftung: Ausschreibungen, Unterstützung von Tourneen und Projekten im Ausland."
+      },
+      "it": {
+        "description": "Fondazione svizzera per la cultura: bandi, sostegno a tournée e progetti all'estero."
+      }
+    }
+  },
+  {
+    "nom": "Suisseculture Sociale",
+    "url": "https://www.suisseculture.ch/",
+    "categorie": "Politique culturelle",
+    "description": "Faîtière des créateurs culturels, centrée sur la protection sociale des artistes.",
+    "traductions": {
+      "de": {
+        "description": "Dachverband der Kulturschaffenden mit Schwerpunkt soziale Sicherheit."
+      },
+      "it": {
+        "description": "Organizzazione mantello degli operatori culturali, incentrata sulla protezione sociale degli artisti."
+      }
+    }
+  },
+  {
+    "nom": "Le Temps",
+    "url": "https://www.letemps.ch/culture/musique",
+    "categorie": "Médias",
+    "description": "Quotidien romand dont la rubrique musique couvre aussi la politique culturelle.",
+    "traductions": {
+      "de": {
+        "description": "Westschweizer Tageszeitung, deren Musikressort auch Kulturpolitik behandelt."
+      },
+      "it": {
+        "description": "Quotidiano romando la cui rubrica musicale tratta anche di politica culturale."
+      }
+    }
+  },
+  {
+    "nom": "RTS Culture / Espace 2",
+    "url": "https://www.rts.ch/culture/musiques/",
+    "categorie": "Médias",
+    "description": "Actualité musicale et classique de la radio-télévision publique romande.",
+    "traductions": {
+      "de": {
+        "description": "Musik- und Klassiknachrichten des Westschweizer Radios und Fernsehens."
+      },
+      "it": {
+        "description": "Attualità musicale e classica della radiotelevisione pubblica romanda."
+      }
+    }
+  },
+  {
+    "nom": "Schweizer Musikzeitung",
+    "url": "https://www.musikzeitung.ch/",
+    "categorie": "Médias",
+    "description": "Revue musicale suisse, publiée avec plusieurs associations professionnelles.",
+    "traductions": {
+      "de": {
+        "description": "Schweizer Musikzeitung, herausgegeben mit mehreren Berufsverbänden."
+      },
+      "it": {
+        "description": "Rivista musicale svizzera, pubblicata con diverse associazioni professionali."
+      }
+    }
+  },
+  {
+    "nom": "Revue musicale de Suisse romande",
+    "url": "https://www.rmsr.ch",
+    "categorie": "Médias",
+    "description": "Revue consacrée à la vie musicale romande, à ses institutions et à ses débats.",
+    "traductions": {
+      "de": {
+        "description": "Zeitschrift über das Westschweizer Musikleben, seine Institutionen und Debatten."
+      },
+      "it": {
+        "description": "Rivista dedicata alla vita musicale romanda, alle sue istituzioni e ai suoi dibattiti."
+      }
+    }
+  },
+  {
+    "nom": "Scènes Magazine",
+    "url": "https://www.scenesmagazine.com",
+    "categorie": "Médias",
+    "description": "Magazine culturel romand : opéra, concerts, saisons et nominations.",
+    "traductions": {
+      "de": {
+        "description": "Westschweizer Kulturmagazin: Oper, Konzerte, Spielzeiten und Ernennungen."
+      },
+      "it": {
+        "description": "Rivista culturale romanda: opera, concerti, stagioni e nomine."
+      }
+    }
+  },
+  {
+    "nom": "SRF Kultur — Musik",
+    "url": "https://www.srf.ch/kultur/musik",
+    "categorie": "Médias",
+    "description": "Actualité musicale de la radio-télévision publique alémanique.",
+    "traductions": {
+      "de": {
+        "description": "Musiknachrichten von Schweizer Radio und Fernsehen."
+      },
+      "it": {
+        "description": "Attualità musicale della radiotelevisione pubblica svizzero-tedesca."
+      }
+    }
+  },
+  {
+    "nom": "Swissinfo — Culture",
+    "url": "https://www.swissinfo.ch/fre/culture/",
+    "categorie": "Médias",
+    "description": "Actualité culturelle suisse en français, dont la politique culturelle.",
+    "traductions": {
+      "de": {
+        "description": "Schweizer Kulturnachrichten auf Französisch, auch zur Kulturpolitik."
+      },
+      "it": {
+        "description": "Attualità culturale svizzera in francese, compresa la politica culturale."
+      }
+    }
+  },
+  {
+    "nom": "Bachtrack",
+    "url": "https://bachtrack.com/fr_FR",
+    "categorie": "International",
+    "description": "Agenda et critiques de concerts classiques en Europe et au-delà.",
+    "traductions": {
+      "de": {
+        "description": "Agenda und Kritiken klassischer Konzerte in Europa und darüber hinaus."
+      },
+      "it": {
+        "description": "Agenda e recensioni di concerti classici in Europa e oltre."
+      }
+    }
+  },
+  {
+    "nom": "FIM",
+    "url": "https://www.fim-musicians.org/",
+    "categorie": "International",
+    "description": "Fédération internationale des musicien·nes, qui regroupe les syndicats du monde entier.",
+    "traductions": {
+      "de": {
+        "description": "Internationale Musikerföderation, Dachverband der Musikergewerkschaften weltweit."
+      },
+      "it": {
+        "description": "Federazione internazionale dei musicisti, che riunisce i sindacati di tutto il mondo."
+      }
+    }
+  },
+  {
+    "nom": "Artos — emplois",
+    "url": "https://artos-net.ch/emplois",
+    "categorie": "Emplois",
+    "description": "Offres d'emploi du secteur culturel romand ; seules celles liées à la musique classique sont retenues.",
+    "traductions": {
+      "de": {
+        "description": "Stellenangebote der Westschweizer Kulturbranche; berücksichtigt werden nur jene zur klassischen Musik."
+      },
+      "it": {
+        "description": "Offerte di lavoro del settore culturale romando; si considerano solo quelle legate alla musica classica."
+      }
+    }
+  }
 ]
