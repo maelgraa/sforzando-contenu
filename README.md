@@ -1,6 +1,6 @@
 # sforzando-contenu
 
-Contenu publié par la veille automatique de **Sforzando** (https://swiss-classical-pulse.lovable.app).
+Contenu publié par la veille automatique de **tempo730** (https://swiss-classical-pulse.lovable.app).
 
 - `articles.json`, `bulletins.json` : publications, les plus récentes en premier. Le site les lit directement.
 - `sources.json` : sources suivies par la veille.

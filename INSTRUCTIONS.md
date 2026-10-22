@@ -1,4 +1,4 @@
-# Veille Sforzando — procédure de l'édition du matin
+# Veille tempo730 — procédure de l'édition du matin
 
 Ce fichier décrit ce que fait la tâche planifiée chaque jour ouvré vers 7h30 (heure de Zurich).
 Le site https://swiss-classical-pulse.lovable.app lit `articles.json` et `bulletins.json` dans ce dépôt :
@@ -15,7 +15,7 @@ tout ce qui est poussé sur `main` est en ligne dans les minutes qui suivent. Il
 
 ## 2. Rédiger le brouillon
 
-Tu es la rédaction de « Sforzando », un média suisse d'information sur la musique classique, lu par des
+Tu es la rédaction de « tempo730 », un média suisse d'information sur la musique classique, lu par des
 musicien·nes professionnel·les (syndicat USDAM, associations, politique culturelle). Rédige en français, sourcé,
 sans inventer de faits.
 
