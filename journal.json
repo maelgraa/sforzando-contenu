@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-10-22",
+    "edition": "Matin",
+    "publie_le": "2026-10-22T12:59:13.379Z",
+    "articles": 4,
+    "bulletins": 3,
+    "sources_lues": 19,
+    "sources_total": 23,
+    "detail": "4 articles, 3 bulletins, 0 doublons écartés, 19/23 sources lues",
+    "ecartes": [],
+    "remarques": "Édition de rattrapage (21-22 octobre) rédigée à la main. Le Temps et RTS refusent la lecture automatique. bso.ch et musikakademie.ch n'étaient pas les bons sites : remplacés par buehnenbern.ch et musik-akademie.ch."
+  }
+]

@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "2026-10-22-tonhalle-orchester-zurich-chef-fe-d-equipe-du-bureau-de-l-orchestre-100",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-22",
+    "titre": "Tonhalle-Orchester Zürich : chef·fe d'équipe du bureau de l'orchestre (100 %)",
+    "info": "Poste publié le 20 octobre, entrée au 1er janvier 2027 ou à convenir : direction opérationnelle et organisationnelle du bureau de l'orchestre. Délai : voir la fiche de poste.",
+    "source": {
+      "label": "Tonhalle-Orchester Zürich",
+      "url": "https://www.tonhalle-orchester.ch/news/teamleiter-in-orchesterbuero-gesucht-1/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Tonhalle-Orchester Zürich: Teamleiter:in Orchesterbüro (100 %)",
+        "info": "Am 20. Oktober ausgeschrieben, Stellenantritt am 1. Januar 2027 oder nach Vereinbarung: operative und organisatorische Leitung des Orchesterbüros. Frist: siehe Stellenbeschrieb."
+      },
+      "it": {
+        "titre": "Tonhalle-Orchester Zürich: capo team dell'ufficio d'orchestra (100 %)",
+        "info": "Posto pubblicato il 20 ottobre, entrata in funzione il 1° gennaio 2027 o da convenire: direzione operativa e organizzativa dell'ufficio d'orchestra. Termine: vedi il bando."
+      }
+    }
+  },
+  {
+    "id": "2026-10-22-pro-helvetia-specialiste-musique-70-domaine-pop",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-22",
+    "titre": "Pro Helvetia : spécialiste musique (70 %), domaine pop",
+    "info": "Poste à Zurich (télétravail partiel possible) dans la division Musique, entrée au 1er mai 2027 ou à convenir. Candidatures jusqu'au 15 novembre 2026.",
+    "source": {
+      "label": "SONART — offre de Pro Helvetia",
+      "url": "https://www.sonart.swiss/de/gut-zu-wissen/pro-helvetia-fachspezialistin-musik-70-1387/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Pro Helvetia: Fachspezialist:in Musik (70 %), Schwerpunkt Pop",
+        "info": "Stelle in Zürich (teilweise Homeoffice möglich) in der Abteilung Musik, Antritt am 1. Mai 2027 oder nach Vereinbarung. Bewerbungen bis 15. November 2026."
+      },
+      "it": {
+        "titre": "Pro Helvetia: specialista musica (70 %), ambito pop",
+        "info": "Posto a Zurigo (telelavoro parziale possibile) nella divisione Musica, entrata il 1° maggio 2027 o da convenire. Candidature entro il 15 novembre 2026."
+      }
+    }
+  },
+  {
+    "id": "2026-10-22-basel-sinfonietta-paul-taro-schmidt-remporte-le-concours-de-composition",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-22",
+    "titre": "Basel Sinfonietta : Paul Taro Schmidt remporte le concours de composition",
+    "info": "Prix de 5000 francs et commande d'une œuvre d'une dizaine de minutes, créée le 19 septembre 2027 au Stadtcasino de Bâle en ouverture de saison.",
+    "source": {
+      "label": "Revue musicale suisse",
+      "url": "https://www.musikzeitung.ch/news/2026/10/schmidt-gewinnt-wettbewerb-der-basel-sinfonietta"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Basel Sinfonietta: Paul Taro Schmidt gewinnt den Kompositionswettbewerb",
+        "info": "Preis von 5000 Franken und Auftrag für ein rund zehnminütiges Werk, uraufgeführt am 19. September 2027 im Stadtcasino Basel zur Saisoneröffnung."
+      },
+      "it": {
+        "titre": "Basel Sinfonietta: Paul Taro Schmidt vince il concorso di composizione",
+        "info": "Premio di 5000 franchi e commissione di un'opera di una decina di minuti, in prima assoluta il 19 settembre 2027 allo Stadtcasino di Basilea per l'apertura della stagione."
+      }
+    }
+  }
+]
