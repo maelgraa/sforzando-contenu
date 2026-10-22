@@ -21,7 +21,14 @@ const opt = (nom) => { const i = args.indexOf(nom); return i >= 0 ? args[i + 1] 
 const essai = args.includes("--essai");
 const dateZurich = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Zurich" }).format(new Date());
 const date = opt("--date") ?? dateZurich;
-if (!fichier) { console.error("Usage : node scripts/publier.mjs brouillon.json --sources-lues N --sources-total M"); process.exit(2); }
+if (!fichier) { console.error("Usage : node scripts/publier.mjs brouillon.json --sources-lues N --sources-total M [--remarques \"…\"]"); process.exit(2); }
+const sourcesLues = Number(opt("--sources-lues"));
+const sourcesTotal = Number(opt("--sources-total"));
+if (!Number.isInteger(sourcesLues) || !Number.isInteger(sourcesTotal) || sourcesLues < 1) {
+  console.error("Refusé : indique --sources-lues (au moins 1) et --sources-total. Sans aucune source lue, on ne publie rien.");
+  process.exit(1);
+}
+const remarques = opt("--remarques") ?? "";
 
 const lire = (nom, defaut) => (existsSync(join(RACINE, nom)) ? JSON.parse(readFileSync(join(RACINE, nom), "utf8")) : defaut);
 const ecrire = (nom, data) => writeFileSync(join(RACINE, nom), JSON.stringify(data, null, 2) + "\n");
@@ -116,7 +123,7 @@ for (const b of buls) {
   deja.push({ titre: b.titre, url: b.source?.url });
 }
 
-const detail = `${nouveauxArticles.length} articles, ${nouveauxBulletins.length} bulletins, ${ecartes.length} doublons écartés, ${opt("--sources-lues") ?? "?"}/${opt("--sources-total") ?? "?"} sources lues`;
+const detail = `${nouveauxArticles.length} articles, ${nouveauxBulletins.length} bulletins, ${ecartes.length} doublons écartés, ${sourcesLues}/${sourcesTotal} sources lues`;
 console.log(`Édition du ${date} : ${detail}`);
 for (const a of nouveauxArticles) console.log(`  + article  ${a.id}`);
 for (const b of nouveauxBulletins) console.log(`  + bulletin ${b.id}`);
@@ -127,4 +134,8 @@ if (essai) { console.log("(essai : rien n'a été écrit)"); process.exit(0); }
 ecrire("articles.json", [...nouveauxArticles, ...articles]);
 ecrire("bulletins.json", [...nouveauxBulletins, ...bulletins]);
 const journal = lire("journal.json", []);
-ecrire("journal.json", [{ date, edition: EDITION, publie_le: new Date().toISOString(), detail, ecartes }, ...journal].slice(0, 90));
+ecrire("journal.json", [{
+  date, edition: EDITION, publie_le: new Date().toISOString(),
+  articles: nouveauxArticles.length, bulletins: nouveauxBulletins.length, sources_lues: sourcesLues, sources_total: sourcesTotal,
+  detail, ecartes, ...(remarques ? { remarques } : {}),
+}, ...journal].slice(0, 90));

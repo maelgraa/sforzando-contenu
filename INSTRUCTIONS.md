@@ -56,12 +56,22 @@ node scripts/publier.mjs /chemin/brouillon.json --sources-lues N --sources-total
 node scripts/publier.mjs /chemin/brouillon.json --sources-lues N --sources-total M           # publication
 ```
 
+Ajoute `--remarques "…"` pour noter les problèmes rencontrés (sources illisibles et message d'erreur exact,
+outil refusé, etc.) : ils sont conservés dans `journal.json`, que Maël et Claude consultent pour suivre la veille.
+
 Le script refuse un brouillon mal formé (corrige-le et relance), écarte les doublons, attribue les identifiants et
-la date du jour (heure de Zurich), et note le passage dans `journal.json`. Ensuite :
+la date du jour (heure de Zurich), et note le passage dans `journal.json`. Il refuse aussi un passage où aucune
+source n'a été lue : dans ce cas, ne publie rien, ne pousse rien, et explique le problème dans ton compte rendu.
+Ensuite :
 
 ```bash
 git add -A && git commit -m "Édition du matin AAAA-MM-JJ" && git push origin main
 ```
 
-Même sans article ni bulletin, le passage est noté dans `journal.json` et poussé, pour garder une trace.
+## Jours sans nouvelle
+
+Si les sources ont été lues mais que rien n'est nouveau ni pertinent, publie un brouillon vide
+(`{"articles": [], "bulletins": []}`) : c'est normal. Le passage est noté dans `journal.json` et poussé ; le site
+affiche alors la date de la veille et indique qu'aucune nouvelle n'a été retenue. N'invente jamais un sujet pour
+remplir l'édition.
 Ne réécris jamais l'historique git (pas de force push).
