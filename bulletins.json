@@ -1,5 +1,152 @@
 [
   {
+    "id": "2026-10-23-tobs-la-direction-intendanz-mise-au-concours-pour-juillet-2028",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-23",
+    "titre": "TOBS! : la direction (Intendanz) mise au concours pour juillet 2028",
+    "info": "Theater Orchester Biel Solothurn cherche une personnalité, ou une direction en équipe, pour son Intendanz dès juillet 2028, avec expérience de l'opéra et bonne maîtrise de l'allemand et du français. Candidatures jusqu'au 13 novembre 2026 auprès d'Anna Barbara Remund, présidente du conseil de fondation.",
+    "source": {
+      "label": "TOBS! — Offene Stellen : Intendanz",
+      "url": "https://www.tobs.ch/ueber-tobs/arbeiten-bei-tobs/offene-stellen/intendanz-tobs"
+    },
+    "traductions": {
+      "de": {
+        "titre": "TOBS!: Intendanz ab Juli 2028 ausgeschrieben",
+        "info": "Theater Orchester Biel Solothurn sucht per Juli 2028 eine Persönlichkeit oder ein Team für die Intendanz, mit Opernerfahrung sowie guten Deutsch- und Französischkenntnissen. Bewerbungen bis 13. November 2026 an Stiftungsratspräsidentin Anna Barbara Remund."
+      },
+      "it": {
+        "titre": "TOBS!: messa a concorso la direzione (Intendanz) da luglio 2028",
+        "info": "Theater Orchester Biel Solothurn cerca una personalità, o una direzione in team, per l'Intendanz da luglio 2028, con esperienza operistica e buona padronanza di tedesco e francese. Candidature entro il 13 novembre 2026 presso Anna Barbara Remund, presidente del consiglio di fondazione."
+      }
+    }
+  },
+  {
+    "id": "2026-10-23-buhnen-bern-poste-de-1er-ere-kapellmeister-in-a-l-opera",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-23",
+    "titre": "Bühnen Bern : poste de 1er·ère Kapellmeister·in à l'Opéra",
+    "info": "Bühnen Bern recrute un·e 1er·ère Kapellmeister·in et assistant·e musical·e de la cheffe principale (100 %), entrée le 1er août 2027, salaire selon la CCT Solo ; épreuves de direction les 26 février et 5 mars 2027. Délai : 15 novembre 2026.",
+    "source": {
+      "label": "Bühnen Bern — Jobs",
+      "url": "https://buehnenbern.ch/uber-uns/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Bühnen Bern: Stelle als 1. Kapellmeister:in an der Oper",
+        "info": "Bühnen Bern sucht eine:n 1. Kapellmeister:in und musikalische:n Assistent:in der Chefdirigentin (100 %), Eintritt 1. August 2027, Gage nach GAV Solo; Vordirigate am 26. Februar und 5. März 2027. Bewerbungsfrist: 15. November 2026."
+      },
+      "it": {
+        "titre": "Bühnen Bern: posto di 1° Kapellmeister all'Opera",
+        "info": "Bühnen Bern cerca un·a 1° Kapellmeister e assistente musicale della direttrice principale (100 %), entrata il 1° agosto 2027, salario secondo il CCL Solo; prove di direzione il 26 febbraio e il 5 marzo 2027. Termine: 15 novembre 2026."
+      }
+    }
+  },
+  {
+    "id": "2026-10-23-tonhalle-orchester-zurich-quatre-postes-de-musicien-nes-au-concours",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-23",
+    "titre": "Tonhalle-Orchester Zürich : quatre postes de musicien·nes au concours",
+    "info": "Le Tonhalle-Orchester Zürich recrute un alto tutti et une contrebasse tutti (délai 1er novembre 2026), une 2e/3e/4e trompette (29 novembre 2026) et une flûte solo avec obligation de 2e/3e flûte (10 janvier 2027). Candidatures uniquement via muvac.",
+    "source": {
+      "label": "Tonhalle-Orchester Zürich — Jobs",
+      "url": "https://tonhalle-orchester.ch/ueber-uns/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Tonhalle-Orchester Zürich: vier Orchesterstellen ausgeschrieben",
+        "info": "Das Tonhalle-Orchester Zürich sucht Tutti-Viola und Tutti-Kontrabass (Frist 1. November 2026), 2./3./4. Trompete (29. November 2026) sowie Solo-Flöte mit Verpflichtung zur 2./3. Flöte (10. Januar 2027). Bewerbungen ausschliesslich über muvac."
+      },
+      "it": {
+        "titre": "Tonhalle-Orchester Zürich: quattro posti d'orchestra a concorso",
+        "info": "La Tonhalle-Orchester Zürich cerca una viola di fila e un contrabbasso di fila (termine 1° novembre 2026), una 2a/3a/4a tromba (29 novembre 2026) e un flauto solista con obbligo di 2°/3° flauto (10 gennaio 2027). Candidature solo tramite muvac."
+      }
+    }
+  },
+  {
+    "id": "2026-10-23-osr-concours-de-second-violon-et-d-alto-tutti-delai-le-29-novembre",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-23",
+    "titre": "OSR : concours de second violon et d'alto tutti, délai le 29 novembre",
+    "info": "L'Orchestre de la Suisse Romande organise des concours de 2e violon tutti (15 février 2027) et d'alto tutti (16 février 2027), inscriptions jusqu'au 29 novembre 2026 ; trois postes de 1er violon tutti suivront le 14 mai 2027 (inscriptions du 1er décembre 2026 au 28 février 2027).",
+    "source": {
+      "label": "OSR — Concours et auditions",
+      "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions?instrument=violin&cHash=16dfb95f7562f8eeb89e390e1c6cef66"
+    },
+    "traductions": {
+      "de": {
+        "titre": "OSR: Probespiele für 2. Violine und Viola tutti, Frist 29. November",
+        "info": "Das Orchestre de la Suisse Romande führt Probespiele für 2. Violine tutti (15. Februar 2027) und Viola tutti (16. Februar 2027) durch, Anmeldung bis 29. November 2026; drei Stellen 1. Violine tutti folgen am 14. Mai 2027 (Anmeldung 1. Dezember 2026 bis 28. Februar 2027)."
+      },
+      "it": {
+        "titre": "OSR: concorsi per secondo violino e viola di fila, termine il 29 novembre",
+        "info": "L'Orchestre de la Suisse Romande organizza concorsi per 2° violino di fila (15 febbraio 2027) e viola di fila (16 febbraio 2027), iscrizioni entro il 29 novembre 2026; seguiranno tre posti di 1° violino di fila il 14 maggio 2027 (iscrizioni dal 1° dicembre 2026 al 28 febbraio 2027)."
+      }
+    }
+  },
+  {
+    "id": "2026-10-23-sinfonieorchester-basel-contrebasse-tutti-75-candidatures-jusqu-au-26-octobre",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-23",
+    "titre": "Sinfonieorchester Basel : contrebasse tutti (75 %), candidatures jusqu'au 26 octobre",
+    "info": "Le Sinfonieorchester Basel organise le 7 décembre 2026 un Probespiel pour un poste de contrebasse tutti à 75 %, entrée le 1er août 2027. Candidatures via muvac jusqu'au 26 octobre 2026.",
+    "source": {
+      "label": "Sinfonieorchester Basel — Career",
+      "url": "https://www.sinfonieorchesterbasel.ch/en/career"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Sinfonieorchester Basel: Tutti-Kontrabass (75 %), Bewerbung bis 26. Oktober",
+        "info": "Das Sinfonieorchester Basel führt am 7. Dezember 2026 ein Probespiel für eine Tutti-Kontrabass-Stelle zu 75 % durch, Eintritt 1. August 2027. Bewerbungen über muvac bis 26. Oktober 2026."
+      },
+      "it": {
+        "titre": "Sinfonieorchester Basel: contrabbasso di fila (75 %), candidature entro il 26 ottobre",
+        "info": "La Sinfonieorchester Basel organizza il 7 dicembre 2026 un'audizione per un posto di contrabbasso di fila al 75 %, entrata il 1° agosto 2027. Candidature tramite muvac entro il 26 ottobre 2026."
+      }
+    }
+  },
+  {
+    "id": "2026-10-23-ville-de-berne-4-59-millions-pour-la-musikschule-konservatorium-bern-en-2027",
+    "categorie": "Annonces économiques",
+    "date": "2026-10-23",
+    "titre": "Ville de Berne : 4,59 millions pour la Musikschule Konservatorium Bern en 2027",
+    "info": "Le Conseil municipal de Berne a approuvé le contrat de prestations 2027 avec la Stiftung Musikschule Konservatorium Bern : 4,59 millions de francs, soit 112 500 francs de plus que l'année précédente, en raison de la hausse du nombre d'élèves et des coûts salariaux.",
+    "source": {
+      "label": "Revue musicale suisse — Leistungsvertrag mit Konsibern genehmigt",
+      "url": "https://www.musikzeitung.ch/en/news/2026/10/leistungsvertrag-mit-konsibern-genehmigt"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Stadt Bern: 4,59 Millionen für die Musikschule Konservatorium Bern 2027",
+        "info": "Der Berner Gemeinderat hat den Leistungsvertrag 2027 mit der Stiftung Musikschule Konservatorium Bern genehmigt: 4,59 Millionen Franken, 112 500 Franken mehr als im Vorjahr, wegen mehr Schüler:innen und höherer Lohnkosten."
+      },
+      "it": {
+        "titre": "Città di Berna: 4,59 milioni per la Musikschule Konservatorium Bern nel 2027",
+        "info": "Il Municipio di Berna ha approvato il contratto di prestazioni 2027 con la Stiftung Musikschule Konservatorium Bern: 4,59 milioni di franchi, 112 500 franchi in più rispetto all'anno precedente, a causa dell'aumento degli allievi e dei costi salariali."
+      }
+    }
+  },
+  {
+    "id": "2026-10-23-concours-kattenburg-2026-premier-prix-pour-yurii-strakhov",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-23",
+    "titre": "Concours Kattenburg 2026 : premier prix pour Yurii Strakhov",
+    "info": "Yurii Strakhov a remporté le premier prix du Concours Kattenburg de l'HEMU, dont la finale réunissait six chanteur·euses le 16 octobre à l'Opéra de Lausanne avec l'Orchestre de l'HEMU dirigé par Jean-Marie Zeitouni.",
+    "source": {
+      "label": "HEMU — Actualités",
+      "url": "https://www.hemu.ch/en/the-hemu/news"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Kattenburg-Wettbewerb 2026: Erster Preis für Yurii Strakhov",
+        "info": "Yurii Strakhov hat den ersten Preis des Kattenburg-Wettbewerbs der HEMU gewonnen; im Finale traten am 16. Oktober an der Opéra de Lausanne sechs Sänger:innen mit dem Orchester der HEMU unter Jean-Marie Zeitouni auf."
+      },
+      "it": {
+        "titre": "Concorso Kattenburg 2026: primo premio a Yurii Strakhov",
+        "info": "Yurii Strakhov ha vinto il primo premio del Concorso Kattenburg dell'HEMU; la finale ha riunito il 16 ottobre all'Opéra de Lausanne sei cantanti con l'Orchestra dell'HEMU diretta da Jean-Marie Zeitouni."
+      }
+    }
+  },
+  {
     "id": "2026-10-22-tonhalle-orchester-zurich-chef-fe-d-equipe-du-bureau-de-l-orchestre-100",
     "categorie": "Emplois & enseignement",
     "date": "2026-10-22",

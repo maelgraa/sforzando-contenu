@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-10-23",
+    "edition": "Matin",
+    "publie_le": "2026-10-23T05:36:57.379Z",
+    "articles": 5,
+    "bulletins": 7,
+    "sources_lues": 56,
+    "sources_total": 60,
+    "detail": "5 articles, 7 bulletins, 0 doublons écartés, 56/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées (l'opérateur site: ne filtre pas). Non lues : Theater Basel (SERVER_ERROR « There was an error while fetching. »), Le Temps et RTS (« failed at its site (client_error) »), RMSR (redirection 302 https→http). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre. Rumeur Ilona Schmiel/Berliner Philharmoniker (SMZ 22.10) écartée car non confirmée."
+  },
+  {
     "date": "2026-10-22",
     "edition": "Matin",
     "publie_le": "2026-10-22T12:59:13.379Z",
