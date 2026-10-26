@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-10-26-concours-suisse-de-musique-pour-la-jeunesse-2027-inscriptions-du-1er-au-30-novem",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-26",
+    "titre": "Concours suisse de musique pour la jeunesse 2027 : inscriptions du 1er au 30 novembre",
+    "info": "La 52e édition du Concours suisse de musique pour la jeunesse ouvre ses inscriptions du 1er au 30 novembre 2026 (projets Composition et FreeSpace jusqu'au 31 décembre) ; concours régionaux du 26 au 28 février 2027, finales du 9 au 11 avril 2027 à Lucerne. Nouveauté : une catégorie Pop/Rock/Jazz en solo remplace l'ancien concours Jazz & Pop.",
+    "source": {
+      "label": "Schweizer Musikzeitung — 52. Schweizerischer Jugendmusikwettbewerb (15.10.2026)",
+      "url": "https://www.musikzeitung.ch/en/basis/sjmw/2026/10/52-schweizerischer-jugendmusikwettbewerb-erweitertes-angebot"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Schweizerischer Jugendmusikwettbewerb 2027: Anmeldung vom 1. bis 30. November",
+        "info": "Für den 52. Schweizerischen Jugendmusikwettbewerb läuft die Anmeldung vom 1. bis 30. November 2026 (Projekte Komposition und FreeSpace bis 31. Dezember); Regionalwettbewerbe vom 26. bis 28. Februar 2027, Finale vom 9. bis 11. April 2027 in Luzern. Neu ersetzt eine Kategorie Pop/Rock/Jazz für Solo den bisherigen Wettbewerb Jazz & Pop."
+      },
+      "it": {
+        "titre": "Concorso svizzero di musica per la gioventù 2027: iscrizioni dal 1° al 30 novembre",
+        "info": "Per la 52a edizione del Concorso svizzero di musica per la gioventù le iscrizioni sono aperte dal 1° al 30 novembre 2026 (progetti Composizione e FreeSpace entro il 31 dicembre); concorsi regionali dal 26 al 28 febbraio 2027, finali dal 9 all'11 aprile 2027 a Lucerna. Novità: una categoria Pop/Rock/Jazz solista sostituisce il precedente concorso Jazz & Pop."
+      }
+    }
+  },
+  {
+    "id": "2026-10-26-luzerner-sinfonieorchester-specialiste-en-administration-du-personnel-et-des-fin",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-26",
+    "titre": "Luzerner Sinfonieorchester : spécialiste en administration du personnel et des finances (60 %)",
+    "info": "Le Luzerner Sinfonieorchester cherche une personne spécialiste en administration du personnel et des finances à 60 %, pour le 1er février 2027 ou à convenir ; aucun délai de candidature n'est indiqué.",
+    "source": {
+      "label": "Luzerner Sinfonieorchester — Jobs",
+      "url": "https://sinfonieorchester.ch/de/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Luzerner Sinfonieorchester: Fachperson Personal- und Finanzadministration (60 %)",
+        "info": "Das Luzerner Sinfonieorchester sucht per 1. Februar 2027 oder nach Vereinbarung eine Fachperson Personal- und Finanzadministration (60 %); eine Bewerbungsfrist ist nicht angegeben."
+      },
+      "it": {
+        "titre": "Luzerner Sinfonieorchester: specialista in amministrazione del personale e delle finanze (60%)",
+        "info": "Il Luzerner Sinfonieorchester cerca uno specialista in amministrazione del personale e delle finanze al 60%, dal 1° febbraio 2027 o da convenire; non è indicato un termine di candidatura."
+      }
+    }
+  },
+  {
     "id": "2026-10-23-tobs-la-direction-intendanz-mise-au-concours-pour-juillet-2028",
     "categorie": "Emplois & enseignement",
     "date": "2026-10-23",

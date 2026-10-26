@@ -1,5 +1,162 @@
 [
   {
+    "id": "2026-10-26-conseils-de-la-musique-d-a-ch-une-declaration-commune-pour-la-liberte-artistique",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-10-26",
+    "titre": "Conseils de la musique D-A-CH : une déclaration commune pour la liberté artistique et le financement public",
+    "chapo": "Réunis à Leipzig les 5 et 6 octobre, les conseils de la musique d'Allemagne, d'Autriche et de Suisse demandent un financement public adéquat de la musique, même en période de ressources limitées.",
+    "corps": [
+      "La 20e rencontre annuelle à huis clos des présidences des conseils de la musique d'Allemagne, d'Autriche et de Suisse s'est tenue les 5 et 6 octobre 2026 à Leipzig, à l'invitation de la Bibliothèque nationale allemande ; le Conseil européen de la musique y était invité. La déclaration finale, relayée par le Conseil suisse de la musique, pose que « les investissements dans la vie musicale sont des investissements dans l'avenir » et que la liberté artistique, garantie par les constitutions des trois pays, est « le fondement de toute politique d'encouragement ».",
+      "Le texte réclame un cadre réglementaire clair pour le marché numérique, avec une protection et une application effectives de la propriété intellectuelle, et des règles sur l'intelligence artificielle garantissant aux ayants droit une part appropriée de la valeur créée. Il salue l'introduction en Allemagne de règles communes de rémunération du streaming.",
+      "Les conseils soutiennent les réformes du service public audiovisuel qui renforcent son rôle démocratique et lui assurent un financement adéquat, et demandent que la reconnaissance de la musique se traduise par un soutien public approprié, même lorsque les ressources sont limitées. La déclaration ne contient pas de chiffres."
+    ],
+    "sources": [
+      {
+        "label": "Conseil suisse de la musique — La vie musicale a besoin de liberté et de diversité (6.10.2026)",
+        "url": "https://www.musikrat.ch/fr/post/la-vie-musicale-a-besoin-de-liberté-et-de-diversité"
+      },
+      {
+        "label": "Schweizer Musikzeitung — Das Musikleben braucht Freiheit und Vielfalt (6.10.2026)",
+        "url": "https://www.musikzeitung.ch/en/basis/smr/2026/10/das-musikleben-braucht-freiheit-und-vielfalt"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Musikräte D-A-CH: gemeinsame Erklärung für künstlerische Freiheit und öffentliche Förderung",
+        "chapo": "Die Musikräte Deutschlands, Österreichs und der Schweiz fordern nach ihrem Treffen vom 5. und 6. Oktober in Leipzig eine angemessene öffentliche Musikförderung – auch bei knappen Mitteln.",
+        "corps": [
+          "Das 20. jährliche Treffen der Präsidien der Musikräte Deutschlands, Österreichs und der Schweiz fand am 5. und 6. Oktober 2026 auf Einladung der Deutschen Nationalbibliothek in Leipzig statt; der Europäische Musikrat war zu Gast. Die vom Schweizer Musikrat verbreitete Schlusserklärung hält fest, dass Investitionen ins Musikleben Investitionen in die Zukunft sind und die in den Verfassungen der drei Länder garantierte Kunstfreiheit die Grundlage jeder Förderpolitik bildet.",
+          "Gefordert wird ein klarer Rechtsrahmen für den digitalen Markt mit wirksamem Schutz und Durchsetzung des geistigen Eigentums sowie Regeln für künstliche Intelligenz, die den Rechteinhabern einen angemessenen Anteil an der geschaffenen Wertschöpfung sichern. Begrüsst wird die Einführung gemeinsamer Vergütungsregeln für das Streaming in Deutschland.",
+          "Die Musikräte unterstützen Reformen des öffentlichen Rundfunks, die dessen demokratische Rolle stärken und eine angemessene Finanzierung sichern, und verlangen, dass sich die Anerkennung der Musik auch bei begrenzten Mitteln in angemessener öffentlicher Förderung niederschlägt. Zahlen enthält die Erklärung keine."
+        ]
+      },
+      "it": {
+        "titre": "Consigli della musica D-A-CH: dichiarazione comune per la libertà artistica e il finanziamento pubblico",
+        "chapo": "Riuniti a Lipsia il 5 e 6 ottobre, i consigli della musica di Germania, Austria e Svizzera chiedono un adeguato finanziamento pubblico della musica, anche in tempi di risorse limitate.",
+        "corps": [
+          "Il 20° incontro annuale a porte chiuse delle presidenze dei consigli della musica di Germania, Austria e Svizzera si è svolto il 5 e 6 ottobre 2026 a Lipsia, su invito della Biblioteca nazionale tedesca; il Consiglio europeo della musica era ospite. La dichiarazione finale, diffusa dal Consiglio svizzero della musica, afferma che investire nella vita musicale significa investire nel futuro e che la libertà artistica, garantita dalle costituzioni dei tre Paesi, è il fondamento di ogni politica di promozione.",
+          "Il testo chiede un quadro normativo chiaro per il mercato digitale, con una protezione e un'applicazione effettive della proprietà intellettuale, e regole sull'intelligenza artificiale che garantiscano ai titolari dei diritti una quota adeguata del valore creato. Saluta l'introduzione in Germania di regole comuni di remunerazione dello streaming.",
+          "I consigli sostengono le riforme del servizio pubblico radiotelevisivo che ne rafforzano il ruolo democratico e ne assicurano un finanziamento adeguato, e chiedono che il riconoscimento della musica si traduca in un sostegno pubblico appropriato anche quando le risorse sono limitate. La dichiarazione non contiene cifre."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-10-26-pre-colleges-les-hautes-ecoles-de-musique-reclament-un-statut-et-un-financement-",
+    "rubrique": "Associations",
+    "edition": "Matin",
+    "date": "2026-10-26",
+    "titre": "Pre-colleges : les hautes écoles de musique réclament un statut et un financement durable",
+    "chapo": "Dans la Schweizer Musikzeitung, la Conférence des hautes écoles de musique suisses juge « urgente » la question du financement des pre-colleges et propose de l'inscrire au prochain message culture.",
+    "corps": [
+      "Le texte, publié le 15 octobre 2026 dans la rubrique de la KMHS, rappelle qu'en 2012 une large majorité des votant·es a inscrit l'encouragement de la formation musicale dans la Constitution fédérale, et que la Confédération cofinance depuis des programmes cantonaux de promotion des talents dans le cadre de « Jeunes Talents Musique ». À ce jour, 11 labels pre-college ont été attribués en Suisse ; la liste de la CDIP des écoles proposant des programmes structurés pour élèves doués compte 20 programmes à orientation musicale dans 18 cantons.",
+      "Plusieurs questions restent ouvertes : aucun statut de formation formel n'est reconnu par l'État aux pre-colleges, il n'existe pas de base légale pour un financement durable, et la compensation pour les élèves venant d'autres cantons n'est pas réglée. Une structure nationale uniforme et axée sur la qualité reste, selon l'auteur, « une perspective lointaine ».",
+      "La KMHS propose d'examiner si le statut et le financement des pre-colleges pourraient figurer dans le prochain message culture, et appelle les responsables politiques à clarifier durablement les conditions-cadres, y compris le financement intercantonal. L'article n'avance pas de montant."
+    ],
+    "sources": [
+      {
+        "label": "Schweizer Musikzeitung / KMHS — Pre-Colleges als Teil einer selbstverständlichen Begabtenförderung (15.10.2026)",
+        "url": "https://www.musikzeitung.ch/en/basis/kmhs/2026/10/pre-colleges-als-teil-einer-selbstverstaendlichen-begabtenfoerderung"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Pre-Colleges: Musikhochschulen fordern Status und nachhaltige Finanzierung",
+        "chapo": "In der Schweizer Musikzeitung bezeichnet die Konferenz Musikhochschulen Schweiz die Finanzierung der Pre-Colleges als dringlich und schlägt vor, sie in der nächsten Kulturbotschaft aufzugreifen.",
+        "corps": [
+          "Der am 15. Oktober 2026 in der KMHS-Rubrik erschienene Beitrag erinnert daran, dass 2012 eine grosse Mehrheit der Stimmenden die Förderung der musikalischen Bildung in der Bundesverfassung verankert hat und der Bund seither im Rahmen von «Junge Talente Musik» kantonale Begabtenförderprogramme mitfinanziert. Bisher wurden schweizweit 11 Pre-College-Labels vergeben; die EDK-Liste der Schulen mit strukturierten Programmen für Begabte umfasst 20 musikalisch ausgerichtete Programme in 18 Kantonen.",
+          "Mehrere Fragen bleiben offen: Den Pre-Colleges wird kein formaler staatlich anerkannter Bildungsstatus zuerkannt, eine gesetzliche Grundlage für eine nachhaltige Finanzierung fehlt, und die Abgeltung für ausserkantonale Schülerinnen und Schüler ist nicht geregelt. Eine einheitliche, qualitätsorientierte nationale Struktur bleibt laut dem Autor eine ferne Perspektive.",
+          "Die KMHS regt an zu prüfen, ob Status und Finanzierung der Pre-Colleges Thema der nächsten Kulturbotschaft werden könnten, und ruft die Politik auf, die Rahmenbedingungen einschliesslich der interkantonalen Finanzierung dauerhaft zu klären. Beträge nennt der Artikel nicht."
+        ]
+      },
+      "it": {
+        "titre": "Pre-college: le scuole universitarie di musica chiedono uno statuto e un finanziamento duraturo",
+        "chapo": "Sulla Schweizer Musikzeitung, la Conferenza delle scuole universitarie di musica svizzere definisce «urgente» il finanziamento dei pre-college e propone di inserirlo nel prossimo messaggio sulla cultura.",
+        "corps": [
+          "Il testo, pubblicato il 15 ottobre 2026 nella rubrica della KMHS, ricorda che nel 2012 un'ampia maggioranza dei votanti ha iscritto la promozione della formazione musicale nella Costituzione federale e che da allora la Confederazione cofinanzia programmi cantonali di promozione dei talenti nell'ambito di «Giovani talenti musicali». Finora in Svizzera sono stati attribuiti 11 label pre-college; l'elenco della CDPE delle scuole con programmi strutturati per allievi dotati conta 20 programmi a indirizzo musicale in 18 cantoni.",
+          "Diverse questioni restano aperte: ai pre-college non è riconosciuto alcuno statuto formativo formale da parte dello Stato, manca una base legale per un finanziamento duraturo e la compensazione per gli allievi provenienti da altri cantoni non è regolata. Una struttura nazionale uniforme e orientata alla qualità resta, secondo l'autore, una prospettiva lontana.",
+          "La KMHS propone di valutare se lo statuto e il finanziamento dei pre-college possano figurare nel prossimo messaggio sulla cultura e invita la politica a chiarire in modo duraturo le condizioni quadro, compreso il finanziamento intercantonale. L'articolo non indica importi."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-10-26-fondations-pres-de-14-000-en-suisse-un-soutien-qui-va-surtout-aux-acteurs-deja-e",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-10-26",
+    "titre": "Fondations : près de 14 000 en Suisse, un soutien qui va surtout aux acteurs déjà établis",
+    "chapo": "Une enquête de SRF Kultur examine le rôle des fondations dans le financement de la musique et relève un « effet Matthieu » au profit des institutions déjà bien dotées.",
+    "corps": [
+      "Selon SRF Kultur (Benjamin Herzog, 16 octobre 2026), la Suisse compte un peu moins de 14 000 fondations, dont la fortune atteint 160 milliards de francs, en hausse de 20 milliards en cinq ans ; quelque six milliards de francs sont distribués. À Bâle-Ville, l'argent des fondations représente « environ dix pour cent » du budget culturel.",
+      "L'article distingue fondations opératives et fondations d'encouragement. La Kühne-Stiftung, à Schindellegi (SZ), soutient le Lucerne Festival et gère à l'Opernhaus Zürich une académie pour chanteur·euses (finances, assurances sociales, marketing personnel, santé mentale) ; une seconde académie, destinée à de futurs directeurs et directrices de théâtre, est prévue. Sont aussi cités l'Ernst-Göhner-Stiftung, l'Ernst-von-Siemens-Musikstiftung, la Paul-Sacher-Stiftung et la Stiftung Habisreutinger, qui prête des violons Stradivarius dont l'assurance est en général à la charge des musicien·nes.",
+      "SRF décrit un « effet Matthieu » : « le soutien va à des acteurs qui reçoivent déjà beaucoup d'argent », les bailleurs hésitant à financer des projets dont la qualité n'est pas encore établie ; les formes établies comme le concert symphonique et l'opéra en profitent davantage. L'article invite toutefois à ne pas surestimer le poids des fondations, qui ne représentent qu'une part modeste du financement culturel total."
+    ],
+    "sources": [
+      {
+        "label": "SRF Kultur — Schweizer Musikstiftungen: Riesenbeträge für die Musik (16.10.2026)",
+        "url": "https://www.srf.ch/kultur/musik/schweizer-musikstiftungen-riesenbetraege-fuer-die-musik-wohin-fliesst-das-viele-geld"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Stiftungen: knapp 14 000 in der Schweiz – Förderung geht vor allem an Etablierte",
+        "chapo": "Eine Recherche von SRF Kultur beleuchtet die Rolle der Stiftungen in der Musikfinanzierung und stellt einen «Matthäus-Effekt» zugunsten bereits gut ausgestatteter Institutionen fest.",
+        "corps": [
+          "Laut SRF Kultur (Benjamin Herzog, 16. Oktober 2026) zählt die Schweiz knapp 14 000 Stiftungen mit einem Vermögen von 160 Milliarden Franken, 20 Milliarden mehr als vor fünf Jahren; rund sechs Milliarden Franken werden ausgeschüttet. In Basel-Stadt macht Stiftungsgeld «etwa zehn Prozent» des Kulturbudgets aus.",
+          "Der Beitrag unterscheidet operative und fördernde Stiftungen. Die Kühne-Stiftung in Schindellegi (SZ) unterstützt das Lucerne Festival und führt am Opernhaus Zürich eine Akademie für Sängerinnen und Sänger (Finanzen, Sozialversicherungen, Selbstmarketing, psychische Gesundheit); eine zweite Akademie für künftige Intendantinnen und Intendanten ist geplant. Genannt werden zudem die Ernst-Göhner-Stiftung, die Ernst-von-Siemens-Musikstiftung, die Paul-Sacher-Stiftung und die Stiftung Habisreutinger, die Stradivari-Geigen ausleiht, deren Versicherung in der Regel die Musikerinnen und Musiker tragen.",
+          "SRF beschreibt einen «Matthäus-Effekt»: «Unterstützung bekommen Akteure, die ohnehin schon viel Geld bekommen», da Geldgeber zögern, Projekte mit noch nicht erwiesener Qualität zu fördern; etablierte Formen wie Sinfoniekonzert und Oper profitieren stärker. Zugleich mahnt der Beitrag, Gewicht und Einfluss der Stiftungen nicht zu überschätzen, da sie nur einen bescheidenen Teil der gesamten Kulturfinanzierung ausmachen."
+        ]
+      },
+      "it": {
+        "titre": "Fondazioni: quasi 14 000 in Svizzera, un sostegno che va soprattutto agli attori già affermati",
+        "chapo": "Un'inchiesta di SRF Kultur esamina il ruolo delle fondazioni nel finanziamento della musica e rileva un «effetto Matteo» a favore delle istituzioni già ben dotate.",
+        "corps": [
+          "Secondo SRF Kultur (Benjamin Herzog, 16 ottobre 2026), la Svizzera conta poco meno di 14 000 fondazioni, con un patrimonio di 160 miliardi di franchi, aumentato di 20 miliardi in cinque anni; vengono distribuiti circa sei miliardi di franchi. A Basilea Città il denaro delle fondazioni rappresenta «circa il dieci per cento» del budget culturale.",
+          "L'articolo distingue tra fondazioni operative e fondazioni di promozione. La Kühne-Stiftung di Schindellegi (SZ) sostiene il Lucerne Festival e gestisce all'Opernhaus Zürich un'accademia per cantanti (finanze, assicurazioni sociali, marketing personale, salute mentale); è prevista una seconda accademia per futuri direttori di teatro. Sono citate anche la Ernst-Göhner-Stiftung, la Ernst-von-Siemens-Musikstiftung, la Paul-Sacher-Stiftung e la Stiftung Habisreutinger, che presta violini Stradivari la cui assicurazione è di norma a carico dei musicisti.",
+          "SRF descrive un «effetto Matteo»: il sostegno va ad attori che ricevono già molto denaro, poiché i finanziatori esitano a sostenere progetti di qualità non ancora comprovata; ne beneficiano di più le forme consolidate come il concerto sinfonico e l'opera. L'articolo invita tuttavia a non sopravvalutare il peso delle fondazioni, che rappresentano solo una parte modesta del finanziamento culturale complessivo."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-10-26-dusseldorf-l-ensemble-de-la-deutsche-oper-am-rhein-proteste-contre-ina-karr-qui-",
+    "rubrique": "International",
+    "edition": "Matin",
+    "date": "2026-10-26",
+    "titre": "Düsseldorf : l'ensemble de la Deutsche Oper am Rhein proteste contre Ina Karr, qui quitte le Luzerner Theater",
+    "chapo": "Selon BackstageClassical, cité par la Schweizer Musikzeitung, la future directrice ne renouvellerait pas les contrats de 65 % des chanteur·euses de l'ensemble.",
+    "corps": [
+      "Des membres de l'ensemble de la Deutsche Oper am Rhein (Düsseldorf-Duisbourg) protestent contre la politique du personnel d'Ina Karr, directrice sortante du Luzerner Theater et future directrice de la maison, rapporte la Schweizer Musikzeitung le 19 octobre 2026 en s'appuyant sur le magazine en ligne BackstageClassical. Lors d'une représentation de La Traviata, dont la date n'est pas précisée, ils sont montés sur scène en gilets de signalisation et avec des pancartes.",
+      "Selon les protestataires, Ina Karr ne renouvellerait pas les contrats de 65 % des chanteur·euses ; ce chiffre est rapporté et n'a pas été vérifié de manière indépendante. « Pour certain·es, l'entretien de non-renouvellement a été la première rencontre avec la nouvelle direction artistique », note l'article, qui ne fait état d'aucune réaction d'Ina Karr ni de la direction du théâtre."
+    ],
+    "sources": [
+      {
+        "label": "Schweizer Musikzeitung — Proteste gegen Ina Karrs Personalpolitik in Düsseldorf (19.10.2026)",
+        "url": "https://www.musikzeitung.ch/en/news/2026/10/proteste-gegen-ina-karrs-personalpolitik-in-duesseldorf"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Düsseldorf: Ensemble der Deutschen Oper am Rhein protestiert gegen Ina Karr, die das Luzerner Theater verlässt",
+        "chapo": "Laut BackstageClassical, zitiert von der Schweizer Musikzeitung, will die künftige Intendantin die Verträge von 65 Prozent der Sängerinnen und Sänger nicht verlängern.",
+        "corps": [
+          "Mitglieder des Ensembles der Deutschen Oper am Rhein (Düsseldorf-Duisburg) protestieren gegen die Personalpolitik von Ina Karr, der scheidenden Intendantin des Luzerner Theaters und künftigen Leiterin des Hauses, berichtet die Schweizer Musikzeitung am 19. Oktober 2026 unter Berufung auf das Onlinemagazin BackstageClassical. Bei einer Vorstellung von La Traviata, deren Datum nicht genannt wird, traten sie mit Warnwesten und Plakaten auf die Bühne.",
+          "Nach Angaben der Protestierenden will Ina Karr die Verträge von 65 Prozent der Sängerinnen und Sänger nicht verlängern; die Zahl ist berichtet und nicht unabhängig überprüft. Für manche sei das Nichtverlängerungsgespräch die erste Begegnung mit der neuen künstlerischen Leitung gewesen, heisst es im Artikel, der keine Reaktion von Ina Karr oder der Theaterleitung erwähnt."
+        ]
+      },
+      "it": {
+        "titre": "Düsseldorf: l'ensemble della Deutsche Oper am Rhein protesta contro Ina Karr, che lascia il Luzerner Theater",
+        "chapo": "Secondo BackstageClassical, citato dalla Schweizer Musikzeitung, la futura direttrice non rinnoverebbe i contratti del 65% dei cantanti dell'ensemble.",
+        "corps": [
+          "Membri dell'ensemble della Deutsche Oper am Rhein (Düsseldorf-Duisburg) protestano contro la politica del personale di Ina Karr, direttrice uscente del Luzerner Theater e futura direttrice del teatro, riferisce la Schweizer Musikzeitung il 19 ottobre 2026 basandosi sulla rivista online BackstageClassical. Durante una rappresentazione della Traviata, di cui non è indicata la data, sono saliti sul palco con giubbotti catarifrangenti e cartelli.",
+          "Secondo i manifestanti, Ina Karr non rinnoverebbe i contratti del 65% dei cantanti; la cifra è riferita e non è stata verificata in modo indipendente. Per alcuni il colloquio di mancato rinnovo è stato il primo incontro con la nuova direzione artistica, osserva l'articolo, che non riporta alcuna reazione di Ina Karr né della direzione del teatro."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-10-23-freelances-l-usdam-a-la-conference-internationale-de-la-fim-a-brighton",
     "rubrique": "Syndical",
     "edition": "Matin",

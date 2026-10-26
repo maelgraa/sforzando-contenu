@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-26",
+    "edition": "Matin",
+    "publie_le": "2026-10-26T06:39:06.313Z",
+    "articles": 4,
+    "bulletins": 2,
+    "sources_lues": 60,
+    "sources_total": 60,
+    "detail": "4 articles, 2 bulletins, 1 doublons écartés, 60/60 sources lues",
+    "ecartes": [
+      "OSR : trois postes de tutti premier violon, concours le 14 mai 2027  ≈  OSR : auditions de premier violon solo"
+    ],
+    "remarques": "WebFetch direct refusé sur les URL d'accueil (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time and was withdrawn… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. »). Repli WebSearch allowed_domains + WebFetch des URL renvoyées. Lues seulement par extraits de recherche : Le Temps, RTS, Artos (WebFetch « failed at its site (client_error) »), RMSR (archives http uniquement), RSI, Opéra de Lausanne. Theater Basel /en/medien : SERVER_ERROR « There was an error while fetching. ». Écartés : SONART 16.10 sur les recommandations d'honoraires (déjà traité le 19.10), SONART 10 ans/radios SSR (déjà traité), rumeur Schmiel/Berliner Philharmoniker toujours non confirmée, décès de K.-M. Kühne rapporté par SRF non vérifié ailleurs (omis). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre."
+  },
+  {
     "date": "2026-10-23",
     "edition": "Matin",
     "publie_le": "2026-10-23T05:36:57.379Z",
