@@ -38,6 +38,8 @@ sans inventer de faits.
 - **Traductions** : pour chaque article et bulletin, `traductions.de` et `traductions.it` avec les mêmes champs
   rédigés (`titre`, `chapo`, `corps` avec le même nombre de paragraphes ; ou `titre`, `info`). Allemand d'usage
   suisse (« ss » au lieu de « ß »).
+- Noms des médias : en français, la Schweizer Musikzeitung s'appelle la **Revue musicale suisse**, abrégée **RMS** (en allemand :
+  Schweizer Musikzeitung, SMZ). Utilise toujours le nom de la langue du texte, y compris dans les libellés de sources.
 - Écarte les communiqués promotionnels, les programmes de concerts et l'agenda.
 - N'invente jamais de date, de chiffre ou de citation. Ne publie que des faits récents (en principe les 7 derniers
   jours) ou des faits plus anciens qui n'ont jamais été traités.

@@ -728,16 +728,18 @@
     }
   },
   {
-    "nom": "Schweizer Musikzeitung",
+    "nom": "Revue musicale suisse (RMS)",
     "url": "https://www.musikzeitung.ch/",
     "categorie": "Médias",
     "description": "Revue musicale suisse, publiée avec plusieurs associations professionnelles.",
     "traductions": {
       "de": {
-        "description": "Schweizer Musikzeitung, herausgegeben mit mehreren Berufsverbänden."
+        "description": "Schweizer Musikzeitung, herausgegeben mit mehreren Berufsverbänden.",
+        "nom": "Schweizer Musikzeitung (SMZ)"
       },
       "it": {
-        "description": "Rivista musicale svizzera, pubblicata con diverse associazioni professionali."
+        "description": "Rivista musicale svizzera, pubblicata con diverse associazioni professionali.",
+        "nom": "Schweizer Musikzeitung (SMZ)"
       }
     }
   },
