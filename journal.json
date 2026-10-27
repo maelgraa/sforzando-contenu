@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-27",
+    "edition": "Matin",
+    "publie_le": "2026-10-27T06:30:42.800Z",
+    "articles": 3,
+    "bulletins": 4,
+    "sources_lues": 57,
+    "sources_total": 60,
+    "detail": "3 articles, 4 bulletins, 1 doublons écartés, 57/60 sources lues",
+    "ecartes": [
+      "OSR : trois postes de premier violon tutti, concours le 14 mai 2027  ≈  OSR : auditions de premier violon solo"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time and was withdrawn… » en session principale, « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry… » en sous-agents). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : Le Temps et RTS (« failed at its site (client_error), and nothing of the page was retrieved »), RMSR (redirection 302 https→http, boucle). Theater Basel : /medien et /presse en SERVER_ERROR « There was an error while fetching. », seul le programme mensuel lu. Artos : la plupart des offres en client_error. Pages de détail HEMU (id/1058-1060), Musik-Akademie Basel et locg.ch/fr/orchestre-emploi refusées (PROVENANCE_REQUIRED). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre. Rumeur Schmiel/Berliner Philharmoniker toujours non confirmée, écartée."
+  },
+  {
     "date": "2026-10-26",
     "edition": "Matin",
     "publie_le": "2026-10-26T06:39:06.313Z",

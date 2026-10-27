@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-10-27-osr-auditions-de-musicien-nes-supplementaires-en-alto-tuba-contrebasse-et-hautbo",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-27",
+    "titre": "OSR : auditions de musicien·nes supplémentaires en alto, tuba, contrebasse et hautbois",
+    "info": "L'OSR auditionne des supplémentaires en alto et tuba le 29 octobre, en contrebasse et hautbois (cor anglais facultatif) le 20 novembre, à Genève ; CV et pièce d'identité à auditions@osr.ch au plus tard cinq jours avant.",
+    "source": {
+      "label": "OSR — concours et auditions",
+      "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
+    },
+    "traductions": {
+      "de": {
+        "titre": "OSR: Vorspiele für Zuzüger:innen in Viola, Tuba, Kontrabass und Oboe",
+        "info": "Das OSR hört Zuzüger:innen in Viola und Tuba am 29. Oktober sowie in Kontrabass und Oboe (Englischhorn fakultativ) am 20. November in Genf an; Lebenslauf und Ausweis spätestens fünf Tage vorher an auditions@osr.ch."
+      },
+      "it": {
+        "titre": "OSR: audizioni per aggiunti in viola, tuba, contrabbasso e oboe",
+        "info": "L'OSR ascolta aggiunti in viola e tuba il 29 ottobre, in contrabbasso e oboe (corno inglese facoltativo) il 20 novembre, a Ginevra; CV e documento d'identità a auditions@osr.ch al più tardi cinque giorni prima."
+      }
+    }
+  },
+  {
+    "id": "2026-10-27-conservatoire-de-lausanne-enseignant-e-de-solfege-60-80",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-27",
+    "titre": "Conservatoire de Lausanne : enseignant·e de solfège (60-80 %)",
+    "info": "Le Conservatoire de Lausanne cherche un·e enseignant·e de solfège à environ 60-80 % (temps partagé possible), entrée en fonction le 1er août 2027 ; délai de candidature le 7 décembre 2026.",
+    "source": {
+      "label": "Artos — emplois",
+      "url": "https://artos-net.ch/emplois/enseignante-de-solfege"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Conservatoire de Lausanne: Lehrperson Solfège (60–80 %)",
+        "info": "Das Conservatoire de Lausanne sucht eine Lehrperson für Solfège zu rund 60–80 % (Jobsharing möglich), Stellenantritt am 1. August 2027; Bewerbungsfrist 7. Dezember 2026."
+      },
+      "it": {
+        "titre": "Conservatoire de Lausanne: docente di solfeggio (60-80 %)",
+        "info": "Il Conservatoire de Lausanne cerca una o un docente di solfeggio al 60-80 % circa (posto condiviso possibile), entrata in funzione il 1° agosto 2027; termine di candidatura il 7 dicembre 2026."
+      }
+    }
+  },
+  {
+    "id": "2026-10-27-ph-fhnw-poste-de-charge-e-de-cours-en-didactique-et-sciences-de-la-musique-40-60",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-27",
+    "titre": "PH FHNW : poste de chargé·e de cours en didactique et sciences de la musique (40-60 %)",
+    "info": "La Haute école pédagogique FHNW cherche un·e « Dozent:in Fachdidaktik und Fachwissenschaft Musik » à 40-60 %, avec spécialisation en rythmique ; annonce relayée le 13 octobre par la bourse d'emplois de la ZHdK.",
+    "source": {
+      "label": "ZHdK — MAX, offres d'emploi",
+      "url": "https://max.zhdk.ch/gesucht-dozentin-fachdidaktik-und-fachwissenschaft-musik/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "PH FHNW: Dozent:in Fachdidaktik und Fachwissenschaft Musik (40–60 %)",
+        "info": "Die Pädagogische Hochschule FHNW sucht eine:n Dozent:in Fachdidaktik und Fachwissenschaft Musik zu 40–60 % mit Schwerpunkt Rhythmik; ausgeschrieben am 13. Oktober auf der Stellenbörse der ZHdK."
+      },
+      "it": {
+        "titre": "PH FHNW: docente di didattica e scienze della musica (40-60 %)",
+        "info": "L'Alta scuola pedagogica FHNW cerca una o un «Dozent:in Fachdidaktik und Fachwissenschaft Musik» al 40-60 %, con specializzazione in ritmica; annuncio rilanciato il 13 ottobre dalla borsa del lavoro della ZHdK."
+      }
+    }
+  },
+  {
+    "id": "2026-10-27-concours-wieniawski-premier-prix-pour-l-ukrainien-bohdan-luts",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-27",
+    "titre": "Concours Wieniawski : premier prix pour l'Ukrainien Bohdan Luts",
+    "info": "Le violoniste ukrainien Bohdan Luts, né en 2004, remporte le 17e Concours international Henryk Wieniawski de Poznań (60 000 €), devant Jinzhu Li et SooBeen Lee.",
+    "source": {
+      "label": "Bachtrack, 23 octobre 2026",
+      "url": "https://bachtrack.com/news-bohdan-luts-wins-wieniawski-competition-october-2026"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Wieniawski-Wettbewerb: erster Preis für den Ukrainer Bohdan Luts",
+        "info": "Der ukrainische Geiger Bohdan Luts, Jahrgang 2004, gewinnt den 17. Internationalen Henryk-Wieniawski-Wettbewerb in Posen (60 000 €), vor Jinzhu Li und SooBeen Lee."
+      },
+      "it": {
+        "titre": "Concorso Wieniawski: primo premio all'ucraino Bohdan Luts",
+        "info": "Il violinista ucraino Bohdan Luts, nato nel 2004, vince il 17° Concorso internazionale Henryk Wieniawski di Poznań (60 000 €), davanti a Jinzhu Li e SooBeen Lee."
+      }
+    }
+  },
+  {
     "id": "2026-10-26-concours-suisse-de-musique-pour-la-jeunesse-2027-inscriptions-du-1er-au-30-novem",
     "categorie": "Auditions & concours",
     "date": "2026-10-26",
