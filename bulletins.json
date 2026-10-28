@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026-10-28-sinfonieorchester-basel-un-poste-de-cor-grave-audition-le-17-decembre",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-28",
+    "titre": "Sinfonieorchester Basel : un poste de cor grave, audition le 17 décembre",
+    "info": "Le Sinfonieorchester Basel met au concours un poste de cor grave à 75 %, avec entrée en fonction le 1er août 2027. Candidatures jusqu'au 8 novembre 2026 via muvac ; l'audition aura lieu le 17 décembre 2026 au Stadtcasino Basel.",
+    "source": {
+      "label": "Sinfonieorchester Basel — Karriere",
+      "url": "https://www.sinfonieorchesterbasel.ch/en/career"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Sinfonieorchester Basel: Stelle für tiefes Horn, Probespiel am 17. Dezember",
+        "info": "Das Sinfonieorchester Basel schreibt eine Stelle für tiefes Horn (75 %) mit Stellenantritt am 1. August 2027 aus. Bewerbungen bis 8. November 2026 über muvac; das Probespiel findet am 17. Dezember 2026 im Stadtcasino Basel statt."
+      },
+      "it": {
+        "titre": "Sinfonieorchester Basel: un posto di corno grave, audizione il 17 dicembre",
+        "info": "La Sinfonieorchester Basel mette a concorso un posto di corno grave al 75 %, con entrata in funzione il 1° agosto 2027. Candidature entro l'8 novembre 2026 tramite muvac; l'audizione si terrà il 17 dicembre 2026 allo Stadtcasino di Basilea."
+      }
+    }
+  },
+  {
+    "id": "2026-10-28-osr-trois-places-de-tutti-dans-les-premiers-violons-concours-en-mai-2027",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-28",
+    "titre": "OSR : trois places de tutti dans les premiers violons, concours en mai 2027",
+    "info": "L'Orchestre de la Suisse Romande annonce un concours pour trois postes de premier violon tutti le 14 mai 2027 ; les inscriptions seront ouvertes du 1er décembre 2026 au 28 février 2027.",
+    "source": {
+      "label": "OSR — Concours et auditions",
+      "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
+    },
+    "traductions": {
+      "de": {
+        "titre": "OSR: drei Tutti-Stellen bei den ersten Violinen, Probespiel im Mai 2027",
+        "info": "Das Orchestre de la Suisse Romande schreibt drei Stellen für Tutti 1. Violine aus; das Probespiel findet am 14. Mai 2027 statt, Anmeldungen sind vom 1. Dezember 2026 bis 28. Februar 2027 möglich."
+      },
+      "it": {
+        "titre": "OSR: tre posti di fila tra i primi violini, concorso nel maggio 2027",
+        "info": "L'Orchestre de la Suisse Romande bandisce un concorso per tre posti di primo violino di fila il 14 maggio 2027; le iscrizioni saranno aperte dal 1° dicembre 2026 al 28 febbraio 2027."
+      }
+    }
+  },
+  {
+    "id": "2026-10-28-theater-basel-direction-adjointe-de-l-opera-studio-operavenir-100",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-28",
+    "titre": "Theater Basel : direction adjointe de l'opéra-studio OperAvenir (100 %)",
+    "info": "Le Theater Basel cherche dès le 1er août 2027 (ou à convenir) une personne pour la direction adjointe d'OperAvenir, à 100 % : accompagnement au piano, coaching et préparation des rôles, ainsi que planification. Le chœur de l'opéra recrute aussi une 1re alto et un 2e ténor (100 %).",
+    "source": {
+      "label": "Theater Basel — Jobs",
+      "url": "https://www.theater-basel.ch/de/jobs"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Theater Basel: Stellvertretende Leitung des Opernstudios OperAvenir (100 %)",
+        "info": "Das Theater Basel sucht per 1. August 2027 oder nach Vereinbarung eine stellvertretende Leitung OperAvenir (100 %): Klavierbegleitung, Coaching und Rollenvorbereitung sowie Planung. Der Opernchor sucht zudem eine 1. Altistin und einen 2. Tenor (100 %)."
+      },
+      "it": {
+        "titre": "Theater Basel: vicedirezione dell'opera studio OperAvenir (100 %)",
+        "info": "Il Theater Basel cerca dal 1° agosto 2027 (o da convenire) una persona per la vicedirezione di OperAvenir al 100 %: accompagnamento al pianoforte, coaching e preparazione dei ruoli, oltre alla pianificazione. Il coro dell'opera cerca inoltre una prima contralto e un secondo tenore (100 %)."
+      }
+    }
+  },
+  {
+    "id": "2026-10-28-hemu-poste-d-enseignement-de-cor-40-45",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-10-28",
+    "titre": "HEMU : poste d'enseignement de cor (40-45 %)",
+    "info": "La Haute École de Musique (HEMU) met au concours un poste d'enseignement de cor, de maître d'enseignement A, à un taux annualisé de 40 à 45 %.",
+    "source": {
+      "label": "HEMU — Carrière",
+      "url": "https://www.hemu.ch/en/career"
+    },
+    "traductions": {
+      "de": {
+        "titre": "HEMU: Lehrstelle für Horn (40–45 %)",
+        "info": "Die Haute École de Musique (HEMU) schreibt eine Lehrstelle für Horn aus (Maître d'enseignement A, Jahrespensum 40 bis 45 %)."
+      },
+      "it": {
+        "titre": "HEMU: posto d'insegnamento di corno (40-45 %)",
+        "info": "La Haute École de Musique (HEMU) mette a concorso un posto d'insegnamento di corno (maître d'enseignement A), con un grado d'occupazione annualizzato del 40-45 %."
+      }
+    }
+  },
+  {
     "id": "2026-10-27-osr-auditions-de-musicien-nes-supplementaires-en-alto-tuba-contrebasse-et-hautbo",
     "categorie": "Auditions & concours",
     "date": "2026-10-27",

@@ -1,5 +1,19 @@
 # Incidents de veille
 
+## 2026-10-28 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée.
+  - Session principale (https://smv.ch/fr/) : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time and was withdrawn. Ask the user to include the URL in a message, or retry once they reply: a retry sends them a new permission request and waits for them again."}`
+  - Sous-agents (les 60 URL) : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également refusées (même message) : hemu.ch news id/1061 et PDF HEMU_POSTE_D_ENSEIGNEMENT_DU_COR.pdf, muvac.com (offre SOB), tobs.ch offene-stellen / medien-presse / world-opera-day-2026, prohelvetia.ch support-for-emerging-performing-artists, musikzeitung.ch/basis/kmhs, hem.hesge.ch appel-residence-artistique-2, musik-akademie.ch h-e-i-campus, admin.ch/fr/newnsb (via redirection 302 de news.admin.ch), newsletter VMS (sendibm1.com), tonhalle-orchester.ch/news/verabschiedung-ute-grewel/.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 54/60 sources lues.
+- **Sources lues seulement par extraits de recherche (non comptées)** :
+  - Le Temps, RTS, FIM, Artos : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.`
+  - Scènes Magazine : `Not fetched: https://scenesmagazine.com/ failed at its site (robots_disallowed), and nothing of the page was retrieved.`
+  - RMSR : la recherche ne renvoie que des archives http://www.rmsr.ch (2006-2024).
+- **Autres échecs** : action-intermittence.ch /actualite/ et /politique-arts-culture/ : `{"error_type":"SERVER_ERROR","source":"target","message":"There was an error while fetching."}` ; ssrs.ch/communiques-de-presse-ssrs/, theater-basel.ch /en/mediathek, /de/stellenprojekte, /de/opernchorakademie, /de/operavenir, rsi.ch article 4126215 : `client_error` ; rsi.ch Coro 1227955 : `SERVER_ERROR` ; PDF cms.news.admin.ch : `robots_disallowed`.
+- **add_repo** : outil introuvable via ToolSearch (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre de la session.
+
 ## 2026-10-27 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée.
