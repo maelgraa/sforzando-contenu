@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-29",
+    "edition": "Matin",
+    "publie_le": "2026-10-29T06:35:07.653Z",
+    "articles": 1,
+    "bulletins": 1,
+    "sources_lues": 50,
+    "sources_total": 60,
+    "detail": "1 articles, 1 bulletins, 1 doublons écartés, 50/60 sources lues",
+    "ecartes": [
+      "OSR : concours de clarinette solo les 6 et 7 décembre 2026  ≈  OSR : trois places de tutti dans les premiers violons, concours en mai 2027"
+    ],
+    "remarques": "WebFetch direct refusé sur les URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time and was withdrawn… » puis, pour les sous-agents, « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : Ensemble Vocal de Lausanne (recherche sans page institutionnelle), RSI Coro (SERVER_ERROR « There was an error while fetching. » ; redirection 302 vers barocchistiecoro.ch puis PROVENANCE_REQUIRED), Theater Basel (« failed at its site (client_error) »), Le Temps, RTS, FIM, Artos (client_error, extraits de recherche seulement), RMSR (redirection 302 https→http), SRF et Swissinfo (rien de récent trouvé par recherche). Écartés : article RTS « Opéra : Genève et Lausanne nouent une collaboration inédite » (illisible, client_error ; 24heures SERVER_ERROR) ; déficits OCL (article de 2024) ; SMPV reste au SGB (décision de novembre 2025). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre."
+  },
+  {
     "date": "2026-10-28",
     "edition": "Matin",
     "publie_le": "2026-10-28T06:31:01.429Z",

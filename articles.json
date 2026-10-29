@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-10-29-sinfonieorchester-basel-franziskus-theurillat-quittera-la-direction-de-l-orchest",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-10-29",
+    "titre": "Sinfonieorchester Basel : Franziskus Theurillat quittera la direction de l'orchestre fin juillet 2028",
+    "chapo": "Le directeur de l'orchestre, qui travaille pour le Sinfonieorchester Basel depuis 2000, a annoncé son départ près de deux ans à l'avance.",
+    "corps": [
+      "Franziskus Theurillat, directeur (Orchesterdirektor) du Sinfonieorchester Basel (SOB), quittera ses fonctions à la fin juillet 2028, a rapporté la Revue musicale suisse le 5 octobre. Sous sa responsabilité, l'orchestre s'est détaché de l'Allgemeine Musikgesellschaft Basel pour devenir indépendant, puis a gagné en profil international grâce à ses tournées et à des enregistrements primés. Son mandat a aussi couvert la période du Covid et la saison jubilaire 2025/26, consacrée aux 150 ans de l'orchestre.",
+      "Corniste formé à la Musik-Akademie de Bâle, Franziskus Theurillat a joué au Radio-Sinfonieorchester Basel de 1988 à 1990, puis comme soliste au cor à l'Orchestre municipal de Saint-Gall de 1990 à 1991, avant de revenir au Radio-Sinfonieorchester Basel en 1992. Cet orchestre a fusionné en août 1997 avec le Basler Sinfonie-Orchester pour former le SOB. Aucun successeur n'est nommé : selon l'orchestre, l'annonce anticipée laisse le temps d'organiser soigneusement la succession."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse (RMS)",
+        "url": "https://www.musikzeitung.ch/news/2026/10/theurillat-verlaesst-2028-das-sinfonieorchester-basel"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Sinfonieorchester Basel: Franziskus Theurillat verlässt die Orchesterdirektion Ende Juli 2028",
+        "chapo": "Der Orchesterdirektor, der seit 2000 für das Sinfonieorchester Basel arbeitet, hat seinen Abgang fast zwei Jahre im Voraus angekündigt.",
+        "corps": [
+          "Franziskus Theurillat, Orchesterdirektor des Sinfonieorchesters Basel (SOB), gibt sein Amt Ende Juli 2028 ab, wie die Schweizer Musikzeitung am 5. Oktober berichtete. Unter seiner Verantwortung löste sich das Orchester von der Allgemeinen Musikgesellschaft Basel und wurde selbstständig; danach gewann es mit Tourneen und preisgekrönten Aufnahmen internationales Profil. In seine Amtszeit fielen auch die Covid-Zeit und die Jubiläumssaison 2025/26 zum 150-jährigen Bestehen des Orchesters.",
+          "Der an der Musik-Akademie Basel ausgebildete Hornist spielte von 1988 bis 1990 im Radio-Sinfonieorchester Basel, von 1990 bis 1991 als Solohornist im Städtischen Orchester St. Gallen und kehrte 1992 ins Radio-Sinfonieorchester Basel zurück. Dieses fusionierte im August 1997 mit dem Basler Sinfonie-Orchester zum SOB. Eine Nachfolge ist nicht genannt: Laut Orchester lässt die frühe Ankündigung genügend Zeit für einen sorgfältigen Nachfolgeprozess."
+        ]
+      },
+      "it": {
+        "titre": "Sinfonieorchester Basel: Franziskus Theurillat lascerà la direzione dell'orchestra a fine luglio 2028",
+        "chapo": "Il direttore dell'orchestra, al servizio del Sinfonieorchester Basel dal 2000, ha annunciato la partenza con quasi due anni di anticipo.",
+        "corps": [
+          "Franziskus Theurillat, direttore (Orchesterdirektor) del Sinfonieorchester Basel (SOB), lascerà l'incarico a fine luglio 2028, ha riferito la Schweizer Musikzeitung il 5 ottobre. Sotto la sua responsabilità l'orchestra si è separata dall'Allgemeine Musikgesellschaft Basel diventando indipendente, per poi acquisire un profilo internazionale grazie a tournée e registrazioni premiate. Il suo mandato ha compreso anche il periodo del Covid e la stagione giubilare 2025/26, dedicata ai 150 anni dell'orchestra.",
+          "Cornista formatosi alla Musik-Akademie di Basilea, Franziskus Theurillat ha suonato nel Radio-Sinfonieorchester Basel dal 1988 al 1990, poi come primo corno nell'Orchestra municipale di San Gallo dal 1990 al 1991, prima di tornare al Radio-Sinfonieorchester Basel nel 1992. Questa orchestra si è fusa nell'agosto 1997 con il Basler Sinfonie-Orchester dando vita al SOB. Nessun successore è stato nominato: secondo l'orchestra, l'annuncio anticipato lascia il tempo per un'accurata procedura di successione."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-10-28-tonhalle-zurich-ilona-schmiel-citee-pour-la-direction-des-berliner-philharmonike",
     "rubrique": "Suisse",
     "edition": "Matin",
