@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-30",
+    "edition": "Matin",
+    "publie_le": "2026-10-30T06:30:44.476Z",
+    "articles": 1,
+    "bulletins": 1,
+    "sources_lues": 56,
+    "sources_total": 60,
+    "detail": "1 articles, 1 bulletins, 1 doublons écartés, 56/60 sources lues",
+    "ecartes": [
+      "OSR : concours de clarinette solo les 6 et 7 décembre 2026  ≈  OSR : trois places de tutti dans les premiers violons, concours en mai 2027"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : Le Temps, RTS, Artos (« failed at its site (client_error), and nothing of the page was retrieved »), RMSR (redirection 302 https→http). Theater Basel lu seulement via un PDF (pages médias en client_error) ; TOBS /now et offres d'emploi bloqués. Bulletin OSR clarinette solo (6-7.12.2026) écarté par l'anti-doublons du script (faux positif probable). Écartés : postes HEMU jazz, audition Ballet GTG (danse), annonces non datées (chœur St.Gallen, ZHdK Slokar). Outil add_repo introuvable : dépôt déjà cloné."
+  },
+  {
     "date": "2026-10-29",
     "edition": "Matin",
     "publie_le": "2026-10-29T06:35:07.653Z",

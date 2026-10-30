@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-10-30-observatoire-romand-de-la-culture-une-etude-sur-la-durabilite-dans-sept-organisa",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-10-30",
+    "titre": "Observatoire romand de la culture : une étude sur la durabilité dans sept organisations culturelles",
+    "chapo": "L'Observatoire romand de la culture publie une étude qualitative qui montre que les mesures écologiques et sociales se heurtent aux équilibres économiques fragiles du secteur.",
+    "corps": [
+      "L'Observatoire romand de la culture (ORC) a publié le 29 octobre une étude consacrée aux enjeux de la durabilité dans le milieu culturel romand. Elle repose sur sept études de cas menées en ateliers avec une maison d'édition, un site patrimonial, un festival de musique, un théâtre, une salle de concert, un service culturel communal et une société de production audiovisuelle.",
+      "Les sept organisations ont toutes déjà réfléchi à la durabilité et pris des mesures, mais elles se heurtent à des budgets limités, à des effectifs réduits, à une forte dépendance aux subventions et à des contraintes d'infrastructure. L'étude dégage cinq enjeux clés : la mobilité des publics et des artistes, les circuits courts, la politique tarifaire, la ligne artistique ou éditoriale et le cadre institutionnel. La tension principale relevée : les mesures écologiques ou sociales peuvent entraîner des coûts supplémentaires qui fragilisent des équilibres économiques déjà précaires.",
+      "L'ORC met à disposition, gratuitement, une matrice croisant les dimensions écologique, économique et sociale avec les ressources naturelles, matérielles et immatérielles, ainsi qu'une boîte à outils de 36 cartes-questions."
+    ],
+    "sources": [
+      {
+        "label": "Observatoire romand de la culture",
+        "url": "https://www.observatoire-culture.ch/une-etude-de-lorc-met-en-lumiere-les-enjeux-de-la-durabilite-dans-le-milieu-culturel-romand/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Observatoire romand de la culture: Studie zur Nachhaltigkeit in sieben Kulturorganisationen",
+        "chapo": "Das Observatoire romand de la culture veröffentlicht eine qualitative Studie, die zeigt, dass ökologische und soziale Massnahmen auf die fragilen wirtschaftlichen Gleichgewichte der Branche stossen.",
+        "corps": [
+          "Das Observatoire romand de la culture (ORC) hat am 29. Oktober eine Studie zu den Herausforderungen der Nachhaltigkeit im Westschweizer Kulturbereich veröffentlicht. Sie stützt sich auf sieben Fallstudien, die in Workshops mit einem Verlag, einer Kulturerbestätte, einem Musikfestival, einem Theater, einem Konzertlokal, einer kommunalen Kulturabteilung und einer audiovisuellen Produktionsfirma durchgeführt wurden.",
+          "Alle sieben Organisationen haben sich bereits mit Nachhaltigkeit befasst und Massnahmen ergriffen, stossen aber an begrenzte Budgets, knappes Personal, eine starke Abhängigkeit von Subventionen und infrastrukturelle Einschränkungen. Die Studie nennt fünf Schlüsselthemen: Mobilität von Publikum und Kunstschaffenden, kurze Wege, Preispolitik, künstlerische oder redaktionelle Linie sowie institutioneller Rahmen. Das zentrale Spannungsfeld: Ökologische oder soziale Massnahmen können Mehrkosten verursachen, die ohnehin prekäre wirtschaftliche Gleichgewichte gefährden.",
+          "Das ORC stellt kostenlos eine Matrix zur Verfügung, die ökologische, wirtschaftliche und soziale Dimensionen mit natürlichen, materiellen und immateriellen Ressourcen kreuzt, sowie eine Toolbox mit 36 Fragekarten."
+        ]
+      },
+      "it": {
+        "titre": "Observatoire romand de la culture: uno studio sulla sostenibilità in sette organizzazioni culturali",
+        "chapo": "L'Observatoire romand de la culture pubblica uno studio qualitativo secondo cui le misure ecologiche e sociali si scontrano con i fragili equilibri economici del settore.",
+        "corps": [
+          "L'Observatoire romand de la culture (ORC) ha pubblicato il 29 ottobre uno studio sulle sfide della sostenibilità nel settore culturale romando. Si basa su sette studi di caso condotti in atelier con una casa editrice, un sito patrimoniale, un festival di musica, un teatro, una sala da concerto, un servizio culturale comunale e una società di produzione audiovisiva.",
+          "Tutte e sette le organizzazioni hanno già riflettuto sulla sostenibilità e adottato misure, ma si scontrano con budget limitati, personale ridotto, una forte dipendenza dai sussidi e vincoli infrastrutturali. Lo studio individua cinque temi chiave: la mobilità del pubblico e degli artisti, le filiere corte, la politica tariffaria, la linea artistica o editoriale e il quadro istituzionale. La tensione principale: le misure ecologiche o sociali possono comportare costi aggiuntivi che indeboliscono equilibri economici già precari.",
+          "L'ORC mette a disposizione gratuitamente una matrice che incrocia le dimensioni ecologica, economica e sociale con le risorse naturali, materiali e immateriali, oltre a un kit di 36 carte-domanda."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-10-29-sinfonieorchester-basel-franziskus-theurillat-quittera-la-direction-de-l-orchest",
     "rubrique": "Suisse",
     "edition": "Matin",

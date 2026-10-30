@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-10-30-canton-de-schwyz-trois-bourses-de-creation-en-musique",
+    "categorie": "Auditions & concours",
+    "date": "2026-10-30",
+    "titre": "Canton de Schwyz : trois bourses de création en musique",
+    "info": "La commission culturelle du canton de Schwyz a attribué ses bourses de création 2026 à dix créateur·ices, dont trois en musique : la violoniste Deborah Landolt, la pianiste Eleonora Em et le tromboniste Andreas Betschart. Les montants ne sont pas précisés.",
+    "source": {
+      "label": "Revue musicale suisse",
+      "url": "https://www.musikzeitung.ch/en/news/2026/10/werkbeitraege-des-kantons-schwyz-vergeben"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Kanton Schwyz: drei Werkbeiträge für Musik",
+        "info": "Die Kulturkommission des Kantons Schwyz hat ihre Werkbeiträge 2026 an zehn Kulturschaffende vergeben, darunter drei in der Musik: die Geigerin Deborah Landolt, die Pianistin Eleonora Em und der Posaunist Andreas Betschart. Beträge werden nicht genannt."
+      },
+      "it": {
+        "titre": "Canton Svitto: tre contributi alla creazione per la musica",
+        "info": "La commissione culturale del Canton Svitto ha assegnato i suoi contributi alla creazione 2026 a dieci artisti, tre dei quali in ambito musicale: la violinista Deborah Landolt, la pianista Eleonora Em e il trombonista Andreas Betschart. Gli importi non sono precisati."
+      }
+    }
+  },
+  {
     "id": "2026-10-29-domnick-cello-preis-2026-le-violoncelliste-suisse-cyprien-lengagne-prime-a-stutt",
     "categorie": "Auditions & concours",
     "date": "2026-10-29",
