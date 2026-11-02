@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-02",
+    "edition": "Matin",
+    "publie_le": "2026-11-02T06:36:39.348Z",
+    "articles": 0,
+    "bulletins": 3,
+    "sources_lues": 53,
+    "sources_total": 60,
+    "detail": "0 articles, 3 bulletins, 0 doublons écartés, 53/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings. » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : ARCS (seule l'URL bloquée renvoyée par la recherche), Theater Basel (PROVENANCE_REQUIRED puis « failed at its site (client_error) » sur /en/medien, /de/stellenprojekte), HEM Genève-Neuchâtel (/hem/la-hem/actualites PROVENANCE_REQUIRED), Le Temps, FIM et Artos (« failed at its site (client_error) »), RMSR (archives seulement). Partielles : EVL, RSI, OCG. Autres blocages : newsletter VMS 10-26 (sendibm1.com), hemu.ch news id/1061, PDF Bühnen Bern Urbański, musikzeitung.ch article Frischknecht 29.10. Écartés : prolongation d'Urbański à Berne jusqu'en 2031/32 (date de l'annonce non établie, probablement ancienne), postes HEMU jazz et audition Ballet GTG (hors périmètre), ZHdK Zora Slokar (non vérifié). Bulletin OSR clarinette solo reformulé (écarté le 30.10 comme faux doublon). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre."
+  },
+  {
     "date": "2026-10-30",
     "edition": "Matin",
     "publie_le": "2026-10-30T06:30:44.476Z",

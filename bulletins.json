@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026-11-02-luzerner-sinfonieorchester-un-prix-international-pour-jeunes-chef-fes-dote-de-50",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-02",
+    "titre": "Luzerner Sinfonieorchester : un prix international pour jeunes chef·fes, doté de 50 000 francs",
+    "info": "Le Luzerner Sinfonieorchester lance le « Thomas and Doris Ammann Prize for Young Conductors », dont la première édition aura lieu à Lucerne du 24 au 27 juin 2027, puis tous les deux ans ; la fondation Thomas et Doris Ammann finance les dix premières éditions, jusqu'en 2045. Le premier prix (50 000 francs) comprend la direction d'un concert du LSO au KKL la saison suivante, le deuxième est doté de 25 000 francs et le troisième de 15 000 francs ; le jury 2027 est présidé par Fabio Luisi.",
+    "source": {
+      "label": "Revue musicale suisse (RMS)",
+      "url": "https://musikzeitung.ch/en/news/2026/10/neuer-internationaler-dirigierwettbewerb-in-luzern"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Luzerner Sinfonieorchester: ein internationaler Preis für junge Dirigentinnen und Dirigenten, dotiert mit 50 000 Franken",
+        "info": "Das Luzerner Sinfonieorchester lanciert den «Thomas and Doris Ammann Prize for Young Conductors»; die erste Ausgabe findet vom 24. bis 27. Juni 2027 in Luzern statt, danach alle zwei Jahre. Die Thomas-und-Doris-Ammann-Stiftung finanziert die ersten zehn Ausgaben bis 2045. Der erste Preis (50 000 Franken) umfasst das Dirigat eines LSO-Konzerts im KKL in der folgenden Saison, der zweite ist mit 25 000, der dritte mit 15 000 Franken dotiert; die Jury 2027 präsidiert Fabio Luisi."
+      },
+      "it": {
+        "titre": "Luzerner Sinfonieorchester: un premio internazionale per giovani direttori e direttrici, dotato di 50 000 franchi",
+        "info": "Il Luzerner Sinfonieorchester lancia il «Thomas and Doris Ammann Prize for Young Conductors», la cui prima edizione si terrà a Lucerna dal 24 al 27 giugno 2027 e poi ogni due anni; la fondazione Thomas e Doris Ammann finanzia le prime dieci edizioni, fino al 2045. Il primo premio (50 000 franchi) comprende la direzione di un concerto del LSO al KKL nella stagione successiva, il secondo è dotato di 25 000 franchi e il terzo di 15 000; la giuria 2027 è presieduta da Fabio Luisi."
+      }
+    }
+  },
+  {
+    "id": "2026-11-02-opernhaus-zurich-quatre-auditions-d-orchestre-et-des-places-au-ch-ur",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-02",
+    "titre": "Opernhaus Zürich : quatre auditions d'orchestre et des places au chœur",
+    "info": "L'orchestre de l'Opéra de Zurich organise des auditions de 2e violon tutti (9 décembre 2026), d'alto tutti (10 décembre), de 2e Konzertmeister·in (19 décembre) et de 1er violon tutti (20 février 2027). Le chœur cherche un·e 1er alto et deux 2es basses pour le 1er janvier 2027 ; candidatures via muvac.",
+    "source": {
+      "label": "Opernhaus Zürich",
+      "url": "https://www.opernhaus.ch/opernhaus-zuerich/stellen/offene-stellen/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Opernhaus Zürich: vier Probespiele im Orchester und Stellen im Chor",
+        "info": "Das Orchester der Oper Zürich führt Probespiele für 2. Violine tutti (9. Dezember 2026), Viola tutti (10. Dezember), 2. Konzertmeister:in (19. Dezember) und 1. Violine tutti (20. Februar 2027) durch. Der Chor sucht ab 1. Januar 2027 eine:n 1. Alt und zwei 2. Bässe; Bewerbungen über muvac."
+      },
+      "it": {
+        "titre": "Opernhaus Zürich: quattro audizioni per l'orchestra e posti nel coro",
+        "info": "L'orchestra dell'Opera di Zurigo organizza audizioni per secondo violino di fila (9 dicembre 2026), viola di fila (10 dicembre), secondo/a Konzertmeister (19 dicembre) e primo violino di fila (20 febbraio 2027). Il coro cerca un/una primo contralto e due secondi bassi dal 1° gennaio 2027; candidature tramite muvac."
+      }
+    }
+  },
+  {
+    "id": "2026-11-02-osr-un-poste-de-clarinette-principale-epreuves-les-6-et-7-decembre",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-02",
+    "titre": "OSR : un poste de clarinette principale, épreuves les 6 et 7 décembre",
+    "info": "L'Orchestre de la Suisse Romande met au concours un poste de clarinette solo coordonnée ; les épreuves auront lieu les 6 et 7 décembre 2026.",
+    "source": {
+      "label": "Orchestre de la Suisse Romande",
+      "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
+    },
+    "traductions": {
+      "de": {
+        "titre": "OSR: Stelle für Soloklarinette, Probespiel am 6. und 7. Dezember",
+        "info": "Das Orchestre de la Suisse Romande schreibt eine Stelle für koordinierte Soloklarinette aus; das Probespiel findet am 6. und 7. Dezember 2026 statt."
+      },
+      "it": {
+        "titre": "OSR: un posto di primo clarinetto, prove il 6 e 7 dicembre",
+        "info": "L'Orchestre de la Suisse Romande mette a concorso un posto di clarinetto solista coordinato; le prove si terranno il 6 e 7 dicembre 2026."
+      }
+    }
+  },
+  {
     "id": "2026-10-30-canton-de-schwyz-trois-bourses-de-creation-en-musique",
     "categorie": "Auditions & concours",
     "date": "2026-10-30",
