@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-03-tugan-sokhiev-le-chef-de-l-osr-nomme-directeur-musical-du-nhk-symphony-orchestra",
+    "rubrique": "International",
+    "edition": "Matin",
+    "date": "2026-11-03",
+    "titre": "Tugan Sokhiev : le chef de l'OSR nommé directeur musical du NHK Symphony Orchestra",
+    "chapo": "Entré en fonction à l'Orchestre de la Suisse Romande cette saison, Tugan Sokhiev prendra aussi la direction musicale de l'orchestre de la radio-télévision publique japonaise.",
+    "corps": [
+      "Selon la Revue musicale suisse (RMS) du 2 novembre 2026, Tugan Sokhiev, chef titulaire et conseiller artistique de l'Orchestre de la Suisse Romande (OSR) depuis la saison 2026-2027, est nommé directeur musical du NHK Symphony Orchestra, à Tokyo. Fondé en 1926, l'orchestre de la radio-télévision publique japonaise compte une centaine de musicien·nes.",
+      "L'article ne précise ni la date d'entrée en fonction au Japon ni la durée du contrat. Le chef cumulera ainsi deux postes de direction, en Suisse et au Japon."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse (RMS)",
+        "url": "https://www.musikzeitung.ch/en/news/2026/11/sokhiev-wird-musikdirektor-des-nhk-sinfonieorchester"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Tugan Sokhiev: OSR-Chefdirigent wird Musikdirektor des NHK Symphony Orchestra",
+        "chapo": "Tugan Sokhiev, der in dieser Saison sein Amt beim Orchestre de la Suisse Romande angetreten hat, übernimmt zusätzlich die musikalische Leitung des Orchesters des japanischen öffentlichen Rundfunks.",
+        "corps": [
+          "Wie die Schweizer Musikzeitung (SMZ) am 2. November 2026 berichtet, wird Tugan Sokhiev, seit der Saison 2026/27 Chefdirigent und künstlerischer Berater des Orchestre de la Suisse Romande (OSR), Musikdirektor des NHK Symphony Orchestra in Tokio. Das 1926 gegründete Orchester des japanischen öffentlichen Rundfunks zählt rund hundert Musikerinnen und Musiker.",
+          "Der Artikel nennt weder den Amtsantritt in Japan noch die Vertragsdauer. Der Dirigent wird damit zwei Leitungsposten innehaben, in der Schweiz und in Japan."
+        ]
+      },
+      "it": {
+        "titre": "Tugan Sokhiev: il direttore dell'OSR nominato direttore musicale della NHK Symphony Orchestra",
+        "chapo": "Entrato in carica all'Orchestre de la Suisse Romande in questa stagione, Tugan Sokhiev assumerà anche la direzione musicale dell'orchestra della radiotelevisione pubblica giapponese.",
+        "corps": [
+          "Secondo la Rivista musicale svizzera (Schweizer Musikzeitung) del 2 novembre 2026, Tugan Sokhiev, direttore principale e consulente artistico dell'Orchestre de la Suisse Romande (OSR) dalla stagione 2026-2027, è stato nominato direttore musicale della NHK Symphony Orchestra di Tokyo. Fondata nel 1926, l'orchestra della radiotelevisione pubblica giapponese conta un centinaio di musicisti.",
+          "L'articolo non precisa né la data di entrata in carica in Giappone né la durata del contratto. Il direttore cumulerà così due incarichi di direzione, in Svizzera e in Giappone."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-10-30-observatoire-romand-de-la-culture-une-etude-sur-la-durabilite-dans-sept-organisa",
     "rubrique": "Politique culturelle",
     "edition": "Matin",

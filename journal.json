@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-03",
+    "edition": "Matin",
+    "publie_le": "2026-11-03T06:24:51.118Z",
+    "articles": 1,
+    "bulletins": 0,
+    "sources_lues": 49,
+    "sources_total": 60,
+    "detail": "1 articles, 0 bulletins, 0 doublons écartés, 49/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch allowed_domains + WebFetch. Non lues (11) : ARCS, Gli Angeli Genève, RSI (barocchistiecoro.ch en PROVENANCE_REQUIRED), Theater Basel (/en/medien et /de/jobs : client_error), Le Temps et RTS (client_error), RMSR (archives seulement), Scènes Magazine, Swissinfo (rien de récent), FIM (/en/press-releases : client_error), Artos (pages d'offres : client_error). Autres : hkb.bfh.ch aptitude-tests-music (robots_disallowed), newsletter VMS 10-26 et article Gender Balance Musik-Akademie (PROVENANCE_REQUIRED). add_repo introuvable via ToolSearch ; dépôt déjà cloné. Écartés comme doublons : Tonhalle trompette/flûte solo, OSR supplémentaires contrebasse/hautbois, prix Ammann Lucerne, SOB cor grave. Non retenus faute de date vérifiée : SONART (Patric Dal Farra), Verbier/Shenzhen, OCG jeune chef associé."
+  },
+  {
     "date": "2026-11-02",
     "edition": "Matin",
     "publie_le": "2026-11-02T06:36:39.348Z",

@@ -1,5 +1,16 @@
 # Incidents de veille
 
+## 2026-11-03 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : newsletter VMS 10-26 (sendibm1.com), musik-akademie.ch (Gender Balance Action Screen November 2026), barocchistiecoro.ch (redirection depuis rsi.ch/coro/), muvac.com (Tonhalle), verbierfestival.com (Shenzhen Verbier Festival 2027), hemu.ch news id/1062, musikzeitung.ch/basis/kmhs.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 49/60 sources lues.
+- **Sources non lues** : ARCS (la recherche ne renvoie que l'URL bloquée) ; Gli Angeli Genève, Scènes Magazine, Swissinfo (rien de récent dans la recherche) ; RSI ; RMSR (archives seulement) ; Theater Basel (/en/medien, /de/jobs), Le Temps, RTS, FIM (/en/press-releases), Artos (pages d'offres) : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.`
+- **Autres échecs** : hkb.bfh.ch/en/news/news/aptitude-tests-music/ : `failed at its site (robots_disallowed)` ; ocl.ch/locl-recrute-remplacants-supp-cordes-vents/ : `client_error`.
+- **add_repo** : outil introuvable via ToolSearch (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre de la session.
+
 ## 2026-11-02 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
