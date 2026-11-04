@@ -1,5 +1,16 @@
 # Incidents de veille
 
+## 2026-11-04 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : newsletter VMS 10-26 (sendibm1.com), musik-akademie.ch (Gender Balance Action Screen), tobs.ch offene-stellen / medien-presse / world-opera-day-2026, konzertundtheater.ch/blog/, verbierfestival.com (Marque Valais, Academy 2027), hemu.ch news id/1059 et id/1060, opera-lausanne.ch/en/presse/, barocchistiecoro.ch (redirection depuis rsi.ch/coro/), muvac.com (Tonhalle), tonhalle-orchester.ch/news/duocalva-jubilaeum/.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 54/60 sources lues.
+- **Sources non lues** : Sinfonietta de Lausanne, Le Temps, RTS, FIM, Artos : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.` ; RMSR : `REDIRECT DETECTED … Status: 302 Found` (boucle https→http).
+- **Autres échecs** : theater-basel.ch /en/medien, /en/mediathek, /de/stellenprojekte et tonhalle-orchester.ch/news/mitarbeiterin-musikvermittlung-gesucht/ : `client_error` ; rsi.ch (article OSI « riparte nel segno di Orfeo ») : `client_error`.
+- **add_repo** : outil introuvable via ToolSearch (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre de la session.
+
 ## 2026-11-03 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).

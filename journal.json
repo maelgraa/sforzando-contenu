@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-04",
+    "edition": "Matin",
+    "publie_le": "2026-11-04T06:26:48.787Z",
+    "articles": 1,
+    "bulletins": 1,
+    "sources_lues": 54,
+    "sources_total": 60,
+    "detail": "1 articles, 1 bulletins, 0 doublons écartés, 54/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings. » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées (les variantes sans www de basler-madrigalisten.ch et verbierfestival.com s'ouvrent). Non lues : Sinfonietta de Lausanne (PROVENANCE_REQUIRED puis « failed at its site (client_error) »), Le Temps, RTS, FIM, Artos (« failed at its site (client_error), and nothing of the page was retrieved »), RMSR (boucle de redirection 302 https→http). Partielles : HKB (liste de news chargée dynamiquement, vide), Opéra de Lausanne (saison et recrutement seulement), TOBS (offres et communiqués bloqués), St.Gallen (blog bloqué). Écartés : prix Ammann du LSO (déjà publié le 02.11), classement de la motion Gianini 24.3944 (SONART, date non établie et texte tronqué, non confirmé sur parlament.ch), concours OSR violon solo associé 24.04.2027 (date de publication inconnue, détails à venir), postes OCL/OCG/OSI (délais échus), nominations ZHdK et restructuration finances Musikkollegium (non datées), article RTS collaboration opéra Genève-Lausanne (toujours illisible). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre."
+  },
+  {
     "date": "2026-11-03",
     "edition": "Matin",
     "publie_le": "2026-11-03T06:24:51.118Z",

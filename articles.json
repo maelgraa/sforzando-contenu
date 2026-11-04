@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-04-ofs-les-diplome-es-hes-en-musique-et-arts-parmi-les-plus-touche-es-par-le-chomag",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-04",
+    "titre": "OFS : les diplômé·es HES en musique et arts parmi les plus touché·es par le chômage",
+    "chapo": "Un an après leur diplôme, plus d'un·e bachelor sur dix du domaine « Musique, théâtre et autres arts » des HES est au chômage, selon des chiffres de l'Office fédéral de la statistique repris par la Revue musicale suisse.",
+    "corps": [
+      "Selon les données de l'Office fédéral de la statistique (OFS) sur la promotion 2024, interrogée un an après le diplôme, le taux de chômage atteint 10,8 % chez les titulaires d'un bachelor HES du domaine « Musique, théâtre et autres arts », le plus élevé de tous les domaines, et 8,2 % au master, au deuxième rang derrière le design. Pour l'ensemble des HES, les taux sont de 4,9 % au bachelor et de 6,2 % au master. La Revue musicale suisse (RMS) a publié ces chiffres le 18 septembre dans un article de Fabian Renz.",
+      "Pour les seules professions musicales, l'OFS a fourni à la RMS des taux de 5,4 % au bachelor et de 9,0 % au master, en appelant à la prudence en raison de larges intervalles de confiance. L'article donne notamment la parole à Philippe Krüttli (Association suisse des écoles de musique), à Urban Derungs (École de musique de Coire) et à Valentin Gloor (Conférence des hautes écoles de musique suisses)."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse (RMS) — « Viele Schweizer Musiker sind erwerbslos. Warum eigentlich? »",
+        "url": "https://www.musikzeitung.ch/en/politik/2026/09/viele-schweizer-musiker-sind-erwerbslos-warum-eigentlich"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "BFS: Musik- und Kunstabsolvent:innen der Fachhochschulen besonders oft erwerbslos",
+        "chapo": "Ein Jahr nach dem Abschluss ist mehr als jede:r zehnte Bachelor-Absolvent:in des FH-Fachbereichs «Musik, Theater und andere Künste» erwerbslos, wie Zahlen des Bundesamts für Statistik zeigen, über die die Schweizer Musikzeitung berichtet.",
+        "corps": [
+          "Gemäss den Daten des Bundesamts für Statistik (BFS) zum Abschlussjahrgang 2024, befragt ein Jahr nach dem Abschluss, liegt die Erwerbslosenquote bei Bachelor-Absolvent:innen des FH-Fachbereichs «Musik, Theater und andere Künste» bei 10,8 Prozent – dem höchsten Wert aller Fachbereiche – und beim Master bei 8,2 Prozent, an zweiter Stelle hinter dem Design. Über alle Fachhochschulen hinweg betragen die Quoten 4,9 Prozent (Bachelor) und 6,2 Prozent (Master). Die Schweizer Musikzeitung (SMZ) veröffentlichte diese Zahlen am 18. September in einem Artikel von Fabian Renz.",
+          "Für die Musikberufe allein lieferte das BFS der SMZ Quoten von 5,4 Prozent beim Bachelor und 9,0 Prozent beim Master; es mahnt wegen grosser Vertrauensintervalle zur Vorsicht. Im Artikel kommen unter anderem Philippe Krüttli (Verband Musikschulen Schweiz), Urban Derungs (Musikschule Chur) und Valentin Gloor (Konferenz Musikhochschulen Schweiz) zu Wort."
+        ]
+      },
+      "it": {
+        "titre": "UST: i diplomati SUP in musica e arti tra i più colpiti dalla disoccupazione",
+        "chapo": "Un anno dopo il diploma, più di un titolare di bachelor su dieci del settore «Musica, teatro e altre arti» delle SUP è disoccupato, secondo dati dell'Ufficio federale di statistica ripresi dalla Rivista musicale svizzera.",
+        "corps": [
+          "Secondo i dati dell'Ufficio federale di statistica (UST) sui diplomati del 2024, interpellati un anno dopo il diploma, il tasso di disoccupazione raggiunge il 10,8 % tra i titolari di un bachelor SUP del settore «Musica, teatro e altre arti», il più elevato di tutti i settori, e l'8,2 % al master, al secondo posto dopo il design. Per l'insieme delle SUP i tassi sono del 4,9 % al bachelor e del 6,2 % al master. La Rivista musicale svizzera (Schweizer Musikzeitung) ha pubblicato queste cifre il 18 settembre in un articolo di Fabian Renz.",
+          "Per le sole professioni musicali, l'UST ha fornito alla rivista tassi del 5,4 % al bachelor e del 9,0 % al master, invitando alla prudenza a causa di ampi intervalli di confidenza. L'articolo dà la parola in particolare a Philippe Krüttli (Associazione svizzera delle scuole di musica), Urban Derungs (Scuola di musica di Coira) e Valentin Gloor (Conferenza delle scuole universitarie di musica svizzere)."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-03-tugan-sokhiev-le-chef-de-l-osr-nomme-directeur-musical-du-nhk-symphony-orchestra",
     "rubrique": "International",
     "edition": "Matin",
