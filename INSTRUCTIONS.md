@@ -29,7 +29,12 @@ sans inventer de faits.
   conditions de travail, politique culturelle, restructurations, études, situation internationale.
   Rubriques autorisées : Suisse, Syndical, Politique culturelle, Associations, Autres arts, International.
   Le titre commence par le nom propre principal (institution, ville, personne : « OSR : … », « Lucerne : … ») : c'est
-  ainsi que les lecteurs cherchent sur Google.
+  ainsi que les lecteurs cherchent sur Google. Quand l'article porte sur une personne (nomination, départ, prise de
+  position), écris son prénom et son nom complets dans le titre, avec son institution ou son rôle s'ils ne sont pas
+  déjà le premier mot (« Anna Niederhäuser (OFC) : … », « Lugano : Giuliana Zanoni prend la direction de l'OSI »).
+  Search Console montre que ces noms sont presque les seules recherches qui amènent des lecteurs.
+  Le chapô s'affiche sous le titre dans Google : il répond en une phrase à qui, quoi, quand, avec le fait nouveau
+  d'abord (pas de mise en contexte avant).
   Chaque article : `titre`, `chapo` (1 phrase), `corps` (1 à 3 paragraphes denses mais fidèles),
   `sources` (liste de `{label, url}` reprises des pages lues — l'URL la plus précise possible).
 - **Bulletins (0 à 8)** : infos pratiques en 1-2 phrases — auditions, concours, postes d'enseignement, annonces
