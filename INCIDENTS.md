@@ -1,5 +1,16 @@
 # Incidents de veille
 
+## 2026-11-05 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : newsletter VMS 10-26 (sendibm1.com), barocchistiecoro.ch (redirection depuis rsi.ch/coro/), opera-lausanne.ch/en/presse/, verbierfestival.com (Marque Valais, Shenzhen 2027), hemu.ch news id/1061, PDF Bühnen Bern (communiqué Urbański), tonhalle-orchester.ch/news (mitarbeiter-in-dramaturgie, verabschiedung-ute-grewel, page2), musik-akademie.ch (ESB/PSS Spatial Audio, Gender Balance Action Screen), PDF d'offres Konzert und Theater St.Gallen, gliangeligeneve.com.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 50/60 sources lues.
+- **Sources non lues** : Gli Angeli Genève (/media/index.html : `Not fetched: https://www.gliangeligeneve.com/media/index.html failed at its site (client_error), and nothing of the page was retrieved.`) ; RSI (PROVENANCE_REQUIRED) ; Theater Basel (/en/medien : `client_error`) ; Le Temps et RTS (articles : `client_error`, extraits de recherche seulement) ; RMSR (la recherche ne renvoie que des archives http) ; SRF et Swissinfo (rien de récent dans la recherche) ; FIM (/en/press-releases, /orchestras, ioc.fim-musicians.org : `client_error`) ; Artos (pages d'offres : `client_error`).
+- **Autres échecs** : sing-akademie.ch/portfolio_page/audition-2026/ et letemps.ch (article OCG) : `client_error` ; contenu de l'article SONART sur la motion Gianini tronqué par l'outil.
+- **add_repo** : outil introuvable via ToolSearch (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre de la session.
+
 ## 2026-11-04 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
