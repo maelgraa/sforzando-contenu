@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-11-05-grand-theatre-de-geneve-audition-pour-des-danseurs-euses-permanent-es-du-ballet-",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-05",
+    "titre": "Grand Théâtre de Genève : audition pour des danseurs·euses permanent·es du Ballet (saison 2027-2028)",
+    "info": "Le Ballet du Grand Théâtre engage plusieurs danseurs·euses à plein temps dès août 2027 (formation classique et contemporaine, au moins trois ans d'expérience en compagnie). Candidatures en ligne jusqu'au 29 novembre 2026 ; les personnes retenues seront convoquées le 18 janvier 2027 pour l'audition du 27 février 2027 à Genève.",
+    "source": {
+      "label": "Grand Théâtre de Genève — Audition notice",
+      "url": "https://www.gtg.ch/en/audition-notice-fulltime-dancers-ballet-gtg-season2027-2028/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Grand Théâtre de Genève: Audition für feste Tänzerinnen und Tänzer des Balletts (Saison 2027/28)",
+        "info": "Das Ballett des Grand Théâtre stellt ab August 2027 mehrere Tänzerinnen und Tänzer in Vollzeit ein (klassische und zeitgenössische Ausbildung, mindestens drei Jahre Kompanie-Erfahrung). Online-Bewerbungen bis 29. November 2026; ausgewählte Personen werden am 18. Januar 2027 zur Audition vom 27. Februar 2027 in Genf eingeladen."
+      },
+      "it": {
+        "titre": "Grand Théâtre de Genève: audizione per ballerini e ballerine stabili del Ballet (stagione 2027-2028)",
+        "info": "Il Ballet del Grand Théâtre assume diversi ballerini e ballerine a tempo pieno da agosto 2027 (formazione classica e contemporanea, almeno tre anni di esperienza in compagnia). Candidature online entro il 29 novembre 2026; le persone selezionate saranno convocate il 18 gennaio 2027 per l'audizione del 27 febbraio 2027 a Ginevra."
+      }
+    }
+  },
+  {
     "id": "2026-11-04-grand-theatre-de-geneve-audition-de-chanteurs-euses-et-de-comedien-nes-pour-the-",
     "categorie": "Auditions & concours",
     "date": "2026-11-04",

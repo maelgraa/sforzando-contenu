@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-05",
+    "edition": "Matin",
+    "publie_le": "2026-11-05T06:25:20.220Z",
+    "articles": 1,
+    "bulletins": 1,
+    "sources_lues": 50,
+    "sources_total": 60,
+    "detail": "1 articles, 1 bulletins, 0 doublons écartés, 50/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch allowed_domains + WebFetch des URL renvoyées. Non lues : Gli Angeli (client_error sur /media/index.html), RSI (barocchistiecoro.ch PROVENANCE_REQUIRED), Theater Basel (/en/medien client_error), Le Temps et RTS (articles client_error, extraits seulement), RMSR (archives http seulement), SRF, Swissinfo (rien de récent), FIM et Artos (client_error). Outil add_repo introuvable : dépôt déjà cloné. Écartés : prix Ammann Lucerne (déjà publié 02.11), Konsibern (déjà publié), OCL clarinette/cor (inscriptions closes), Blomstedt (hors périmètre, faits incomplets), postes MKW/St-Gall/Tonhalle sans date ni délai lisibles. Motion Gianini : auteur, date de dépôt et de classement non vérifiés, donc non mentionnés."
+  },
+  {
     "date": "2026-11-04",
     "edition": "Matin",
     "publie_le": "2026-11-04T06:26:48.787Z",

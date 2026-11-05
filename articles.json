@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-11-05-motion-gianini-le-texte-contre-les-redevances-de-droits-d-auteur-des-pme-est-cla",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-11-05",
+    "titre": "Motion Gianini : le texte contre les redevances de droits d'auteur des PME est classé",
+    "chapo": "Le Conseil national n'a pas traité dans le délai légal de deux ans la motion 24.3944, que SONART combattait : l'objet est liquidé.",
+    "corps": [
+      "La motion 24.3944 « Stop aux chicanes dans le droit d'auteur pour les PME », dite motion Gianini, est classée, annonce l'association des musicien·nes SONART : le Conseil national ne l'a pas traitée dans le délai légal de deux ans. Le service web du Parlement la mentionne désormais comme liquidée. SONART avait appelé ses membres à se mobiliser contre ce texte à la fin du mois de mai.",
+      "La motion chargeait le Conseil fédéral de réviser le droit d'auteur afin que, pour les PME, la notion de « rendre perceptible » une œuvre ne s'applique qu'à la diffusion d'enregistrements sonores ou audiovisuels auprès de la clientèle ou de tiers extérieurs à l'entreprise, et non à l'usage interne, par exemple dans les véhicules de service ou auprès du personnel. Le Conseil fédéral en proposait le rejet : il la jugeait trop large, puisqu'elle aurait aussi couvert la musique diffusée lors de fêtes d'entreprise réunissant jusqu'à 250 personnes, et estimait que les divergences d'interprétation relèvent des tribunaux."
+    ],
+    "sources": [
+      {
+        "label": "SONART — Motion Gianini : Vorstoss gegen Urheberrechtsvergütungen ist vom Tisch",
+        "url": "https://www.sonart.swiss/de/gut-zu-wissen/motion-gianini-vorstoss-gegen-urheberrechtsverguetungen-ist-vom-tisch-1391/"
+      },
+      {
+        "label": "Parlement suisse — objet 24.3944",
+        "url": "https://ws-old.parlament.ch/affairs/20243944"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Motion Gianini: Vorstoss gegen Urheberrechtsvergütungen von KMU ist erledigt",
+        "chapo": "Der Nationalrat hat die von SONART bekämpfte Motion 24.3944 nicht innerhalb der gesetzlichen Frist von zwei Jahren behandelt: Das Geschäft ist abgeschrieben.",
+        "corps": [
+          "Die Motion 24.3944 «Schikanen im Urheberrecht für KMU beseitigen», die sogenannte Motion Gianini, ist erledigt, wie der Musikschaffendenverband SONART meldet: Der Nationalrat hat sie nicht innerhalb der gesetzlichen Frist von zwei Jahren behandelt. Im Webservice des Parlaments ist sie nun als erledigt aufgeführt. SONART hatte seine Mitglieder Ende Mai zur Mobilisierung gegen den Vorstoss aufgerufen.",
+          "Die Motion beauftragte den Bundesrat, das Urheberrecht so zu revidieren, dass für KMU der Begriff des «Wahrnehmbarmachens» nur gilt, wenn Ton- oder Tonbildaufnahmen gegenüber Kundschaft oder Dritten ausserhalb des Unternehmens wiedergegeben werden, nicht aber bei interner Nutzung, etwa in Geschäftsfahrzeugen oder gegenüber dem Personal. Der Bundesrat beantragte die Ablehnung: Er hielt die Motion für zu weit gefasst, da sie auch Musik an Firmenanlässen mit bis zu 250 Personen erfasst hätte, und war der Ansicht, dass Auslegungsfragen Sache der Gerichte sind."
+        ]
+      },
+      "it": {
+        "titre": "Mozione Gianini: tolto di mezzo il testo contro i compensi per i diritti d'autore delle PMI",
+        "chapo": "Il Consiglio nazionale non ha trattato entro il termine legale di due anni la mozione 24.3944, combattuta da SONART: l'oggetto è tolto dal ruolo.",
+        "corps": [
+          "La mozione 24.3944 «Schikanen im Urheberrecht für KMU beseitigen», detta mozione Gianini, è stata tolta dal ruolo, annuncia l'associazione di musicisti SONART: il Consiglio nazionale non l'ha trattata entro il termine legale di due anni. Il servizio web del Parlamento la indica ora come liquidata. A fine maggio SONART aveva invitato i propri membri a mobilitarsi contro il testo.",
+          "La mozione incaricava il Consiglio federale di rivedere il diritto d'autore affinché, per le PMI, la nozione di «rendere percepibile» un'opera si applicasse solo alla diffusione di registrazioni sonore o audiovisive presso la clientela o terzi esterni all'impresa, e non all'uso interno, ad esempio nei veicoli aziendali o presso il personale. Il Consiglio federale ne proponeva la reiezione: la riteneva troppo ampia, poiché avrebbe coperto anche la musica diffusa durante feste aziendali fino a 250 persone, e considerava che le divergenze d'interpretazione spettino ai tribunali."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-04-ofs-les-diplome-es-hes-en-musique-et-arts-parmi-les-plus-touche-es-par-le-chomag",
     "rubrique": "Suisse",
     "edition": "Matin",
