@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-11-06-osi-concours-de-chef-fe-d-attaque-des-seconds-violons-inscriptions-jusqu-au-31-j",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-06",
+    "titre": "OSI : concours de chef·fe d'attaque des seconds violons, inscriptions jusqu'au 31 janvier 2027",
+    "info": "L'Orchestra della Svizzera italiana met au concours le poste coordonné de chef·fe d'attaque des seconds violons. Inscriptions jusqu'au 31 janvier 2027 via muvac ; pré-audition le 2 mars et concours le 3 mars 2027.",
+    "source": {
+      "label": "OSI — Concorsi",
+      "url": "https://www.osi.swiss/jobs"
+    },
+    "traductions": {
+      "de": {
+        "titre": "OSI: Probespiel für Stimmführer·in der 2. Violinen, Anmeldung bis 31. Januar 2027",
+        "info": "Das Orchestra della Svizzera italiana schreibt die koordinierte Stelle des Stimmführers bzw. der Stimmführerin der 2. Violinen aus. Anmeldung bis 31. Januar 2027 über muvac; Vorrunde am 2. März, Probespiel am 3. März 2027."
+      },
+      "it": {
+        "titre": "OSI: concorso per capofila dei secondi violini, iscrizioni entro il 31 gennaio 2027",
+        "info": "L'Orchestra della Svizzera italiana bandisce il concorso per il posto di capofila dei secondi violini (coordinato). Iscrizioni entro il 31 gennaio 2027 tramite muvac; pre-audizione il 2 marzo e concorso il 3 marzo 2027."
+      }
+    }
+  },
+  {
     "id": "2026-11-05-grand-theatre-de-geneve-audition-pour-des-danseurs-euses-permanent-es-du-ballet-",
     "categorie": "Auditions & concours",
     "date": "2026-11-05",

@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-11-06",
+    "edition": "Matin",
+    "publie_le": "2026-11-06T06:26:21.759Z",
+    "articles": 0,
+    "bulletins": 1,
+    "sources_lues": 55,
+    "sources_total": 60,
+    "detail": "0 articles, 1 bulletins, 2 doublons écartés, 55/60 sources lues",
+    "ecartes": [
+      "OSR : concours de violon solo associé le 24 avril 2027  ≈  OSR : trois places de tutti dans les premiers violons, concours en mai 2027",
+      "Opernhaus Zürich : postes en informatique, RH et coordination du projet « Opernhaus im Quartier »  ≈  Opernhaus Zürich : quatre auditions d'orchestre et des places au chœur"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : ARCS (la recherche ne renvoie que l'URL bloquée) ; Le Temps, RTS, FIM, Artos (pages d'articles/offres : « failed at its site (client_error), and nothing of the page was retrieved », extraits de recherche seulement). Partielles : VMS (newsletter 10-26 sur sendibm/Brevo bloquée), KMHS (rubrique bloquée), Theater Basel (accueil seul ; /en/medien et /de/stellenprojekte en client_error). Outil add_repo introuvable via ToolSearch : dépôt déjà cloné et dans le périmètre. Écartés : mort de Herbert Blomstedt (nécrologie, hors ligne éditoriale), Ammann Prize du LSO (déjà publié le 2.11 ; jury Fabio Luisi nouveau mais mineur), distinction de Gianandrea Noseda, titres Le Temps/RTS sur OCL/OCG non datés et illisibles, offres Tonhalle (articles bloqués), postes jazz HEMU sans délai, auditions OCL/OCG dont les délais sont échus."
+  },
+  {
     "date": "2026-11-05",
     "edition": "Matin",
     "publie_le": "2026-11-05T06:25:20.220Z",
