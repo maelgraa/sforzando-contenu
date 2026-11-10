@@ -5,6 +5,7 @@
     "date": "2026-11-06",
     "titre": "OSI : concours de chef·fe d'attaque des seconds violons, inscriptions jusqu'au 31 janvier 2027",
     "info": "L'Orchestra della Svizzera italiana met au concours le poste coordonné de chef·fe d'attaque des seconds violons. Inscriptions jusqu'au 31 janvier 2027 via muvac ; pré-audition le 2 mars et concours le 3 mars 2027.",
+    "echeance": "2027-01-31",
     "source": {
       "label": "OSI — Concorsi",
       "url": "https://www.osi.swiss/jobs"
@@ -26,6 +27,7 @@
     "date": "2026-11-05",
     "titre": "Grand Théâtre de Genève : audition pour des danseurs·euses permanent·es du Ballet (saison 2027-2028)",
     "info": "Le Ballet du Grand Théâtre engage plusieurs danseurs·euses à plein temps dès août 2027 (formation classique et contemporaine, au moins trois ans d'expérience en compagnie). Candidatures en ligne jusqu'au 29 novembre 2026 ; les personnes retenues seront convoquées le 18 janvier 2027 pour l'audition du 27 février 2027 à Genève.",
+    "echeance": "2026-11-29",
     "source": {
       "label": "Grand Théâtre de Genève — Audition notice",
       "url": "https://www.gtg.ch/en/audition-notice-fulltime-dancers-ballet-gtg-season2027-2028/"
@@ -47,6 +49,7 @@
     "date": "2026-11-04",
     "titre": "Grand Théâtre de Genève : audition de chanteurs·euses et de comédien·nes pour « The Fantasticks »",
     "info": "Le Grand Théâtre de Genève cherche des chanteuses ou chanteurs et des comédiennes ou comédiens pour « The Fantasticks », disponibles pour toutes les répétitions et représentations du 7 février au 7 mars 2028 à Genève. Candidatures par e-mail jusqu'au 8 novembre 2026 inclus ; audition le mardi 8 décembre 2026 à La Cité Bleue Genève.",
+    "echeance": "2026-11-08",
     "source": {
       "label": "Grand Théâtre de Genève — Emploi",
       "url": "https://www.gtg.ch/emploi/"
@@ -89,6 +92,7 @@
     "date": "2026-11-02",
     "titre": "Opernhaus Zürich : quatre auditions d'orchestre et des places au chœur",
     "info": "L'orchestre de l'Opéra de Zurich organise des auditions de 2e violon tutti (9 décembre 2026), d'alto tutti (10 décembre), de 2e Konzertmeister·in (19 décembre) et de 1er violon tutti (20 février 2027). Le chœur cherche un·e 1er alto et deux 2es basses pour le 1er janvier 2027 ; candidatures via muvac.",
+    "echeance": "2027-02-20",
     "source": {
       "label": "Opernhaus Zürich",
       "url": "https://www.opernhaus.ch/opernhaus-zuerich/stellen/offene-stellen/"
@@ -110,6 +114,7 @@
     "date": "2026-11-02",
     "titre": "OSR : un poste de clarinette principale, épreuves les 6 et 7 décembre",
     "info": "L'Orchestre de la Suisse Romande met au concours un poste de clarinette solo coordonnée ; les épreuves auront lieu les 6 et 7 décembre 2026.",
+    "echeance": "2026-12-07",
     "source": {
       "label": "Orchestre de la Suisse Romande",
       "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
@@ -173,6 +178,7 @@
     "date": "2026-10-28",
     "titre": "Sinfonieorchester Basel : un poste de cor grave, audition le 17 décembre",
     "info": "Le Sinfonieorchester Basel met au concours un poste de cor grave à 75 %, avec entrée en fonction le 1er août 2027. Candidatures jusqu'au 8 novembre 2026 via muvac ; l'audition aura lieu le 17 décembre 2026 au Stadtcasino Basel.",
+    "echeance": "2026-11-08",
     "source": {
       "label": "Sinfonieorchester Basel — Karriere",
       "url": "https://www.sinfonieorchesterbasel.ch/en/career"
@@ -194,6 +200,7 @@
     "date": "2026-10-28",
     "titre": "OSR : trois places de tutti dans les premiers violons, concours en mai 2027",
     "info": "L'Orchestre de la Suisse Romande annonce un concours pour trois postes de premier violon tutti le 14 mai 2027 ; les inscriptions seront ouvertes du 1er décembre 2026 au 28 février 2027.",
+    "echeance": "2027-02-28",
     "source": {
       "label": "OSR — Concours et auditions",
       "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
@@ -257,6 +264,7 @@
     "date": "2026-10-27",
     "titre": "OSR : auditions de musicien·nes supplémentaires en alto, tuba, contrebasse et hautbois",
     "info": "L'OSR auditionne des supplémentaires en alto et tuba le 29 octobre, en contrebasse et hautbois (cor anglais facultatif) le 20 novembre, à Genève ; CV et pièce d'identité à auditions@osr.ch au plus tard cinq jours avant.",
+    "echeance": "2026-11-15",
     "source": {
       "label": "OSR — concours et auditions",
       "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
@@ -278,6 +286,7 @@
     "date": "2026-10-27",
     "titre": "Conservatoire de Lausanne : enseignant·e de solfège (60-80 %)",
     "info": "Le Conservatoire de Lausanne cherche un·e enseignant·e de solfège à environ 60-80 % (temps partagé possible), entrée en fonction le 1er août 2027 ; délai de candidature le 7 décembre 2026.",
+    "echeance": "2026-12-07",
     "source": {
       "label": "Artos — emplois",
       "url": "https://artos-net.ch/emplois/enseignante-de-solfege"
@@ -341,6 +350,7 @@
     "date": "2026-10-26",
     "titre": "Concours suisse de musique pour la jeunesse 2027 : inscriptions du 1er au 30 novembre",
     "info": "La 52e édition du Concours suisse de musique pour la jeunesse ouvre ses inscriptions du 1er au 30 novembre 2026 (projets Composition et FreeSpace jusqu'au 31 décembre) ; concours régionaux du 26 au 28 février 2027, finales du 9 au 11 avril 2027 à Lucerne. Nouveauté : une catégorie Pop/Rock/Jazz en solo remplace l'ancien concours Jazz & Pop.",
+    "echeance": "2026-12-31",
     "source": {
       "label": "Revue musicale suisse — 52. Schweizerischer Jugendmusikwettbewerb (15.10.2026)",
       "url": "https://www.musikzeitung.ch/en/basis/sjmw/2026/10/52-schweizerischer-jugendmusikwettbewerb-erweitertes-angebot"
@@ -383,6 +393,7 @@
     "date": "2026-10-23",
     "titre": "TOBS! : la direction (Intendanz) mise au concours pour juillet 2028",
     "info": "Theater Orchester Biel Solothurn cherche une personnalité, ou une direction en équipe, pour son Intendanz dès juillet 2028, avec expérience de l'opéra et bonne maîtrise de l'allemand et du français. Candidatures jusqu'au 13 novembre 2026 auprès d'Anna Barbara Remund, présidente du conseil de fondation.",
+    "echeance": "2026-11-13",
     "source": {
       "label": "TOBS! — Offene Stellen : Intendanz",
       "url": "https://www.tobs.ch/ueber-tobs/arbeiten-bei-tobs/offene-stellen/intendanz-tobs"
@@ -404,6 +415,7 @@
     "date": "2026-10-23",
     "titre": "Bühnen Bern : poste de 1er·ère Kapellmeister·in à l'Opéra",
     "info": "Bühnen Bern recrute un·e 1er·ère Kapellmeister·in et assistant·e musical·e de la cheffe principale (100 %), entrée le 1er août 2027, salaire selon la CCT Solo ; épreuves de direction les 26 février et 5 mars 2027. Délai : 15 novembre 2026.",
+    "echeance": "2026-11-15",
     "source": {
       "label": "Bühnen Bern — Jobs",
       "url": "https://buehnenbern.ch/uber-uns/jobs/"
@@ -425,6 +437,7 @@
     "date": "2026-10-23",
     "titre": "Tonhalle-Orchester Zürich : quatre postes de musicien·nes au concours",
     "info": "Le Tonhalle-Orchester Zürich recrute un alto tutti et une contrebasse tutti (délai 1er novembre 2026), une 2e/3e/4e trompette (29 novembre 2026) et une flûte solo avec obligation de 2e/3e flûte (10 janvier 2027). Candidatures uniquement via muvac.",
+    "echeance": "2027-01-10",
     "source": {
       "label": "Tonhalle-Orchester Zürich — Jobs",
       "url": "https://tonhalle-orchester.ch/ueber-uns/jobs/"
@@ -446,6 +459,7 @@
     "date": "2026-10-23",
     "titre": "OSR : concours de second violon et d'alto tutti, délai le 29 novembre",
     "info": "L'Orchestre de la Suisse Romande organise des concours de 2e violon tutti (15 février 2027) et d'alto tutti (16 février 2027), inscriptions jusqu'au 29 novembre 2026 ; trois postes de 1er violon tutti suivront le 14 mai 2027 (inscriptions du 1er décembre 2026 au 28 février 2027).",
+    "echeance": "2026-11-29",
     "source": {
       "label": "OSR — Concours et auditions",
       "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions?instrument=violin&cHash=16dfb95f7562f8eeb89e390e1c6cef66"
@@ -467,6 +481,7 @@
     "date": "2026-10-23",
     "titre": "Sinfonieorchester Basel : contrebasse tutti (75 %), candidatures jusqu'au 26 octobre",
     "info": "Le Sinfonieorchester Basel organise le 7 décembre 2026 un Probespiel pour un poste de contrebasse tutti à 75 %, entrée le 1er août 2027. Candidatures via muvac jusqu'au 26 octobre 2026.",
+    "echeance": "2026-10-26",
     "source": {
       "label": "Sinfonieorchester Basel — Career",
       "url": "https://www.sinfonieorchesterbasel.ch/en/career"
@@ -551,6 +566,7 @@
     "date": "2026-10-22",
     "titre": "Pro Helvetia : spécialiste musique (70 %), domaine pop",
     "info": "Poste à Zurich (télétravail partiel possible) dans la division Musique, entrée au 1er mai 2027 ou à convenir. Candidatures jusqu'au 15 novembre 2026.",
+    "echeance": "2026-11-15",
     "source": {
       "label": "SONART — offre de Pro Helvetia",
       "url": "https://www.sonart.swiss/de/gut-zu-wissen/pro-helvetia-fachspezialistin-musik-70-1387/"
