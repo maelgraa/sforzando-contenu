@@ -80,6 +80,10 @@ buls.forEach((b, i) => {
   if (!BULLETIN_CATS.includes(b.categorie)) erreurs.push(`${n} : catégorie « ${b.categorie} » non autorisée`);
   if (!texte(b.titre) || !texte(b.info)) erreurs.push(`${n} : titre ou info manquant`);
   if (!lien(b.source)) erreurs.push(`${n} : source invalide`);
+  if (b.echeance != null && b.echeance !== "") {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(b.echeance) || Number.isNaN(Date.parse(b.echeance))) erreurs.push(`${n} : echeance « ${b.echeance} » invalide (AAAA-MM-JJ)`);
+    else if (b.echeance < date) erreurs.push(`${n} : echeance ${b.echeance} déjà passée`);
+  }
   else if (horsListe(b.source.url)) avertissements.push(`${n} : source hors liste suivie (${b.source.url})`);
   for (const l of ["de", "it"]) {
     const t = b.traductions?.[l];
@@ -119,7 +123,7 @@ for (const b of buls) {
   let id = `${date}-${slugify(b.titre)}`;
   while (ids.has(id)) id += "-2";
   ids.add(id);
-  nouveauxBulletins.push({ id, categorie: b.categorie, date, titre: b.titre, info: b.info, source: b.source, traductions: b.traductions });
+  nouveauxBulletins.push({ id, categorie: b.categorie, date, titre: b.titre, info: b.info, ...(b.echeance ? { echeance: b.echeance } : {}), source: b.source, traductions: b.traductions });
   deja.push({ titre: b.titre, url: b.source?.url });
 }
 

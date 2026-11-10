@@ -39,7 +39,11 @@ sans inventer de faits.
   `sources` (liste de `{label, url}` reprises des pages lues — l'URL la plus précise possible).
 - **Bulletins (0 à 8)** : infos pratiques en 1-2 phrases — auditions, concours, postes d'enseignement, annonces
   économiques des orchestres et hautes écoles. Catégories autorisées : Auditions & concours,
-  Emplois & enseignement, Annonces économiques. Chaque bulletin : `titre`, `info`, `source` (`{label, url}`).
+  Emplois & enseignement, Annonces économiques. Chaque bulletin : `titre`, `info`, `source` (`{label, url}`),
+  et `echeance` (AAAA-MM-JJ) quand la page lue donne une date : le délai de candidature, ou à défaut la date de
+  l'épreuve (la dernière s'il y en a plusieurs). Sans date dans la source, omets le champ, ne la devine jamais.
+  Le site archive un bulletin d'audition, de concours ou d'emploi le lendemain de son échéance, ou 60 jours
+  après sa publication s'il n'en a pas. Ne publie pas un bulletin dont l'échéance est déjà passée.
 - **Traductions** : pour chaque article et bulletin, `traductions.de` et `traductions.it` avec les mêmes champs
   rédigés (`titre`, `chapo`, `corps` avec le même nombre de paragraphes ; ou `titre`, `info`). Allemand d'usage
   suisse (« ss » au lieu de « ß »).
@@ -59,7 +63,7 @@ sans inventer de faits.
 {
   "articles": [{ "rubrique": "", "titre": "", "chapo": "", "corps": [""], "sources": [{ "label": "", "url": "" }],
                  "traductions": { "de": { "titre": "", "chapo": "", "corps": [""] }, "it": { "titre": "", "chapo": "", "corps": [""] } } }],
-  "bulletins": [{ "categorie": "", "titre": "", "info": "", "source": { "label": "", "url": "" },
+  "bulletins": [{ "categorie": "", "titre": "", "info": "", "echeance": "AAAA-MM-JJ (facultatif)", "source": { "label": "", "url": "" },
                   "traductions": { "de": { "titre": "", "info": "" }, "it": { "titre": "", "info": "" } } }]
 }
 ```
