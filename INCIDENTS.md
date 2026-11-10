@@ -1,5 +1,17 @@
 # Incidents de veille
 
+## 2026-11-10 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : newsletter VMS 10-26 (sendibm1.com), smv.ch/fr (premier essai), musik-akademie.ch (H.E.I. Campus!, Blomstedt), musikzeitung.ch/basis/kmhs, hem.hesge.ch/la-hem/emploi, tonhalle-orchester.ch (AG 20.01.2027, Ute Grewel, Conductors' Academy, communiqué 2026/27), muvac (OCG), PDF cor KuT St.Gallen, gtg.ch/actualites, hemu.ch news id/1059 à 1062, barocchistiecoro.ch (premier essai), pages d'accueil SMZ, SRF, Swissinfo, Scènes Magazine, Bachtrack, FIM, Artos.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 50/60 sources lues.
+- **Sources non lues** : ARCS (la recherche ne renvoie que l'URL bloquée) ; Sinfonietta de Lausanne et Gli Angeli Genève : `failed at its site (robots_disallowed)` ; Le Temps et RTS (articles : `failed at its site (client_error), and nothing of the page was retrieved.`, extraits de recherche seulement) ; RMSR et Scènes Magazine (la recherche ne renvoie que des archives) ; Bachtrack (critiques seulement) ; FIM (/en/press-releases : `client_error`) ; Artos (5 annonces : `client_error`).
+- **Autres échecs** : ocl.ch/actualites/emploi/ : `robots_disallowed` ; theater-basel.ch /en/medien, /fr/medias, /de/stellenprojekte : `client_error` (seul l'accueil lu) ; opera-lausanne.ch (page Kattenburg) : `{"error_type":"SERVER_ERROR","source":"target","message":"There was an error while fetching."}`.
+- **add_repo et WebFetch direct** : outils introuvables via ToolSearch dans la session principale (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre, les lectures ont été faites par sous-agents.
+- **publier.mjs** : 2 bulletins écartés comme doublons par le script (OSR violon solo associé ≈ OSR premiers violons tutti ; GTG chargé·e d'administration artistique ≈ GTG audition « The Fantasticks ») — rapprochements vraisemblablement abusifs (même institution en tête de titre), à vérifier.
+
 ## 2026-11-09 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).

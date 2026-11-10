@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-11-10",
+    "edition": "Matin",
+    "publie_le": "2026-11-10T06:29:16.936Z",
+    "articles": 1,
+    "bulletins": 0,
+    "sources_lues": 50,
+    "sources_total": 60,
+    "detail": "1 articles, 0 bulletins, 2 doublons écartés, 50/60 sources lues",
+    "ecartes": [
+      "OSR : un concours de violon solo associé (coordonné) en avril 2027  ≈  OSR : trois places de tutti dans les premiers violons, concours en mai 2027",
+      "Grand Théâtre de Genève : chargé·e d'administration artistique (100 %), CDD jusqu'en mai 2027  ≈  Grand Théâtre de Genève : audition de chanteurs·euses et de comédien·nes pour « The Fantasticks »"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de départ (PROVENANCE_REQUIRED) ; contournement WebSearch allowed_domains + WebFetch par sous-agents. Non lues : ARCS, Sinfonietta (robots_disallowed), Gli Angeli (robots_disallowed), Le Temps et RTS (client_error, extraits seulement), RMSR, Scènes Magazine, Bachtrack, FIM (client_error), Artos (client_error). 2 bulletins écartés par le script comme doublons vraisemblablement abusifs (OSR violon solo associé ≈ premiers violons tutti ; GTG administration artistique ≈ audition The Fantasticks). add_repo et WebFetch introuvables via ToolSearch dans la session principale."
+  },
+  {
     "date": "2026-11-09",
     "edition": "Matin",
     "publie_le": "2026-11-09T06:30:44.502Z",

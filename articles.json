@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-10-joshua-weilerstein-l-ancien-directeur-artistique-de-l-ocl-nomme-chef-principal-d",
+    "rubrique": "International",
+    "edition": "Matin",
+    "date": "2026-11-10",
+    "titre": "Joshua Weilerstein : l'ancien directeur artistique de l'OCL nommé chef principal du BBC Philharmonic",
+    "chapo": "Joshua Weilerstein, directeur artistique de l'Orchestre de Chambre de Lausanne jusqu'en 2021, prendra en septembre 2028 la direction du BBC Philharmonic Orchestra de Manchester, pour un premier mandat de cinq ans.",
+    "corps": [
+      "Le BBC Philharmonic Orchestra, basé à Manchester, a choisi Joshua Weilerstein comme nouveau chef principal, rapporte la Revue musicale suisse le 9 novembre 2026. Le chef prendra ses fonctions en septembre 2028, pour un premier mandat de cinq ans, et succédera à John Storgårds, chef titulaire actuel de la formation.",
+      "Joshua Weilerstein a été directeur artistique de l'Orchestre de Chambre de Lausanne (OCL) jusqu'en 2021."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse (RMS)",
+        "url": "https://www.musikzeitung.ch/news/2026/11/weilerstein-wird-chefdirigent-des-bbc-philharmonic-orchestra"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Joshua Weilerstein: Der frühere künstlerische Leiter des OCL wird Chefdirigent des BBC Philharmonic",
+        "chapo": "Joshua Weilerstein, bis 2021 künstlerischer Leiter des Orchestre de Chambre de Lausanne, übernimmt im September 2028 für eine erste Amtszeit von fünf Jahren das BBC Philharmonic Orchestra in Manchester.",
+        "corps": [
+          "Das BBC Philharmonic Orchestra mit Sitz in Manchester hat Joshua Weilerstein zu seinem neuen Chefdirigenten gewählt, wie die Schweizer Musikzeitung am 9. November 2026 berichtet. Er tritt sein Amt im September 2028 für eine erste Amtszeit von fünf Jahren an und folgt auf John Storgårds, den aktuellen Chefdirigenten des Orchesters.",
+          "Joshua Weilerstein war bis 2021 künstlerischer Leiter des Orchestre de Chambre de Lausanne (OCL)."
+        ]
+      },
+      "it": {
+        "titre": "Joshua Weilerstein: l'ex direttore artistico dell'OCL nominato direttore principale della BBC Philharmonic",
+        "chapo": "Joshua Weilerstein, direttore artistico dell'Orchestre de Chambre de Lausanne fino al 2021, assumerà nel settembre 2028 la guida della BBC Philharmonic Orchestra di Manchester, per un primo mandato di cinque anni.",
+        "corps": [
+          "La BBC Philharmonic Orchestra, con sede a Manchester, ha scelto Joshua Weilerstein come nuovo direttore principale, riferisce la Rivista musicale svizzera il 9 novembre 2026. Il direttore entrerà in carica nel settembre 2028, per un primo mandato di cinque anni, e succederà a John Storgårds, attuale direttore principale dell'orchestra.",
+          "Joshua Weilerstein è stato direttore artistico dell'Orchestre de Chambre de Lausanne (OCL) fino al 2021."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-09-contrechamps-la-ville-de-geneve-impose-une-coupe-de-8-des-janvier-2027",
     "rubrique": "Politique culturelle",
     "edition": "Matin",
