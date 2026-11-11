@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-11-11-musikkollegium-winterthur-auditions-de-cor-et-de-trombone-trombone-basse-50",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-11",
+    "titre": "Musikkollegium Winterthur : auditions de cor et de trombone / trombone basse (50 %)",
+    "info": "Le Musikkollegium Winterthur met au concours un poste de cor à 50 % (audition le 19 février 2027) et un poste de trombone / trombone basse à 50 % (audition le 20 février 2027). Candidatures via muvac jusqu'au 27 décembre 2026.",
+    "echeance": "2026-12-27",
+    "source": {
+      "label": "Musikkollegium Winterthur — Offene Stellen",
+      "url": "https://www.musikkollegium.ch/ueber-uns/offene-stellen"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Musikkollegium Winterthur: Probespiele für Horn und Posaune / Bassposaune (50 %)",
+        "info": "Das Musikkollegium Winterthur schreibt eine Hornstelle zu 50 % (Probespiel am 19. Februar 2027) und eine Stelle für Posaune / Bassposaune zu 50 % (Probespiel am 20. Februar 2027) aus. Bewerbungen über muvac bis 27. Dezember 2026."
+      },
+      "it": {
+        "titre": "Musikkollegium Winterthur: audizioni per corno e trombone / trombone basso (50 %)",
+        "info": "Il Musikkollegium Winterthur mette a concorso un posto di corno al 50 % (audizione il 19 febbraio 2027) e un posto di trombone / trombone basso al 50 % (audizione il 20 febbraio 2027). Candidature tramite muvac entro il 27 dicembre 2026."
+      }
+    }
+  },
+  {
     "id": "2026-11-06-osi-concours-de-chef-fe-d-attaque-des-seconds-violons-inscriptions-jusqu-au-31-j",
     "categorie": "Auditions & concours",
     "date": "2026-11-06",

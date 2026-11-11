@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-11",
+    "edition": "Matin",
+    "publie_le": "2026-11-11T06:30:56.396Z",
+    "articles": 1,
+    "bulletins": 1,
+    "sources_lues": 48,
+    "sources_total": 60,
+    "detail": "1 articles, 1 bulletins, 1 doublons écartés, 48/60 sources lues",
+    "ecartes": [
+      "Tonhalle-Orchester Zürich : collaborateur·rice en dramaturgie (40-60 %)  ≈  Tonhalle-Orchester Zürich : quatre postes de musicien·nes au concours"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : Action Intermittence (robots_disallowed), ARCS, OCL (client_error / SERVER_ERROR), Sinfonietta (robots_disallowed), Gli Angeli (robots_disallowed), RSI Coro, FIM et Artos (client_error) ; extraits seulement : Opéra de Lausanne, Theater Basel, Le Temps, RTS. Outil add_repo introuvable : dépôt déjà cloné. Bulletin Tonhalle dramaturgie (délai 22.11) écarté par le script comme doublon des « quatre postes de musicien·nes » : rapprochement vraisemblablement abusif. Écartés faute de date vérifiable : BSO prolongation Urbański 2031/32, OCG Mattia Bornati, cor 1/3 St-Gall."
+  },
+  {
     "date": "2026-11-10",
     "edition": "Matin",
     "publie_le": "2026-11-10T06:29:16.936Z",

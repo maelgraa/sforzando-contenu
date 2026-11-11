@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-11-zora-slokar-zhdk-la-corniste-succede-a-radovan-vlatkovic-comme-enseignante-de-co",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-11",
+    "titre": "Zora Slokar (ZHdK) : la corniste succède à Radovan Vlatković comme enseignante de cor principal",
+    "chapo": "La Zürcher Hochschule der Künste annonce que la corniste Zora Slokar enseignera le cor en branche principale à partir d'août 2027, à la suite de Radovan Vlatković.",
+    "corps": [
+      "Le Département musique de la ZHdK a fait savoir qu'il accueillera Zora Slokar dès août 2027 comme nouvelle enseignante (« Dozentin ») pour le cor en branche principale. Elle succède à Radovan Vlatković, qui fut l'un de ses professeurs, avec Eric Penzel.",
+      "Zora Slokar a obtenu un diplôme de soliste à la ZHdK en 2008 et s'est aussi formée à la HKB et à Maastricht. Elle a occupé des postes au Sinfonieorchester Basel et à l'Orchestra della Svizzera italiana. La haute école n'a pas précisé la date de l'annonce ni le taux du poste."
+    ],
+    "sources": [
+      {
+        "label": "ZHdK — Actualités du Département musique",
+        "url": "https://www.zhdk.ch/zhdk-departement-musik-news-6042"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Zora Slokar (ZHdK): Die Hornistin folgt auf Radovan Vlatković als Dozentin für Hauptfach Horn",
+        "chapo": "Die Zürcher Hochschule der Künste gibt bekannt, dass die Hornistin Zora Slokar ab August 2027 als Nachfolgerin von Radovan Vlatković das Hauptfach Horn unterrichten wird.",
+        "corps": [
+          "Das Departement Musik der ZHdK heisst Zora Slokar ab August 2027 als neue Dozentin für das Hauptfach Horn willkommen. Sie folgt auf Radovan Vlatković, der – zusammen mit Eric Penzel – einst ihr Lehrer war.",
+          "Zora Slokar erwarb 2008 an der ZHdK ein Solistendiplom und bildete sich auch an der HKB und in Maastricht aus. Sie hatte Stellen im Sinfonieorchester Basel und im Orchestra della Svizzera italiana inne. Das Datum der Mitteilung und das Pensum nennt die Hochschule nicht."
+        ]
+      },
+      "it": {
+        "titre": "Zora Slokar (ZHdK): la cornista succede a Radovan Vlatković come docente di corno principale",
+        "chapo": "La Zürcher Hochschule der Künste annuncia che la cornista Zora Slokar insegnerà corno come materia principale da agosto 2027, succedendo a Radovan Vlatković.",
+        "corps": [
+          "Il Dipartimento di musica della ZHdK accoglierà Zora Slokar da agosto 2027 come nuova docente («Dozentin») di corno principale. Succede a Radovan Vlatković, che fu uno dei suoi insegnanti insieme a Eric Penzel.",
+          "Zora Slokar ha ottenuto un diploma di solista alla ZHdK nel 2008 e si è formata anche alla HKB e a Maastricht. Ha ricoperto posti nel Sinfonieorchester Basel e nell'Orchestra della Svizzera italiana. La scuola non ha precisato la data dell'annuncio né il grado d'occupazione."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-10-joshua-weilerstein-l-ancien-directeur-artistique-de-l-ocl-nomme-chef-principal-d",
     "rubrique": "International",
     "edition": "Matin",
