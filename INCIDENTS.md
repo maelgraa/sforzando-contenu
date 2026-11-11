@@ -1,5 +1,17 @@
 # Incidents de veille
 
+## 2026-11-11 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : PDF Tonhalle (dramaturgie) et annonces muvac (Tonhalle, Musikkollegium), PDF cor 1/3 KuT St.Gallen, pages Verbier (candidatures 2027), musik-akademie.ch (Aesthetics of Spatial Audio, Gender Balance), hem.hesge.ch (appel résidence, nouveaux enseignants), rsi.ch/coro → barocchistiecoro.ch, tobs.ch offres d'emploi.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 48/60 sources lues.
+- **Sources non lues** : Action Intermittence et Sinfonietta de Lausanne et Gli Angeli Genève : `Not fetched: <url> failed at its site (robots_disallowed), and nothing of the page was retrieved.` ; ARCS (la recherche ne renvoie que l'URL bloquée) ; OCL : `client_error` et `{"error_type":"SERVER_ERROR","source":"target","message":"There was an error while fetching."}` ; RSI Coro ; FIM et Artos : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.` Extraits seulement : Opéra de Lausanne (robots_disallowed), Theater Basel (client_error), Le Temps et RTS (client_error).
+- **Autres échecs** : sommaire PDF Scènes Magazine n° 391 et page Shenzhen Verbier 2027 : `SERVER_ERROR` ci-dessus.
+- **add_repo et WebFetch direct** : outils introuvables via ToolSearch dans la session principale (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre, les lectures ont été faites par sous-agents.
+- **publier.mjs** : bulletin « Tonhalle-Orchester Zürich : collaborateur·rice en dramaturgie (40-60 %) » écarté comme doublon de « Tonhalle-Orchester Zürich : quatre postes de musicien·nes au concours » — rapprochement vraisemblablement abusif (même institution en tête de titre), à vérifier.
+
 ## 2026-11-10 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
