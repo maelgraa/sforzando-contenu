@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-12-radio-swiss-classic-thomas-gilgen-digris-veut-garder-l-equipe-et-installer-la-st",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-12",
+    "titre": "Radio Swiss Classic : Thomas Gilgen (Digris) veut garder l'équipe et installer la station à Zurich",
+    "chapo": "Le CEO de Digris AG, repreneur de Radio Swiss Classic et Radio Swiss Jazz, a détaillé le 11 novembre dans la Revue musicale suisse ses plans pour les deux radios cédées par la SSR.",
+    "corps": [
+      "Dans un entretien publié le 11 novembre par la Revue musicale suisse, Thomas Gilgen, CEO de la société zurichoise Digris AG, indique vouloir reprendre les trois employé·es actuel·les de Radio Swiss Classic et Radio Swiss Jazz. Le siège des stations déménagera à Zurich et la production pourra se faire à domicile. Le prix de vente reste confidentiel ; Radio Swiss Pop est allée à CH Media.",
+      "Les radios resteront sans publicité audio : Digris envisage des annonces affichées sur les récepteurs DAB+, des bannières ou des pré-roll sur le stream, une qualité audio et des archives payantes, ainsi que du sponsoring. La diffusion par satellite est coupée pour l'instant. La couverture DAB+ de Digris atteint 83 %, contre 99 % pour la SSR ; selon Thomas Gilgen, environ 15 % des auditeurs se trouvent en Suisse, les autres dans 183 pays.",
+      "Le quota de 50 % de musique suisse s'impose pendant deux ans. À plus long terme, Thomas Gilgen évoque un service de streaming entièrement consacré à la musique suisse."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse — entretien avec Thomas Gilgen (Digris)",
+        "url": "https://www.musikzeitung.ch/en/interviews/2026/11/die-aengste-sind-voellig-unbegruendet"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Radio Swiss Classic: Thomas Gilgen (Digris) will das Team behalten und den Sender nach Zürich holen",
+        "chapo": "Der CEO der Digris AG, die Radio Swiss Classic und Radio Swiss Jazz übernimmt, hat am 11. November in der Schweizer Musikzeitung seine Pläne für die beiden von der SRG verkauften Sender dargelegt.",
+        "corps": [
+          "In einem am 11. November von der Schweizer Musikzeitung veröffentlichten Interview sagt Thomas Gilgen, CEO der Zürcher Digris AG, er wolle die drei bisherigen Mitarbeitenden von Radio Swiss Classic und Radio Swiss Jazz übernehmen. Der Sitz der Sender zieht nach Zürich, produziert werden kann auch von zu Hause aus. Der Verkaufspreis bleibt vertraulich; Radio Swiss Pop ging an CH Media.",
+          "Die Sender bleiben ohne Audiowerbung: Digris prüft Anzeigen auf DAB+-Empfängern, Banner oder Pre-Rolls im Stream, kostenpflichtige Audioqualität und Archive sowie Sponsoring. Die Satellitenverbreitung ist vorerst eingestellt. Die DAB+-Abdeckung von Digris liegt bei 83 Prozent, gegenüber 99 Prozent bei der SRG; laut Thomas Gilgen befinden sich rund 15 Prozent der Hörerschaft in der Schweiz, die übrigen in 183 Ländern.",
+          "Die Quote von 50 Prozent Schweizer Musik gilt während zwei Jahren. Längerfristig denkt Thomas Gilgen an einen Streamingdienst, der ganz der Schweizer Musik gewidmet ist."
+        ]
+      },
+      "it": {
+        "titre": "Radio Swiss Classic: Thomas Gilgen (Digris) vuole mantenere la squadra e trasferire l'emittente a Zurigo",
+        "chapo": "Il CEO di Digris AG, che rileva Radio Swiss Classic e Radio Swiss Jazz, ha illustrato l'11 novembre nella Schweizer Musikzeitung i suoi piani per le due radio cedute dalla SSR.",
+        "corps": [
+          "In un'intervista pubblicata l'11 novembre dalla Schweizer Musikzeitung, Thomas Gilgen, CEO della società zurighese Digris AG, afferma di voler riprendere i tre collaboratori e collaboratrici attuali di Radio Swiss Classic e Radio Swiss Jazz. La sede delle emittenti si trasferirà a Zurigo e la produzione potrà avvenire anche da casa. Il prezzo di vendita resta confidenziale; Radio Swiss Pop è passata a CH Media.",
+          "Le radio resteranno senza pubblicità audio: Digris valuta annunci visualizzati sui ricevitori DAB+, banner o pre-roll sullo stream, qualità audio e archivi a pagamento, oltre a sponsorizzazioni. La diffusione via satellite è per ora interrotta. La copertura DAB+ di Digris raggiunge l'83 per cento, contro il 99 per cento della SSR; secondo Thomas Gilgen, circa il 15 per cento degli ascoltatori si trova in Svizzera, gli altri in 183 Paesi.",
+          "La quota del 50 per cento di musica svizzera vale per due anni. A più lungo termine, Thomas Gilgen pensa a un servizio di streaming interamente dedicato alla musica svizzera."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-11-zora-slokar-zhdk-la-corniste-succede-a-radovan-vlatkovic-comme-enseignante-de-co",
     "rubrique": "Suisse",
     "edition": "Matin",

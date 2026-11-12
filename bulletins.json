@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-11-12-orchestre-de-la-suisse-romande-concours-de-violon-solo-associe-associate-concert",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-12",
+    "titre": "Orchestre de la Suisse Romande : concours de violon solo associé (Associate Concertmaster) le 24 avril 2027",
+    "info": "L'OSR annonce un concours coordonné pour un poste de violon solo associé (Associate Concertmaster), prévu le 24 avril 2027. Le délai d'inscription n'est pas encore publié.",
+    "echeance": "2027-04-24",
+    "source": {
+      "label": "OSR — Concours et auditions",
+      "url": "https://www.osr.ch/en/about-the-osr/orchestra/competitions-auditions"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Orchestre de la Suisse Romande: Probespiel für stellvertretende Konzertmeisterin oder stellvertretenden Konzertmeister am 24. April 2027",
+        "info": "Das OSR kündigt ein koordiniertes Probespiel für die Stelle der stellvertretenden Konzertmeisterin oder des stellvertretenden Konzertmeisters (Associate Concertmaster) am 24. April 2027 an. Die Anmeldefrist ist noch nicht veröffentlicht."
+      },
+      "it": {
+        "titre": "Orchestre de la Suisse Romande: concorso per violino di spalla associato (Associate Concertmaster) il 24 aprile 2027",
+        "info": "L'OSR annuncia un concorso coordinato per un posto di violino di spalla associato (Associate Concertmaster), previsto il 24 aprile 2027. Il termine d'iscrizione non è ancora stato pubblicato."
+      }
+    }
+  },
+  {
+    "id": "2026-11-12-sinfonieorchester-st-gallen-un-poste-de-cor-1-3-alternant-au-concours",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-12",
+    "titre": "Sinfonieorchester St.Gallen : un poste de cor 1/3 (alternant) au concours",
+    "info": "Konzert und Theater St.Gallen met au concours un poste de 1er/3e cor (alternant) au Sinfonieorchester St.Gallen. Le taux et les délais figurent dans l'annonce de la page emplois.",
+    "source": {
+      "label": "Konzert und Theater St.Gallen — Jobs",
+      "url": "https://www.konzertundtheater.ch/ueber-uns/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Sinfonieorchester St.Gallen: Stelle für 1./3. Horn (alternierend) ausgeschrieben",
+        "info": "Konzert und Theater St.Gallen schreibt eine Stelle für 1./3. Horn (alternierend) im Sinfonieorchester St.Gallen aus. Pensum und Fristen stehen in der Ausschreibung auf der Jobseite."
+      },
+      "it": {
+        "titre": "Sinfonieorchester St.Gallen: a concorso un posto di 1°/3° corno (alternato)",
+        "info": "Konzert und Theater St.Gallen mette a concorso un posto di 1°/3° corno (alternato) nel Sinfonieorchester St.Gallen. Grado d'occupazione e termini figurano nell'annuncio sulla pagina delle offerte di lavoro."
+      }
+    }
+  },
+  {
+    "id": "2026-11-12-musikkollegium-winterthur-specialiste-en-finances-et-comptabilite-50-70",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-12",
+    "titre": "Musikkollegium Winterthur : spécialiste en finances et comptabilité (50-70 %)",
+    "info": "Le Musikkollegium Winterthur, qui gère l'orchestre et le Conservatoire Winterthur, cherche un·e spécialiste en finances et comptabilité à 50-70 % (créanciers, débiteurs, grand livre, clôtures, appui RH et controlling). Le recrutement est confié à Carlo Hefti AG.",
+    "source": {
+      "label": "Musikkollegium Winterthur — annonce (PDF)",
+      "url": "https://www.musikkollegium.ch/files/media/Stellenausschreibungen/mkwundkonservatorium-stellenausschreibung-fachperson-finanzundrechnungswesen-50-70.pdf"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Musikkollegium Winterthur: Fachfrau/Fachmann Finanz- und Rechnungswesen (50-70 %)",
+        "info": "Das Musikkollegium Winterthur, Träger des Orchesters und des Konservatoriums Winterthur, sucht eine Fachperson Finanz- und Rechnungswesen zu 50-70 % (Kreditoren, Debitoren, Hauptbuch, Abschlüsse, Unterstützung HR und Controlling). Die Rekrutierung läuft über die Carlo Hefti AG."
+      },
+      "it": {
+        "titre": "Musikkollegium Winterthur: specialista in finanze e contabilità (50-70 %)",
+        "info": "Il Musikkollegium Winterthur, che gestisce l'orchestra e il Conservatorio di Winterthur, cerca un/a specialista in finanze e contabilità al 50-70 % (creditori, debitori, contabilità generale, chiusure, supporto risorse umane e controlling). La selezione è affidata a Carlo Hefti AG."
+      }
+    }
+  },
+  {
+    "id": "2026-11-12-kammerorchester-basel-stage-en-gestion-de-projet-et-communication-80-six-mois",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-12",
+    "titre": "Kammerorchester Basel : stage en gestion de projet et communication (80 %, six mois)",
+    "info": "Le Kammerorchester Basel propose pour 2027 un stage de six mois à 80 % en gestion de projet et communication, à partir de mi-janvier ou à convenir ; travail possible en soirée et le week-end.",
+    "source": {
+      "label": "Kammerorchester Basel — annonce de stage 2027 (PDF)",
+      "url": "https://www.kammerorchesterbasel.ch/de/das-kammerorchester/hinter-dem-orchester.html?file=files/kammerorchester/pdfs/Stellenausschreibungen/Praktikum%20Kammerorchester%20Basel%202027.pdf&cid=34597"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Kammerorchester Basel: Praktikum Projektmanagement und Kommunikation (80 %, sechs Monate)",
+        "info": "Das Kammerorchester Basel bietet für 2027 ein sechsmonatiges Praktikum zu 80 % in Projektmanagement und Kommunikation an, ab Mitte Januar oder nach Vereinbarung; Einsätze an Abenden und Wochenenden sind möglich."
+      },
+      "it": {
+        "titre": "Kammerorchester Basel: stage in gestione di progetti e comunicazione (80 %, sei mesi)",
+        "info": "Il Kammerorchester Basel propone per il 2027 uno stage di sei mesi all'80 % in gestione di progetti e comunicazione, da metà gennaio o da convenire; possibile lavoro serale e nel fine settimana."
+      }
+    }
+  },
+  {
     "id": "2026-11-11-musikkollegium-winterthur-auditions-de-cor-et-de-trombone-trombone-basse-50",
     "categorie": "Auditions & concours",
     "date": "2026-11-11",

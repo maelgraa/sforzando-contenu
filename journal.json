@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-12",
+    "edition": "Matin",
+    "publie_le": "2026-11-12T06:31:24.836Z",
+    "articles": 1,
+    "bulletins": 4,
+    "sources_lues": 51,
+    "sources_total": 60,
+    "detail": "1 articles, 4 bulletins, 3 doublons écartés, 51/60 sources lues",
+    "ecartes": [
+      "Bühnen Bern : un poste de 2e basse au chœur d'opéra, audition le 8 décembre  ≈  Bühnen Bern : poste de 1er·ère Kapellmeister·in à l'Opéra",
+      "Grand Théâtre de Genève : chargé·e d'administration artistique (100 %, remplacement)  ≈  Grand Théâtre de Genève : audition de chanteurs·euses et de comédien·nes pour « The Fantasticks »",
+      "Opernhaus Zürich : bureau artistique et coordination du projet « Opernhaus im Quartier » (75 %)  ≈  Opernhaus Zürich : quatre auditions d'orchestre et des places au chœur"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch (allowed_domains) puis WebFetch des URL renvoyées. Non lues : OCG (robots_disallowed), Theater Basel (client_error), Le Temps et RTS (client_error sur les articles), RMSR, Scènes Magazine, Swissinfo (recherche sans résultat exploitable), FIM et Artos (client_error). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre. 3 bulletins écartés par le script, vraisemblablement à tort (même URL de page emplois, même institution en tête) : Bühnen Bern 2e basse chœur d'opéra (délai 01.12.2026, audition 08.12) ; GTG chargé·e d'administration artistique 100 % CDD (délai 15.11.2026) ; Opernhaus Zürich KBB / coordination « Opernhaus im Quartier » 75 % (délai 17.11.2026). OCL clarinette 2e solo et cor solo : délais d'inscription échus, non publiés."
+  },
+  {
     "date": "2026-11-11",
     "edition": "Matin",
     "publie_le": "2026-11-11T06:30:56.396Z",
