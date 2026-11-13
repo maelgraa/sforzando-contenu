@@ -1,5 +1,134 @@
 [
   {
+    "id": "2026-11-13-verbier-festival-orchestra-2027-candidatures-jusqu-au-14-decembre-audition-en-di",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-13",
+    "titre": "Verbier Festival Orchestra 2027 : candidatures jusqu'au 14 décembre (audition en direct) ou au 11 janvier (vidéo)",
+    "info": "Le Verbier Festival recrute les musicien·nes de 18 à 28 ans (au 1er juillet 2027) de son orchestre 2027, présence requise du 28 juin au 2 août ; cours, logement et repas sont pris en charge. Frais de dossier de 75 euros, supprimés pour les Suisses né·es ou domicilié·es dans les cantons de FR, GE, JU, NE, VS ou VD.",
+    "echeance": "2027-01-11",
+    "source": {
+      "label": "Verbier Festival — VFO guidelines",
+      "url": "https://verbierfestival.com/en/orchestras/vfo/vfo-guidelines/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Verbier Festival Orchestra 2027: Bewerbungen bis 14. Dezember (Live-Vorspiel) oder 11. Januar (Video)",
+        "info": "Das Verbier Festival sucht Musikerinnen und Musiker zwischen 18 und 28 Jahren (Stichtag 1. Juli 2027) für sein Orchester 2027, Anwesenheit vom 28. Juni bis 2. August; Unterricht, Unterkunft und Mahlzeiten werden übernommen. Bewerbungsgebühr 75 Euro, entfällt für Schweizerinnen und Schweizer, die in den Kantonen FR, GE, JU, NE, VS oder VD geboren oder wohnhaft sind."
+      },
+      "it": {
+        "titre": "Verbier Festival Orchestra 2027: candidature entro il 14 dicembre (audizione dal vivo) o l'11 gennaio (video)",
+        "info": "Il Verbier Festival cerca musicisti dai 18 ai 28 anni (al 1° luglio 2027) per la sua orchestra 2027, presenza richiesta dal 28 giugno al 2 agosto; corsi, alloggio e pasti sono a carico del festival. Tassa d'iscrizione di 75 euro, soppressa per gli svizzeri nati o domiciliati nei cantoni FR, GE, JU, NE, VS o VD."
+      }
+    }
+  },
+  {
+    "id": "2026-11-13-tonhalle-orchester-zurich-collaborateur-rice-en-dramaturgie-40-60-delai-le-22-no",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-13",
+    "titre": "Tonhalle-Orchester Zürich : collaborateur·rice en dramaturgie (40-60 %), délai le 22 novembre",
+    "info": "Le Tonhalle-Orchester Zürich cherche un·e collaborateur·rice en dramaturgie à 40-60 %, entrée le 1er février 2027 ou à convenir. Délai de candidature : 22 novembre 2026.",
+    "echeance": "2026-11-22",
+    "source": {
+      "label": "Tonhalle-Orchester Zürich — Jobs",
+      "url": "https://tonhalle-orchester.ch/en/about-us/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Tonhalle-Orchester Zürich: Mitarbeiter:in Dramaturgie (40–60 %), Frist 22. November",
+        "info": "Das Tonhalle-Orchester Zürich sucht eine:n Mitarbeiter:in Dramaturgie mit 40–60 %, Eintritt am 1. Februar 2027 oder nach Vereinbarung. Bewerbungsfrist: 22. November 2026."
+      },
+      "it": {
+        "titre": "Tonhalle-Orchester Zürich: collaboratore/trice in drammaturgia (40-60 %), termine il 22 novembre",
+        "info": "La Tonhalle-Orchester Zürich cerca un·a collaboratore/trice in drammaturgia al 40-60 %, entrata il 1° febbraio 2027 o da convenire. Termine di candidatura: 22 novembre 2026."
+      }
+    }
+  },
+  {
+    "id": "2026-11-13-buhnen-bern-place-de-2e-basse-au-ch-ur-de-l-opera-audition-le-8-decembre",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-13",
+    "titre": "Bühnen Bern : place de 2e basse au chœur de l'Opéra, audition le 8 décembre",
+    "info": "Bühnen Bern recrute une 2e basse pour le chœur de l'Opéra ; candidatures jusqu'au 1er décembre 2026, audition le 8 décembre 2026 à 14 h, sur invitation uniquement.",
+    "echeance": "2026-12-01",
+    "source": {
+      "label": "Bühnen Bern — annonce muvac",
+      "url": "https://www.muvac.com/vacancy/buehnen-bern-ny38xdm1"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Bühnen Bern: Stelle 2. Bass im Opernchor, Vorsingen am 8. Dezember",
+        "info": "Bühnen Bern sucht einen 2. Bass für den Opernchor; Bewerbungen bis 1. Dezember 2026, Vorsingen am 8. Dezember 2026 um 14 Uhr, nur auf Einladung."
+      },
+      "it": {
+        "titre": "Bühnen Bern: posto di 2° basso nel coro dell'Opera, audizione l'8 dicembre",
+        "info": "Bühnen Bern cerca un 2° basso per il coro dell'Opera; candidature entro il 1° dicembre 2026, audizione l'8 dicembre 2026 alle 14, solo su invito."
+      }
+    }
+  },
+  {
+    "id": "2026-11-13-zhdk-professur-artistique-d-alto-en-branche-principale-40-60",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-13",
+    "titre": "ZHdK : professur artistique d'alto en branche principale (40-60 %)",
+    "info": "La Zürcher Hochschule der Künste met au concours une professur artistique pour l'alto en branche principale, à 40-60 % ; l'annonce a paru le 9 novembre 2026 dans la Revue musicale suisse.",
+    "source": {
+      "label": "Revue musicale suisse — Postes",
+      "url": "https://www.musikzeitung.ch/stellen/kuenstlerische-professur-fuer-das-hauptfach-viola-40-60"
+    },
+    "traductions": {
+      "de": {
+        "titre": "ZHdK: Künstlerische Professur für das Hauptfach Viola (40–60 %)",
+        "info": "Die Zürcher Hochschule der Künste schreibt eine künstlerische Professur für das Hauptfach Viola mit 40–60 % aus; die Anzeige erschien am 9. November 2026 in der Schweizer Musikzeitung."
+      },
+      "it": {
+        "titre": "ZHdK: cattedra artistica di viola come strumento principale (40-60 %)",
+        "info": "La Zürcher Hochschule der Künste mette a concorso una cattedra artistica di viola come strumento principale al 40-60 %; l'annuncio è apparso il 9 novembre 2026 nella Rivista musicale svizzera."
+      }
+    }
+  },
+  {
+    "id": "2026-11-13-hkb-charge-e-de-cours-en-didactique-du-saxophone-classique-env-10",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-13",
+    "titre": "HKB : chargé·e de cours en didactique du saxophone classique (env. 10 %)",
+    "info": "La Haute école des arts de Berne (Berner Fachhochschule) cherche un·e chargé·e de cours en didactique du saxophone classique, à environ 10 % ; l'annonce a paru le 1er novembre 2026 dans la Revue musicale suisse.",
+    "source": {
+      "label": "Revue musicale suisse — Postes",
+      "url": "https://www.musikzeitung.ch/stellen/dozentin-fachdidaktik-klassisches-saxophon-ca-10"
+    },
+    "traductions": {
+      "de": {
+        "titre": "HKB: Dozent:in Fachdidaktik klassisches Saxophon (ca. 10 %)",
+        "info": "Die Hochschule der Künste Bern (Berner Fachhochschule) sucht eine:n Dozent:in für Fachdidaktik klassisches Saxophon mit rund 10 %; die Anzeige erschien am 1. November 2026 in der Schweizer Musikzeitung."
+      },
+      "it": {
+        "titre": "HKB: docente di didattica del sassofono classico (ca. 10 %)",
+        "info": "La Hochschule der Künste Bern (Berner Fachhochschule) cerca un·a docente di didattica del sassofono classico al 10 % circa; l'annuncio è apparso il 1° novembre 2026 nella Rivista musicale svizzera."
+      }
+    }
+  },
+  {
+    "id": "2026-11-13-obwald-et-nidwald-20-000-francs-pour-la-pianiste-laura-spichtig",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-13",
+    "titre": "Obwald et Nidwald : 20 000 francs pour la pianiste Laura Spichtig",
+    "info": "Les cantons d'Obwald et de Nidwald, qui attribuent ensemble leurs contributions à la création (30 000 francs au total), versent 20 000 francs à la pianiste Laura Spichtig, 29 ans, pour « acousphere. », une installation sonore live et accessible que le public peut parcourir et qui pourra partir en tournée.",
+    "source": {
+      "label": "Revue musicale suisse — 11 novembre 2026",
+      "url": "https://www.musikzeitung.ch/news/2026/11/werkbeitraege-der-kantone-ob-und-nidwalden"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Obwalden und Nidwalden: 20 000 Franken für die Pianistin Laura Spichtig",
+        "info": "Die Kantone Obwalden und Nidwalden, die ihre Werkbeiträge gemeinsam vergeben (insgesamt 30 000 Franken), sprechen der 29-jährigen Pianistin Laura Spichtig 20 000 Franken für «acousphere.» zu, eine barrierefreie, begehbare Live-Klanginstallation, die auf Tournee gehen kann."
+      },
+      "it": {
+        "titre": "Obvaldo e Nidvaldo: 20 000 franchi alla pianista Laura Spichtig",
+        "info": "I cantoni di Obvaldo e Nidvaldo, che assegnano insieme i loro contributi alla creazione (30 000 franchi in totale), attribuiscono 20 000 franchi alla pianista Laura Spichtig, 29 anni, per «acousphere.», un'installazione sonora dal vivo e accessibile che il pubblico può percorrere e che potrà andare in tournée."
+      }
+    }
+  },
+  {
     "id": "2026-11-12-orchestre-de-la-suisse-romande-concours-de-violon-solo-associe-associate-concert",
     "categorie": "Auditions & concours",
     "date": "2026-11-12",

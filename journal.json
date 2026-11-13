@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-13",
+    "edition": "Matin",
+    "publie_le": "2026-11-13T06:29:10.753Z",
+    "articles": 3,
+    "bulletins": 6,
+    "sources_lues": 55,
+    "sources_total": 60,
+    "detail": "3 articles, 6 bulletins, 0 doublons écartés, 55/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry… »). Repli WebSearch allowed_domains + WebFetch des URL renvoyées. Non lues : ARCS (recherche sans contenu), RSI Coro (rsi.ch/coro → barocchistiecoro.ch bloqué), Theater Basel (/fr/medias, /en/medien, /de/stellenprojekte : « failed at its site (client_error) »), FIM et Artos (client_error). Le Temps, RTS, RMSR : extraits de recherche seulement. Pistes non vérifiées écartées : HEMU révision des masters (id/1064 bloqué), Pro Helvetia « culture en mutation » (bloqué), RTS « Genève : coupes budgétaires en cascade », Le Temps « l'OCG appelle à l'aide » (non datés), Urbański prolongé au BSO jusqu'en 2031/32 (non daté, PDF bloqué), Ueli Schmezer (SONART, texte tronqué). add_repo et WebFetch direct introuvables via ToolSearch : dépôt déjà cloné, lectures par sous-agents."
+  },
+  {
     "date": "2026-11-12",
     "edition": "Matin",
     "publie_le": "2026-11-12T06:31:24.836Z",
