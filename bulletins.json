@@ -1,5 +1,70 @@
 [
   {
+    "id": "2026-11-16-tonhalle-orchester-zurich-trompette-2-3-4-et-flute-solo-au-concours",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-16",
+    "titre": "Tonhalle-Orchester Zürich : trompette 2/3/4 et flûte solo au concours",
+    "info": "Le Tonhalle-Orchester Zürich recrute pour un poste fixe de 2e/3e/4e trompette (candidature via muvac jusqu'au 29 novembre 2026) et un poste de flûte solo avec obligation de 2e/3e flûte (jusqu'au 10 janvier 2027).",
+    "echeance": "2027-01-10",
+    "source": {
+      "label": "Tonhalle-Orchester Zürich — Jobs",
+      "url": "https://www.tonhalle-orchester.ch/ueber-uns/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Tonhalle-Orchester Zürich: 2./3./4. Trompete und Solo-Flöte ausgeschrieben",
+        "info": "Das Tonhalle-Orchester Zürich schreibt eine feste Stelle 2./3./4. Trompete (Bewerbung über muvac bis 29. November 2026) sowie eine Stelle Solo-Flöte mit Verpflichtung zur 2./3. Flöte (bis 10. Januar 2027) aus."
+      },
+      "it": {
+        "titre": "Tonhalle-Orchester Zürich: a concorso tromba 2a/3a/4a e flauto solista",
+        "info": "La Tonhalle-Orchester Zürich cerca una tromba 2a/3a/4a con posto fisso (candidature tramite muvac entro il 29 novembre 2026) e un flauto solista con obbligo di 2o/3o flauto (entro il 10 gennaio 2027)."
+      }
+    }
+  },
+  {
+    "id": "2026-11-16-luzerner-sinfonieorchester-un-poste-de-tutti-en-seconds-violons-66",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-16",
+    "titre": "Luzerner Sinfonieorchester : un poste de tutti en seconds violons (66 %)",
+    "info": "Le Luzerner Sinfonieorchester met au concours un engagement fixe de tutti en seconds violons à 66 %. Candidatures via muvac jusqu'au 19 janvier 2027.",
+    "echeance": "2027-01-19",
+    "source": {
+      "label": "Luzerner Sinfonieorchester — Jobs",
+      "url": "https://sinfonieorchester.ch/de/ueber-uns/jobs"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Luzerner Sinfonieorchester: eine Tutti-Stelle 2. Violine (66 %)",
+        "info": "Das Luzerner Sinfonieorchester schreibt eine Festanstellung Tutti 2. Violine zu 66 % aus. Bewerbung über muvac bis 19. Januar 2027."
+      },
+      "it": {
+        "titre": "Luzerner Sinfonieorchester: un posto di violino secondo di fila (66 %)",
+        "info": "La Luzerner Sinfonieorchester mette a concorso un impiego fisso di violino secondo di fila al 66 %. Candidature tramite muvac entro il 19 gennaio 2027."
+      }
+    }
+  },
+  {
+    "id": "2026-11-16-zhdk-professur-de-pedagogie-musicale-80",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-16",
+    "titre": "ZHdK : professur de pédagogie musicale (80 %)",
+    "info": "La Haute école des arts de Zurich (ZHdK) met au concours une professur de pédagogie musicale à 80 % au Département Musique, avec entrée en fonction le 1er août 2027 ou à convenir.",
+    "source": {
+      "label": "ZHdK — MAX",
+      "url": "https://max.zhdk.ch/professur-musikpadagogik-an-der-zhdk/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "ZHdK: Professur Musikpädagogik (80 %)",
+        "info": "Die Zürcher Hochschule der Künste (ZHdK) schreibt im Departement Musik eine Professur Musikpädagogik zu 80 % aus, Stellenantritt am 1. August 2027 oder nach Vereinbarung."
+      },
+      "it": {
+        "titre": "ZHdK: cattedra di pedagogia musicale (80 %)",
+        "info": "La Zürcher Hochschule der Künste (ZHdK) mette a concorso una cattedra di pedagogia musicale all'80 % nel Dipartimento Musica, con entrata in funzione il 1° agosto 2027 o da convenire."
+      }
+    }
+  },
+  {
     "id": "2026-11-13-verbier-festival-orchestra-2027-candidatures-jusqu-au-14-decembre-audition-en-di",
     "categorie": "Auditions & concours",
     "date": "2026-11-13",

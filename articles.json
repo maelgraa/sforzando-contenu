@@ -1,5 +1,92 @@
 [
   {
+    "id": "2026-11-16-geneve-des-milliers-de-manifestant-es-contre-le-budget-cantonal-2027-avec-un-orc",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-11-16",
+    "titre": "Genève : des milliers de manifestant·es contre le budget cantonal 2027, avec un orchestre symphonique en fin de cortège",
+    "chapo": "Samedi 14 novembre, entre 3500 personnes selon la police et 6000 à 7000 selon les organisateurs ont défilé à Genève contre les 247,7 millions de francs d'économies prévus au budget cantonal 2027, dont des coupes dans les subventions culturelles.",
+    "corps": [
+      "Le projet de budget 2027 du canton de Genève prévoit 247,7 millions de francs d'économies, notamment une baisse linéaire de 4 % des subventions aux associations et de 5 % des contrats de prestations des HUG et de l'IMAD. Selon Keystone-ATS, un peu moins de 5000 personnes ont manifesté le 14 novembre ; une première manifestation, début octobre, en avait réuni 600.",
+      "Le cortège s'est achevé avec un orchestre symphonique d'une cinquantaine de musicien·nes, sous une banderole disant « non » aux coupes dans la culture. La FRACG, qui fédère des acteurs culturels genevois, a fait valoir que la culture ne doit pas servir de variable d'ajustement budgétaire. L'Ensemble Contrechamps, touché par une coupe de 8 % de la Ville de Genève dès janvier 2027, avait appelé à rejoindre la manifestation.",
+      "Le Grand Conseil genevois doit débattre du budget à la mi-décembre. Une manifestation est également annoncée à Neuchâtel le 20 novembre."
+    ],
+    "sources": [
+      {
+        "label": "SRF News",
+        "url": "https://www.srf.ch/news/schweiz/kantonsbudget-2027-tausende-menschen-demonstrieren-in-genf-gegen-sparmassnahmen"
+      },
+      {
+        "label": "Swissinfo (Keystone-ATS)",
+        "url": "https://www.swissinfo.ch/eng/swiss-democracy/thousands-of-people-are-demonstrating-in-geneva-against-austerity-measures/92383233"
+      },
+      {
+        "label": "Ensemble Contrechamps",
+        "url": "https://www.contrechamps.ch/fr/actualites/non-aux-coupes-dans-la-culture-a-geneve"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Genf: Tausende demonstrieren gegen das Kantonsbudget 2027, ein Sinfonieorchester am Ende des Umzugs",
+        "chapo": "Am Samstag, 14. November, demonstrierten in Genf zwischen 3500 Personen laut Polizei und 6000 bis 7000 laut Veranstaltenden gegen die im Kantonsbudget 2027 vorgesehenen Einsparungen von 247,7 Millionen Franken, darunter Kürzungen bei den Kultursubventionen.",
+        "corps": [
+          "Der Budgetentwurf 2027 des Kantons Genf sieht Einsparungen von 247,7 Millionen Franken vor, namentlich eine lineare Kürzung der Subventionen an Vereine um 4 % und der Leistungsverträge der HUG und der IMAD um 5 %. Laut Keystone-SDA nahmen am 14. November knapp 5000 Personen teil; eine erste Kundgebung Anfang Oktober hatte 600 Personen mobilisiert.",
+          "Den Abschluss des Umzugs bildete ein Sinfonieorchester mit rund fünfzig Musiker·innen, unter einem Transparent mit einem «Nein» zu Kürzungen in der Kultur. Die Genfer Kulturdachorganisation FRACG betonte, die Kultur dürfe keine finanzpolitische Manövriermasse sein. Das Ensemble Contrechamps, dem die Stadt Genf ab Januar 2027 die Subvention um 8 % kürzt, hatte zur Teilnahme aufgerufen.",
+          "Der Genfer Grosse Rat berät das Budget Mitte Dezember. In Neuenburg ist für den 20. November ebenfalls eine Kundgebung angekündigt."
+        ]
+      },
+      "it": {
+        "titre": "Ginevra: migliaia di persone contro il preventivo cantonale 2027, con un'orchestra sinfonica in coda al corteo",
+        "chapo": "Sabato 14 novembre hanno sfilato a Ginevra tra 3500 persone secondo la polizia e 6000-7000 secondo gli organizzatori contro i risparmi di 247,7 milioni di franchi previsti dal preventivo cantonale 2027, tra cui tagli ai sussidi culturali.",
+        "corps": [
+          "Il progetto di preventivo 2027 del Canton Ginevra prevede risparmi per 247,7 milioni di franchi, in particolare un taglio lineare del 4 % dei sussidi alle associazioni e del 5 % dei contratti di prestazione degli HUG e dell'IMAD. Secondo Keystone-ATS, il 14 novembre hanno manifestato poco meno di 5000 persone; una prima manifestazione, a inizio ottobre, ne aveva riunite 600.",
+          "Il corteo si è concluso con un'orchestra sinfonica di una cinquantina di musicisti e musiciste, sotto uno striscione che diceva «no» ai tagli alla cultura. La FRACG, che riunisce attori culturali ginevrini, ha sostenuto che la cultura non deve servire da variabile di aggiustamento del bilancio. L'Ensemble Contrechamps, colpito da un taglio dell'8 % da parte della Città di Ginevra a partire da gennaio 2027, aveva invitato a partecipare.",
+          "Il Gran Consiglio ginevrino discuterà il preventivo a metà dicembre. Una manifestazione è annunciata anche a Neuchâtel il 20 novembre."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-16-petzi-la-federation-des-clubs-et-festivals-demande-une-contribution-par-billet-a",
+    "rubrique": "Associations",
+    "edition": "Matin",
+    "date": "2026-11-16",
+    "titre": "PETZI : la fédération des clubs et festivals demande une contribution par billet aux grands concerts pour les petites scènes",
+    "chapo": "Le 11 novembre, PETZI, qui regroupe plus de 240 clubs et festivals dans 23 cantons, a lancé la campagne « Bis – Encore – Zugabe » pour qu'une contribution volontaire soit prélevée sur chaque billet des grandes manifestations commerciales.",
+    "corps": [
+      "L'argent récolté alimenterait un fonds indépendant destiné aux petits et moyens clubs et festivals. Plus de 250 artistes soutiennent la campagne. Selon un sondage mené par PETZI en décembre 2025, près de trois quarts de ses membres jugent leur situation financière tendue, critique ou menacée.",
+      "La fédération relève que le prix moyen d'un billet pour les grands concerts atteignait près de 90 francs en 2023. La campagne vise d'abord les musiques actuelles, mais pose la question plus large du financement des lieux de diffusion de petite et moyenne taille."
+    ],
+    "sources": [
+      {
+        "label": "Swissinfo (Keystone-ATS)",
+        "url": "https://www.swissinfo.ch/ita/grandi-concerti-chiamati-a-sostenere-i-piccoli-palchi-in-svizzera/92362805"
+      },
+      {
+        "label": "SONART",
+        "url": "https://www.sonart.swiss/fr/bon-a-savoir/petzi-il-est-temps-pour-un-encore-appel-1394/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "PETZI: Der Verband der Clubs und Festivals fordert einen Ticketbeitrag grosser Konzerte für kleine Bühnen",
+        "chapo": "Am 11. November lancierte PETZI, der über 240 Clubs und Festivals in 23 Kantonen vereint, die Kampagne «Bis – Encore – Zugabe»: Auf jedes Ticket grosser kommerzieller Veranstaltungen soll ein freiwilliger Beitrag erhoben werden.",
+        "corps": [
+          "Das Geld würde in einen unabhängigen Fonds für kleine und mittlere Clubs und Festivals fliessen. Über 250 Künstler·innen unterstützen die Kampagne. Laut einer Umfrage von PETZI vom Dezember 2025 bezeichnen fast drei Viertel der Mitglieder ihre finanzielle Lage als angespannt, kritisch oder gefährdet.",
+          "Der Verband weist darauf hin, dass ein Ticket für grosse Konzerte 2023 im Durchschnitt fast 90 Franken kostete. Die Kampagne zielt in erster Linie auf die populäre Musik, wirft aber die allgemeinere Frage nach der Finanzierung kleiner und mittlerer Spielorte auf."
+        ]
+      },
+      "it": {
+        "titre": "PETZI: la federazione di club e festival chiede ai grandi concerti un contributo per biglietto a favore dei piccoli palchi",
+        "chapo": "L'11 novembre PETZI, che riunisce oltre 240 club e festival in 23 cantoni, ha lanciato la campagna «Bis – Encore – Zugabe» affinché su ogni biglietto dei grandi eventi commerciali sia prelevato un contributo volontario.",
+        "corps": [
+          "Il denaro raccolto alimenterebbe un fondo indipendente destinato ai club e festival piccoli e medi. Oltre 250 artisti e artiste sostengono la campagna. Secondo un sondaggio condotto da PETZI nel dicembre 2025, quasi tre quarti dei membri giudicano la propria situazione finanziaria tesa, critica o minacciata.",
+          "La federazione ricorda che nel 2023 il prezzo medio di un biglietto per i grandi concerti era di quasi 90 franchi. La campagna riguarda anzitutto la musica pop e rock, ma solleva la questione più ampia del finanziamento dei luoghi di diffusione piccoli e medi."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-13-lucerne-festival-89-d-occupation-pour-l-ete-2026-avec-53-manifestations-payantes",
     "rubrique": "Suisse",
     "edition": "Matin",
