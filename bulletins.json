@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026-11-17-orchestre-de-la-suisse-romande-seconds-violons-et-alto-tuttistes-recherches-epre",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-17",
+    "titre": "Orchestre de la Suisse Romande : seconds violons et alto tuttistes recherchés, épreuves les 15 et 16 février",
+    "info": "L'OSR met au concours un poste de violon tuttiste dans le registre des seconds violons (épreuves le 15 février 2027, inscriptions jusqu'au 29 novembre 2026) et un poste d'alto tuttiste (épreuves le 16 février 2027, inscriptions jusqu'au 29 ou 30 novembre selon la version de la page).",
+    "echeance": "2026-11-29",
+    "source": {
+      "label": "Orchestre de la Suisse Romande — Concours et auditions",
+      "url": "https://www.osr.ch/fr/losr/orchestre/concours-et-auditions"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Orchestre de la Suisse Romande: Tutti-Stellen in den zweiten Violinen und in der Bratsche, Probespiele am 15. und 16. Februar",
+        "info": "Das OSR schreibt eine Tutti-Stelle in den zweiten Violinen (Probespiel am 15. Februar 2027, Anmeldung bis 29. November 2026) und eine Tutti-Stelle Bratsche aus (Probespiel am 16. Februar 2027, Anmeldung je nach Sprachversion der Seite bis 29. oder 30. November)."
+      },
+      "it": {
+        "titre": "Orchestre de la Suisse Romande: posti di fila nei secondi violini e nelle viole, prove il 15 e 16 febbraio",
+        "info": "L'OSR mette a concorso un posto di violino di fila nei secondi violini (prova il 15 febbraio 2027, iscrizioni entro il 29 novembre 2026) e un posto di viola di fila (prova il 16 febbraio 2027, iscrizioni entro il 29 o il 30 novembre a seconda della versione della pagina)."
+      }
+    }
+  },
+  {
+    "id": "2026-11-17-concours-de-geneve-mats-thiersch-remporte-la-direction-d-orchestre-le-suisse-gab",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-17",
+    "titre": "Concours de Genève : Mats Thiersch remporte la direction d'orchestre, le Suisse Gabriel Pernet troisième",
+    "info": "Lors de la finale du 13 novembre 2026, l'Allemand Mats Thiersch a remporté le premier prix (CHF 20 000) et le prix des musicien·nes de l'OSR ; Jacobus De Jager (Afrique du Sud) est deuxième (CHF 12 000) et Gabriel Pernet (Suisse) troisième (CHF 8 000), lauréat aussi du prix du public.",
+    "source": {
+      "label": "The Violin Channel — 13 novembre 2026",
+      "url": "https://theviolinchannel.com/mats-thiersch-wins-concours-de-geneves-conducting-edition/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Concours de Genève: Mats Thiersch gewinnt im Dirigieren, der Schweizer Gabriel Pernet wird Dritter",
+        "info": "Im Finale vom 13. November 2026 gewann der Deutsche Mats Thiersch den ersten Preis (CHF 20 000) sowie den Preis der Musikerinnen und Musiker des OSR; Jacobus De Jager (Südafrika) wurde Zweiter (CHF 12 000), Gabriel Pernet (Schweiz) Dritter (CHF 8 000) und erhielt zudem den Publikumspreis."
+      },
+      "it": {
+        "titre": "Concours de Genève: Mats Thiersch vince nella direzione d'orchestra, terzo lo svizzero Gabriel Pernet",
+        "info": "Nella finale del 13 novembre 2026 il tedesco Mats Thiersch ha vinto il primo premio (CHF 20 000) e il premio dei musicisti dell'OSR; Jacobus De Jager (Sudafrica) è secondo (CHF 12 000) e Gabriel Pernet (Svizzera) terzo (CHF 8 000), vincitore anche del premio del pubblico."
+      }
+    }
+  },
+  {
+    "id": "2026-11-17-michael-haefliger-le-johann-melchior-wyrsch-preis-2026-de-la-schindler-kultursti",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-17",
+    "titre": "Michael Haefliger : le Johann-Melchior-Wyrsch-Preis 2026 de la Schindler-Kulturstiftung",
+    "info": "La Schindler-Kulturstiftung, qui décerne ce prix depuis 1974, distingue Michael Haefliger pour son parcours dans la musique et la culture ; le montant et la date de remise ne sont pas précisés.",
+    "source": {
+      "label": "Revue musicale suisse — 16 novembre 2026",
+      "url": "https://www.musikzeitung.ch/news/2026/11/michael-haefliger-mit-wyrsch-preis-ausgezeichnet"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Michael Haefliger: Johann-Melchior-Wyrsch-Preis 2026 der Schindler-Kulturstiftung",
+        "info": "Die Schindler-Kulturstiftung, die den Preis seit 1974 vergibt, zeichnet Michael Haefliger für sein Wirken in Musik und Kultur aus; Preissumme und Datum der Übergabe werden nicht genannt."
+      },
+      "it": {
+        "titre": "Michael Haefliger: il Johann-Melchior-Wyrsch-Preis 2026 della Schindler-Kulturstiftung",
+        "info": "La Schindler-Kulturstiftung, che assegna il premio dal 1974, distingue Michael Haefliger per il suo percorso nella musica e nella cultura; importo e data della consegna non sono indicati."
+      }
+    }
+  },
+  {
+    "id": "2026-11-17-buhnen-bern-assistant-e-a-la-mise-en-scene-en-theatre-musical-100-des-le-1er-aou",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-17",
+    "titre": "Bühnen Bern : assistant·e à la mise en scène en théâtre musical (100 %), dès le 1er août 2027",
+    "info": "Bühnen Bern recrute un·e assistant·e à la mise en scène pour le théâtre musical à 100 %, avec entrée en fonction le 1er août 2027 ; contact : Rainer Karlitschek, directeur de l'opéra. Le délai de candidature n'est pas indiqué.",
+    "source": {
+      "label": "Bühnen Bern — Jobs",
+      "url": "https://buehnenbern.ch/uber-uns/jobs/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Bühnen Bern: Regieassistenz Musiktheater (100 %) ab 1. August 2027",
+        "info": "Bühnen Bern sucht eine Regieassistenz für das Musiktheater zu 100 %, Stellenantritt am 1. August 2027; Kontakt: Opernchef Rainer Karlitschek. Eine Bewerbungsfrist wird nicht genannt."
+      },
+      "it": {
+        "titre": "Bühnen Bern: assistente alla regia per il teatro musicale (100 %) dal 1° agosto 2027",
+        "info": "Bühnen Bern cerca un·a assistente alla regia per il teatro musicale al 100 %, con entrata in servizio il 1° agosto 2027; contatto: Rainer Karlitschek, direttore dell'opera. Il termine di candidatura non è indicato."
+      }
+    }
+  },
+  {
     "id": "2026-11-16-tonhalle-orchester-zurich-trompette-2-3-4-et-flute-solo-au-concours",
     "categorie": "Auditions & concours",
     "date": "2026-11-16",

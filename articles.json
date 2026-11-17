@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-11-17-hemu-les-masters-en-musique-revises-nouveaux-cursus-a-la-rentree-2027",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-17",
+    "titre": "HEMU : les Masters en musique révisés, nouveaux cursus à la rentrée 2027",
+    "chapo": "La Haute École de Musique de Lausanne a annoncé le 5 novembre 2026 la révision de ses formations de Master, dont les nouveaux cursus entreront en vigueur à la rentrée académique 2027.",
+    "corps": [
+      "Selon l'HEMU, la réforme vise à « mieux répondre aux transformations des métiers de la musique et aux réalités du monde professionnel ». Sont concernés les Masters actuels en Interprétation musicale, en Interprétation musicale spécialisée et en Pédagogie musicale.",
+      "L'école dit vouloir passer « d'une logique d'offre de cours à une logique de parcours » : des parcours plus individualisés et flexibles, davantage d'autonomie pour les étudiant·es, ainsi que des plans d'études et des référentiels de compétences révisés. La nouvelle offre et les modalités d'admission doivent être présentées sur le site de l'HEMU dès début décembre 2026."
+    ],
+    "sources": [
+      {
+        "label": "HEMU — Master",
+        "url": "https://www.hemu.ch/master"
+      },
+      {
+        "label": "HEMU — Actualités : « Révision des Masters » (5 novembre 2026)",
+        "url": "https://www.hemu.ch/actualites"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "HEMU: Masterstudiengänge in Musik werden überarbeitet, neue Curricula ab Herbst 2027",
+        "chapo": "Die Haute École de Musique de Lausanne hat am 5. November 2026 die Überarbeitung ihrer Masterstudiengänge angekündigt; die neuen Curricula treten auf das Studienjahr 2027 in Kraft.",
+        "corps": [
+          "Laut HEMU soll die Reform besser auf den Wandel der Musikberufe und die Realitäten der Berufswelt antworten. Betroffen sind die bestehenden Master in Musikalischer Interpretation, Spezialisierter Musikalischer Interpretation und Musikpädagogik.",
+          "Die Hochschule will von einer Logik des Kursangebots zu einer Logik individueller Studienwege übergehen: flexiblere, stärker individualisierte Wege, mehr Autonomie für die Studierenden sowie überarbeitete Studienpläne und Kompetenzprofile. Das neue Angebot und die Zulassungsbedingungen sollen ab Anfang Dezember 2026 auf der Website der HEMU vorgestellt werden."
+        ]
+      },
+      "it": {
+        "titre": "HEMU: revisione dei Master in musica, nuovi percorsi dall'anno accademico 2027",
+        "chapo": "La Haute École de Musique di Losanna ha annunciato il 5 novembre 2026 la revisione delle sue formazioni di Master, i cui nuovi percorsi entreranno in vigore con l'anno accademico 2027.",
+        "corps": [
+          "Secondo l'HEMU, la riforma intende rispondere meglio alle trasformazioni dei mestieri della musica e alle realtà del mondo professionale. Sono interessati gli attuali Master in Interpretazione musicale, Interpretazione musicale specializzata e Pedagogia musicale.",
+          "La scuola vuole passare da una logica di offerta di corsi a una logica di percorso: percorsi più individualizzati e flessibili, maggiore autonomia per gli studenti, piani di studio e profili di competenze rivisti. La nuova offerta e le modalità di ammissione saranno presentate sul sito dell'HEMU da inizio dicembre 2026."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-17-numa-bischof-ullmann-luzerner-sinfonieorchester-l-intendant-partira-fin-juin-202",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-17",
+    "titre": "Numa Bischof Ullmann (Luzerner Sinfonieorchester) : l'intendant partira fin juin 2028, après 25 ans",
+    "chapo": "Numa Bischof Ullmann quittera l'intendance du Luzerner Sinfonieorchester à la fin juin 2028, a annoncé l'orchestre dans un communiqué publié le 17 septembre 2026.",
+    "corps": [
+      "En poste depuis 2003, il aura dirigé l'orchestre lucernois pendant 25 ans. « La saison 2027/28 marquera la fin d'une ère de 25 ans », déclare la présidente du Verein Luzerner Sinfonieorchester, Karin Auf der Maur (« Die Saison 2027/28 wird den Abschluss einer 25-jährigen Ära markieren »).",
+      "Le Verein annonce lancer prochainement le processus de recrutement de sa succession ; le communiqué ne mentionne ni nom ni calendrier. Numa Bischof Ullmann restera directeur artistique du festival Le Piano Symphonique et continuera de gérer la fondation de l'orchestre."
+    ],
+    "sources": [
+      {
+        "label": "Luzerner Sinfonieorchester — communiqué du 16 septembre 2026 (PDF)",
+        "url": "https://sinfonieorchester.ch/wp-content/uploads/2026/09/20260916_MM_NBU_Intendanz2028_FINAL.pdf"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Numa Bischof Ullmann (Luzerner Sinfonieorchester): Der Intendant geht Ende Juni 2028 nach 25 Jahren",
+        "chapo": "Numa Bischof Ullmann gibt die Intendanz des Luzerner Sinfonieorchesters Ende Juni 2028 ab, wie das Orchester in einer am 17. September 2026 veröffentlichten Medienmitteilung bekanntgab.",
+        "corps": [
+          "Seit 2003 im Amt, wird er das Luzerner Orchester 25 Jahre lang geleitet haben. «Die Saison 2027/28 wird den Abschluss einer 25-jährigen Ära markieren», sagt Karin Auf der Maur, Präsidentin des Vereins Luzerner Sinfonieorchester.",
+          "Der Verein will das Verfahren für die Nachfolge zeitnah einleiten; die Mitteilung nennt weder Namen noch Zeitplan. Numa Bischof Ullmann bleibt künstlerischer Leiter des Festivals Le Piano Symphonique und führt weiterhin die Stiftung des Orchesters."
+        ]
+      },
+      "it": {
+        "titre": "Numa Bischof Ullmann (Luzerner Sinfonieorchester): l'intendente lascerà a fine giugno 2028, dopo 25 anni",
+        "chapo": "Numa Bischof Ullmann lascerà l'intendenza del Luzerner Sinfonieorchester a fine giugno 2028, ha annunciato l'orchestra in un comunicato pubblicato il 17 settembre 2026.",
+        "corps": [
+          "In carica dal 2003, avrà guidato l'orchestra lucernese per 25 anni. «La stagione 2027/28 segnerà la conclusione di un'era di 25 anni», afferma la presidente del Verein Luzerner Sinfonieorchester, Karin Auf der Maur («Die Saison 2027/28 wird den Abschluss einer 25-jährigen Ära markieren»).",
+          "Il Verein avvierà a breve la procedura per la successione; il comunicato non indica né nomi né calendario. Numa Bischof Ullmann resterà direttore artistico del festival Le Piano Symphonique e continuerà a gestire la fondazione dell'orchestra."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-16-geneve-des-milliers-de-manifestant-es-contre-le-budget-cantonal-2027-avec-un-orc",
     "rubrique": "Politique culturelle",
     "edition": "Matin",

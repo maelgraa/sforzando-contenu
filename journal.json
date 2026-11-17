@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-17",
+    "edition": "Matin",
+    "publie_le": "2026-11-17T06:35:24.128Z",
+    "articles": 2,
+    "bulletins": 4,
+    "sources_lues": 54,
+    "sources_total": 60,
+    "detail": "2 articles, 4 bulletins, 0 doublons écartés, 54/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch allowed_domains + WebFetch des URL renvoyées. Non lues : OCL, ARCS, RSI Coro, Opéra de Lausanne, Theater Basel, Scènes Magazine. Extraits de recherche seulement : Le Temps, RTS, FIM, Artos. Outil add_repo introuvable : dépôt déjà cloné. Palmarès Concours de Genève vérifié via The Violin Channel et blue News (site officiel bloqué). Bulletin OSR seconds violons/alto, écarté à tort le 16.11, republié sous un autre titre."
+  },
+  {
     "date": "2026-11-16",
     "edition": "Matin",
     "publie_le": "2026-11-16T06:26:32.416Z",
