@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-18",
+    "edition": "Matin",
+    "publie_le": "2026-11-18T06:25:36.831Z",
+    "articles": 1,
+    "bulletins": 2,
+    "sources_lues": 54,
+    "sources_total": 60,
+    "detail": "1 articles, 2 bulletins, 1 doublons écartés, 54/60 sources lues",
+    "ecartes": [
+      "Orchestre de la Suisse Romande : concours de chef·fe d'attaque des seconds violons le 5 février 2027  ≈  Orchestre de la Suisse Romande : seconds violons et alto tuttistes recherchés, épreuves les 15 et 16 février"
+    ],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch (allowed_domains) puis WebFetch des URL renvoyées : 54/60 lues. Non lues : ARCS (recherche sans contenu), OCL (« failed at its site (robots_disallowed), and nothing of the page was retrieved »), Theater Basel (« failed at its site (client_error) »), SRF Kultur (PROVENANCE_REQUIRED, recherche sans contenu daté), FIM et Artos (« failed at its site (client_error) »). Extraits seulement : Le Temps, RTS, Bachtrack, SSRS, SONART (SERVER_ERROR « There was an error while fetching. »). Pages bloquées : lucernefestival.ch/en/news/256 (bulletin Kühne fondé sur le titre et la date de la liste d'actualités), muvac OSR, tobs.ch offres d'emploi, hem.hesge.ch (emploi, résidence, OperaLab), musik-akademie.ch (Elina Duni). Non retenus faute de vérification : motion/proposition Ueli Schmezer (SONART, date non affichée), audition OCL cor solo/clarinette 2e solo (titre seul). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre ; lectures faites par sous-agents. publier.mjs : bulletin OSR chef·fe d'attaque des seconds violons (concours 5.2.2027, délai 25.11.2026) écarté comme doublon des tutti seconds violons/alto — rapprochement vraisemblablement abusif (même page concours, poste différent)."
+  },
+  {
     "date": "2026-11-17",
     "edition": "Matin",
     "publie_le": "2026-11-17T06:35:24.128Z",

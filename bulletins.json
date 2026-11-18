@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-11-18-concours-de-geneve-hanurij-lee-remporte-la-finale-de-composition",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-18",
+    "titre": "Concours de Genève : Hanurij Lee remporte la finale de composition",
+    "info": "Le Sud-Coréen Hanurij Lee gagne la finale de composition de la 80e édition avec « Stuff #1 » (15 000 francs et prix du public), devant Rafael Marino Arcaro (Brésil) et Sing-Yat Chen (Hong Kong) ; le jury, présidé par Unsuk Chin, avait reçu 188 candidatures.",
+    "source": {
+      "label": "Swissinfo",
+      "url": "https://www.swissinfo.ch/eng/culture/south-korean-wins-the-composition-final-of-the-concours-de-gen%C3%A8ve/92368398"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Concours de Genève: Hanurij Lee gewinnt das Kompositionsfinale",
+        "info": "Der Südkoreaner Hanurij Lee gewinnt das Kompositionsfinale der 80. Ausgabe mit «Stuff #1» (15 000 Franken und Publikumspreis), vor Rafael Marino Arcaro (Brasilien) und Sing-Yat Chen (Hongkong); die Jury unter dem Vorsitz von Unsuk Chin hatte 188 Bewerbungen erhalten."
+      },
+      "it": {
+        "titre": "Concours de Genève: Hanurij Lee vince la finale di composizione",
+        "info": "Il sudcoreano Hanurij Lee vince la finale di composizione dell'80a edizione con «Stuff #1» (15 000 franchi e premio del pubblico), davanti a Rafael Marino Arcaro (Brasile) e Sing-Yat Chen (Hong Kong); la giuria, presieduta da Unsuk Chin, aveva ricevuto 188 candidature."
+      }
+    }
+  },
+  {
+    "id": "2026-11-18-lucerne-festival-la-fondation-kuhne-prolonge-son-engagement-de-trois-ans",
+    "categorie": "Annonces économiques",
+    "date": "2026-11-18",
+    "titre": "Lucerne Festival : la Fondation Kühne prolonge son engagement de trois ans",
+    "info": "Lucerne Festival a annoncé le 16 novembre 2026 que la Fondation Kühne, partenaire principal du festival depuis 2020, prolonge son engagement pour trois années supplémentaires.",
+    "source": {
+      "label": "Lucerne Festival",
+      "url": "https://www.lucernefestival.ch/en/news/256"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Lucerne Festival: Kühne-Stiftung verlängert ihr Engagement um drei Jahre",
+        "info": "Lucerne Festival hat am 16. November 2026 bekanntgegeben, dass die Kühne-Stiftung, seit 2020 Hauptsponsorin des Festivals, ihr Engagement um drei weitere Jahre verlängert."
+      },
+      "it": {
+        "titre": "Lucerne Festival: la Fondazione Kühne prolunga il suo impegno di tre anni",
+        "info": "Lucerne Festival ha annunciato il 16 novembre 2026 che la Fondazione Kühne, sponsor principale del festival dal 2020, prolunga il suo impegno per altri tre anni."
+      }
+    }
+  },
+  {
     "id": "2026-11-17-orchestre-de-la-suisse-romande-seconds-violons-et-alto-tuttistes-recherches-epre",
     "categorie": "Auditions & concours",
     "date": "2026-11-17",

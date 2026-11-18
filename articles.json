@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-18-zurcher-kammerorchester-martin-et-marianne-haefner-dotent-un-fonds-de-5-millions",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-18",
+    "titre": "Zürcher Kammerorchester : Martin et Marianne Haefner dotent un fonds de 5 millions de francs",
+    "chapo": "Martin et Marianne Haefner apportent 5 millions de francs de capital au Zürcher Kammerorchester (ZKO), qui crée avec cette somme le « Fonds Martin und Marianne Haefner », a annoncé l'orchestre le 18 novembre 2026.",
+    "corps": [
+      "Selon le ZKO, les revenus de ce capital de mécénat doivent soutenir le développement artistique de l'orchestre et assurer son avenir. L'orchestre rappelle l'attachement de longue date du couple à l'ensemble, qui se traduit aussi par le partenariat avec AMAG, et remercie les donateurs pour cet « engagement extraordinaire ».",
+      "Le communiqué ne précise ni la durée ni les modalités d'utilisation du fonds."
+    ],
+    "sources": [
+      {
+        "label": "Zürcher Kammerorchester",
+        "url": "https://zko.ch/berichte/martin-und-marianne-haefner-setzen-ein-starkes-zeichen-fuer-das-zko/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Zürcher Kammerorchester: Martin und Marianne Haefner stiften einen Fonds von 5 Millionen Franken",
+        "chapo": "Martin und Marianne Haefner bringen 5 Millionen Franken Kapital beim Zürcher Kammerorchester (ZKO) ein, das damit den «Fonds Martin und Marianne Haefner» schafft, wie das Orchester am 18. November 2026 mitteilte.",
+        "corps": [
+          "Laut ZKO sollen die Erträge dieses Mäzenatenkapitals die künstlerische Entwicklung des Orchesters unterstützen und seine Zukunft sichern. Das Orchester erinnert an die langjährige Verbundenheit des Ehepaars mit dem Ensemble, die sich auch in der Partnerschaft mit der AMAG zeigt, und dankt den Stiftern für dieses «aussergewöhnliche Engagement».",
+          "Die Mitteilung nennt weder die Laufzeit noch die Modalitäten der Verwendung des Fonds."
+        ]
+      },
+      "it": {
+        "titre": "Zürcher Kammerorchester: Martin e Marianne Haefner dotano un fondo di 5 milioni di franchi",
+        "chapo": "Martin e Marianne Haefner apportano 5 milioni di franchi di capitale allo Zürcher Kammerorchester (ZKO), che con questa somma crea il «Fonds Martin und Marianne Haefner», ha annunciato l'orchestra il 18 novembre 2026.",
+        "corps": [
+          "Secondo lo ZKO, i proventi di questo capitale di mecenatismo devono sostenere lo sviluppo artistico dell'orchestra e garantirne il futuro. L'orchestra ricorda il legame di lunga data della coppia con l'ensemble, che si traduce anche nella partnership con AMAG, e ringrazia i donatori per questo «impegno straordinario».",
+          "Il comunicato non precisa né la durata né le modalità di utilizzo del fondo."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-17-hemu-les-masters-en-musique-revises-nouveaux-cursus-a-la-rentree-2027",
     "rubrique": "Suisse",
     "edition": "Matin",
