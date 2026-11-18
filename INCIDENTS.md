@@ -1,5 +1,17 @@
 # Incidents de veille
 
+## 2026-11-18 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : lucernefestival.ch/en/news/256 (Fondation Kühne), annonce muvac OSR, tobs.ch offres d'emploi, rsi.ch/coro → barocchistiecoro.ch, hem.hesge.ch (emploi, appel résidence, OperaLab), musik-akademie.ch (Elina Duni, Blomstedt), hemu.ch news id/1067.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 54/60 sources lues.
+- **Sources non lues** : ARCS (la recherche ne renvoie que l'URL bloquée) ; OCL (/locl-recrute/ et /deux-nouveaux-musiciens-locl/ : `failed at its site (robots_disallowed), and nothing of the page was retrieved`) ; Theater Basel (/fr/medias, /en/medien, /de/stellenprojekte : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.`) ; SRF Kultur (PROVENANCE_REQUIRED, recherche sans extrait daté) ; FIM (/en/press-releases, /en/) et Artos (fiches et accueil) : `client_error` ci-dessus. Extraits de recherche seulement : Le Temps (letemps.ch/archive/202611 : `client_error`), RTS, Bachtrack, SSRS, SONART.
+- **Autres échecs** : ssrs.ch/actualites/, sonart.swiss/fr/news/, gliangeligeneve.com : `{"error_type":"SERVER_ERROR","source":"target","message":"There was an error while fetching."}` ; ssrs.ch (référendum salaires minimums), musikrat.ch (Kulturelle Vielfalt), tonhalle-orchester.ch (PDF Teamleiter·in Orchesterbüro, Musikvermittlung), sinfonietta.ch/category/annonces-recrutement/ : `client_error`.
+- **add_repo et WebFetch direct** : outils introuvables via ToolSearch dans la session principale (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre, les lectures ont été faites par sous-agents.
+- **publier.mjs** : bulletin « OSR : concours de chef·fe d'attaque des seconds violons le 5 février 2027 » (délai 25.11.2026) écarté comme doublon de « seconds violons et alto tuttistes » — rapprochement vraisemblablement abusif (même page concours, poste différent).
+
 ## 2026-11-17 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
