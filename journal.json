@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-19",
+    "edition": "Matin",
+    "publie_le": "2026-11-19T06:25:23.273Z",
+    "articles": 3,
+    "bulletins": 0,
+    "sources_lues": 55,
+    "sources_total": 60,
+    "detail": "3 articles, 0 bulletins, 0 doublons écartés, 55/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch allowed_domains + WebFetch des URL renvoyées. Non lues : ARCS (recherche sans contenu), Ensemble Vocal de Lausanne (recherche : concerts seulement), RSI Coro (rsi.ch/coro : redirection 302 vers barocchistiecoro.ch), FIM (/en/press-releases : client_error), Artos (fiches : client_error). Non vérifiés (pages bloquées), donc non publiés : décès de Danielle Borst (GTG), Urbański prolongé au BSO jusqu'en 2031/32 (PDF Bühnen Bern), Swiss Re partenaire principal de la Tonhalle, postes jazz HEMU. Outils add_repo et WebFetch introuvables dans la session principale : lectures faites par sous-agents, dépôt déjà cloné."
+  },
+  {
     "date": "2026-11-18",
     "edition": "Matin",
     "publie_le": "2026-11-18T06:25:36.831Z",
