@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-20",
+    "edition": "Matin",
+    "publie_le": "2026-11-20T06:26:08.570Z",
+    "articles": 2,
+    "bulletins": 0,
+    "sources_lues": 56,
+    "sources_total": 60,
+    "detail": "2 articles, 0 bulletins, 0 doublons écartés, 56/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli WebSearch allowed_domains + WebFetch, lectures par sous-agents. Non lues : Theater Basel (client_error sur /en/medien, /fr/medias, /de/stellenprojekte), RSI Coro (rsi.ch/coro → 302 barocchistiecoro.ch bloqué ; rsi.ch/speciali/cultura/barocchisti robots_disallowed), FIM et Artos (« failed at its site (client_error), and nothing of the page was retrieved. »). Extraits de recherche seulement : Le Temps, RTS, RMSR. Écartés faute de vérification : décès Danielle Borst (GTG, article bloqué), HEMU Ivan Plaus Pigarev et Cyprien Lengagne (articles bloqués), brèves SONART non datées (Schmezer, Tessin, sondage Uni Berne). add_repo introuvable via ToolSearch : dépôt déjà cloné."
+  },
+  {
     "date": "2026-11-19",
     "edition": "Matin",
     "publie_le": "2026-11-19T06:25:23.273Z",

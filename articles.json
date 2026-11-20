@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-11-20-anna-netrebko-la-controverse-autour-de-son-concert-du-30-novembre-gagne-bale",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-20",
+    "titre": "Anna Netrebko : la controverse autour de son concert du 30 novembre gagne Bâle",
+    "chapo": "La venue d'Anna Netrebko au Stadtcasino de Bâle le 30 novembre suscite une pétition de l'Ukrainischer Verein Schweiz, une manifestation le 14 novembre et un débat public le 29 novembre, rapporte SRF.",
+    "corps": [
+      "La soprano doit chanter Judith dans « Le Château de Barbe-Bleue » de Bartók, en version de concert, le 30 novembre au Stadtcasino de Bâle, dans une soirée organisée par Act Entertainment AG (directeur : Thomas Dürr). L'Ukrainischer Verein Schweiz a lancé dès mai 2026 une pétition demandant l'annulation ; sa section bâloise est représentée par Halyna Ilyasevych Rauber. Une manifestation a eu lieu le 14 novembre devant le Stadtcasino.",
+      "Un débat contradictoire est prévu le 29 novembre à la Kaserne Basel, avec Ulrich Schmid (Université de Saint-Gall) et Kateryna Rietz-Rakul (Institut ukrainien en Allemagne). SRF rappelle qu'en 2024, le gouvernement lucernois avait qualifié la chanteuse de « mutmasslich regimetreu » (probablement fidèle au régime) et qu'un concert au KKL avait été annulé."
+    ],
+    "sources": [
+      {
+        "label": "SRF Kultur, 19.11.2026",
+        "url": "https://www.srf.ch/kultur/musik/kontroverse-um-opernsaengerin-der-streit-um-anna-netrebko-erreicht-basel"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Anna Netrebko: Die Kontroverse um ihr Konzert vom 30. November erreicht Basel",
+        "chapo": "Der Auftritt von Anna Netrebko im Stadtcasino Basel am 30. November löst eine Petition des Ukrainischen Vereins Schweiz, eine Kundgebung am 14. November und eine öffentliche Debatte am 29. November aus, berichtet SRF.",
+        "corps": [
+          "Die Sopranistin soll am 30. November im Stadtcasino Basel die Judith in Bartóks «Herzog Blaubarts Burg» in konzertanter Fassung singen; Veranstalterin ist die Act Entertainment AG (Direktor: Thomas Dürr). Der Ukrainische Verein Schweiz hat bereits im Mai 2026 eine Petition für eine Absage lanciert; die Basler Sektion wird von Halyna Ilyasevych Rauber vertreten. Am 14. November fand vor dem Stadtcasino eine Kundgebung statt.",
+          "Am 29. November ist in der Kaserne Basel eine kontradiktorische Debatte mit Ulrich Schmid (Universität St.Gallen) und Kateryna Rietz-Rakul (Ukrainisches Institut in Deutschland) geplant. SRF erinnert daran, dass die Luzerner Regierung die Sängerin 2024 als «mutmasslich regimetreu» bezeichnet hatte und ein Konzert im KKL abgesagt worden war."
+        ]
+      },
+      "it": {
+        "titre": "Anna Netrebko: la controversia sul suo concerto del 30 novembre raggiunge Basilea",
+        "chapo": "L'arrivo di Anna Netrebko allo Stadtcasino di Basilea il 30 novembre suscita una petizione dell'Ukrainischer Verein Schweiz, una manifestazione il 14 novembre e un dibattito pubblico il 29 novembre, riferisce la SRF.",
+        "corps": [
+          "Il soprano dovrebbe cantare Judith nel «Castello del principe Barbablù» di Bartók, in forma di concerto, il 30 novembre allo Stadtcasino di Basilea, in una serata organizzata da Act Entertainment AG (direttore: Thomas Dürr). L'Ukrainischer Verein Schweiz ha lanciato già nel maggio 2026 una petizione per chiederne l'annullamento; la sezione basilese è rappresentata da Halyna Ilyasevych Rauber. Il 14 novembre si è svolta una manifestazione davanti allo Stadtcasino.",
+          "Il 29 novembre è previsto un dibattito in contraddittorio alla Kaserne Basel, con Ulrich Schmid (Università di San Gallo) e Kateryna Rietz-Rakul (Istituto ucraino in Germania). La SRF ricorda che nel 2024 il governo lucernese aveva definito la cantante «mutmasslich regimetreu» (presumibilmente fedele al regime) e che un concerto al KKL era stato annullato."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-20-karl-scheuber-le-chef-de-ch-ur-zurichois-fondateur-du-schmaz-est-mort-a-83-ans",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-20",
+    "titre": "Karl Scheuber : le chef de chœur zurichois, fondateur du « Schmaz », est mort à 83 ans",
+    "chapo": "Karl Scheuber, chef de chœur, chef d'orchestre et pédagogue, est mort le 25 octobre 2026 à Zurich à l'âge de 83 ans, annonce la Revue musicale suisse.",
+    "corps": [
+      "Né le 11 août 1943 à Amriswil (TG), Karl Scheuber a fondé en 1967 le Zürcher Singkreis der Engadiner Kantorei, puis en 1990 le Schwuler Männerchor Zürich « Schmaz », qu'il a dirigé pendant 22 ans. Il a été directeur artistique du Musikpodium der Stadt Zürich à partir de 1989.",
+      "Il a enseigné au Lehrerseminar de Küsnacht, puis à la ZHdK comme chargé de cours et responsable de domaine d'études."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse (RMS), 13.11.2026",
+        "url": "https://www.musikzeitung.ch/dossiers/nachruf/2026/11/der-ostschweizer-der-zuerichs-chorszene-aufmischte"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Karl Scheuber: Der Zürcher Chorleiter und Gründer des «Schmaz» ist mit 83 Jahren gestorben",
+        "chapo": "Karl Scheuber, Chorleiter, Dirigent und Pädagoge, ist am 25. Oktober 2026 in Zürich im Alter von 83 Jahren gestorben, meldet die Schweizer Musikzeitung.",
+        "corps": [
+          "Der am 11. August 1943 in Amriswil (TG) geborene Karl Scheuber gründete 1967 den Zürcher Singkreis der Engadiner Kantorei und 1990 den Schwulen Männerchor Zürich «Schmaz», den er 22 Jahre lang leitete. Ab 1989 war er künstlerischer Leiter des Musikpodiums der Stadt Zürich.",
+          "Er unterrichtete am Lehrerseminar Küsnacht und später an der ZHdK als Dozent und Studienbereichsleiter."
+        ]
+      },
+      "it": {
+        "titre": "Karl Scheuber: è morto a 83 anni il direttore di coro zurighese, fondatore dello «Schmaz»",
+        "chapo": "Karl Scheuber, direttore di coro, direttore d'orchestra e pedagogo, è morto il 25 ottobre 2026 a Zurigo all'età di 83 anni, annuncia la Rivista musicale svizzera.",
+        "corps": [
+          "Nato l'11 agosto 1943 ad Amriswil (TG), Karl Scheuber fondò nel 1967 lo Zürcher Singkreis der Engadiner Kantorei e nel 1990 lo Schwuler Männerchor Zürich «Schmaz», che diresse per 22 anni. Dal 1989 fu direttore artistico del Musikpodium der Stadt Zürich.",
+          "Insegnò al Lehrerseminar di Küsnacht e poi alla ZHdK come docente e responsabile di settore di studio."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-19-michael-sanderling-luzerner-sinfonieorchester-nomme-premier-chef-invite-des-duss",
     "rubrique": "Suisse",
     "edition": "Matin",
