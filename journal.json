@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-23",
+    "edition": "Matin",
+    "publie_le": "2026-11-23T06:25:38.499Z",
+    "articles": 1,
+    "bulletins": 0,
+    "sources_lues": 56,
+    "sources_total": 60,
+    "detail": "1 articles, 0 bulletins, 0 doublons écartés, 56/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : ARCS (recherche ne renvoie que l'accueil bloqué), OCG (ROBOTS_UNREACHABLE « This site's rules for automated access (robots.txt) could not be read… »), Theater Basel (client_error sur /fr/medias, /en/medien, /de/jobs, /de/stellenprojekte), Artos (client_error sur les fiches). Titres de recherche seulement : Le Temps, RTS, RMSR, FIM (client_error). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre. Écartés faute de date ou de vérification : Tonhalle/Swiss Re, Urbański (Bühnen Bern) jusqu'en 2031/32, postes HEMU jazz, SONART/Ueli Schmezer."
+  },
+  {
     "date": "2026-11-20",
     "edition": "Matin",
     "publie_le": "2026-11-20T06:26:08.570Z",

@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026-11-23-swiss-arts-pulse-deux-professionnel-les-de-la-culture-sur-trois-vivent-avec-4000",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-11-23",
+    "titre": "Swiss Arts PULSE : deux professionnel·les de la culture sur trois vivent avec 4000 francs par mois au maximum",
+    "chapo": "Le premier baromètre culturel national, lancé le 20 novembre par la ZHdK auprès de 1122 professionnel·les de la culture et de la création, montre que sept sur dix jugent leur rémunération injuste et que plus d'un tiers a sérieusement envisagé de quitter le secteur.",
+    "corps": [
+      "Selon l'enquête « Swiss Arts PULSE » du Center for Creative Economies de la Haute école d'art de Zurich (ZHdK), deux personnes interrogées sur trois couvrent l'ensemble de leurs dépenses personnelles et professionnelles avec 4000 francs par mois au maximum. Sept sur dix estiment leur rémunération injuste, une sur six ne tiendrait pas un mois sans revenu, et moins d'une sur cinq vit entièrement de son travail artistique. Plus d'un tiers a sérieusement envisagé de quitter le secteur au cours des six derniers mois ; le responsable de l'étude, Christoph Weckerle, parle d'un « wake-up call ».",
+      "Les principales inquiétudes portent sur le manque de mandats, d'occasions et de demande (52 %), la sécurité financière (36 %) et le financement des projets (30 %). Près de la moitié des personnes interrogées s'attend à ce que l'intelligence artificielle générative réduise l'emploi dans sa profession d'ici cinq ans, et près d'une sur cinq a déjà moins de travail à cause de l'IA. Environ un quart souhaite une forme de revenu de base.",
+      "L'enquête couvre huit secteurs culturels et sera reconduite tous les deux ans, la prochaine édition étant prévue en 2028. La phase pilote 2026 a été soutenue notamment par Pro Helvetia, avec la participation de Suisseculture et de Suisseculture Sociale."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse (RMS)",
+        "url": "https://www.musikzeitung.ch/news/2026/11/zhdk-lanciert-ein-nationales-kulturbarometer"
+      },
+      {
+        "label": "Swissinfo",
+        "url": "https://www.swissinfo.ch/eng/culture/more-than-a-third-of-artists-are-considering-leaving-the-cultural-sector/92412393"
+      },
+      {
+        "label": "SRF Kultur",
+        "url": "https://www.srf.ch/kultur/gesellschaft-religion/kulturnews-in-kurzform-swiss-arts-pulse-erfasst-die-sorgen-der-schweizer-kulturbranche"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Swiss Arts PULSE: Zwei von drei Kulturschaffenden kommen mit höchstens 4000 Franken im Monat aus",
+        "chapo": "Das erste nationale Kulturbarometer, das die ZHdK am 20. November auf Basis einer Befragung von 1122 Kultur- und Kreativschaffenden lanciert hat, zeigt: Sieben von zehn halten ihre Entlöhnung für unfair, und mehr als ein Drittel hat ernsthaft erwogen, die Branche zu verlassen.",
+        "corps": [
+          "Laut der Erhebung «Swiss Arts PULSE» des Center for Creative Economies der Zürcher Hochschule der Künste (ZHdK) decken zwei von drei Befragten sämtliche privaten und beruflichen Ausgaben mit höchstens 4000 Franken pro Monat. Sieben von zehn empfinden ihre Entlöhnung als unfair, jede sechste Person würde keinen Monat ohne Einkommen überstehen, und weniger als eine von fünf lebt vollständig von ihrer künstlerischen Arbeit. Mehr als ein Drittel hat in den letzten sechs Monaten ernsthaft erwogen, die Branche zu verlassen; Studienleiter Christoph Weckerle spricht von einem «Wake-up-Call».",
+          "Die grössten Sorgen betreffen fehlende Aufträge, Gelegenheiten und Nachfrage (52 %), die finanzielle Sicherheit (36 %) und die Projektfinanzierung (30 %). Fast die Hälfte erwartet, dass generative künstliche Intelligenz die Beschäftigung im eigenen Beruf innert fünf Jahren verringert, und fast jede fünfte Person hat wegen KI bereits weniger Arbeit. Rund ein Viertel wünscht sich eine Form von Grundeinkommen.",
+          "Die Erhebung umfasst acht Kultursparten und soll alle zwei Jahre wiederholt werden, die nächste Ausgabe ist für 2028 geplant. Die Pilotphase 2026 wurde unter anderem von Pro Helvetia unterstützt, unter Mitwirkung von Suisseculture und Suisseculture Sociale."
+        ]
+      },
+      "it": {
+        "titre": "Swiss Arts PULSE: due operatori culturali su tre vivono con al massimo 4000 franchi al mese",
+        "chapo": "Il primo barometro culturale nazionale, lanciato il 20 novembre dalla ZHdK sulla base di un sondaggio tra 1122 professionisti della cultura e della creazione, mostra che sette su dieci giudicano ingiusta la propria remunerazione e che più di un terzo ha seriamente pensato di lasciare il settore.",
+        "corps": [
+          "Secondo l'indagine «Swiss Arts PULSE» del Center for Creative Economies della Scuola universitaria delle arti di Zurigo (ZHdK), due intervistati su tre coprono tutte le spese personali e professionali con al massimo 4000 franchi al mese. Sette su dieci ritengono ingiusta la propria remunerazione, uno su sei non resisterebbe un mese senza reddito e meno di uno su cinque vive interamente del proprio lavoro artistico. Più di un terzo ha seriamente pensato di lasciare il settore negli ultimi sei mesi; il responsabile dello studio, Christoph Weckerle, parla di un «wake-up call».",
+          "Le principali preoccupazioni riguardano la mancanza di incarichi, opportunità e domanda (52 %), la sicurezza finanziaria (36 %) e il finanziamento dei progetti (30 %). Quasi la metà degli intervistati si aspetta che l'intelligenza artificiale generativa riduca l'occupazione nella propria professione entro cinque anni, e quasi uno su cinque ha già meno lavoro a causa dell'IA. Circa un quarto auspica una forma di reddito di base.",
+          "L'indagine copre otto settori culturali e sarà ripetuta ogni due anni, con la prossima edizione prevista nel 2028. La fase pilota 2026 è stata sostenuta in particolare da Pro Helvetia, con la partecipazione di Suisseculture e Suisseculture Sociale."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-20-anna-netrebko-la-controverse-autour-de-son-concert-du-30-novembre-gagne-bale",
     "rubrique": "Suisse",
     "edition": "Matin",
