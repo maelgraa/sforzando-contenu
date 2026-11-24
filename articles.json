@@ -1,5 +1,74 @@
 [
   {
+    "id": "2026-11-24-suisa-quatre-sieges-a-repourvoir-a-la-commission-de-repartition-et-des-uvres-can",
+    "rubrique": "Associations",
+    "edition": "Matin",
+    "date": "2026-11-24",
+    "titre": "SUISA : quatre sièges à repourvoir à la Commission de répartition et des œuvres, candidatures jusqu'au 14 janvier",
+    "chapo": "La SUISA a lancé le 20 novembre un appel à candidatures pour quatre des 22 sièges de sa Commission de répartition et des œuvres, qui seront pourvus par l'Assemblée générale du 22 juin 2027 à Berne.",
+    "corps": [
+      "Dix-huit des 22 membres actuels se représentent. Seuls les membres de la SUISA disposant du droit de vote et d'éligibilité peuvent être élus ; les candidatures sont reçues jusqu'au 14 janvier 2027 par Martin Korrodi, à la SUISA à Zurich.",
+      "Le mandat dure quatre ans et peut être renouvelé trois fois au maximum. La commission se réunit deux journées par an, avec une indemnité journalière. L'appel est signé par Vincent Salvadé et Giorgio Tebaldi."
+    ],
+    "sources": [
+      {
+        "label": "SUISA Blog",
+        "url": "https://blog.suisa.ch/fr/commission-de-repartition-et-des-oeuvres-influencer-la-repartition-2027/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "SUISA: Vier Sitze in der Verteilungs- und Werkkommission neu zu besetzen, Bewerbungen bis 14. Januar",
+        "chapo": "Die SUISA hat am 20. November eine Ausschreibung für vier der 22 Sitze ihrer Verteilungs- und Werkkommission lanciert; gewählt wird an der Generalversammlung vom 22. Juni 2027 in Bern.",
+        "corps": [
+          "Achtzehn der 22 bisherigen Mitglieder stellen sich zur Wiederwahl. Wählbar sind nur SUISA-Mitglieder mit Stimm- und Wahlrecht; Bewerbungen nimmt Martin Korrodi bei der SUISA in Zürich bis am 14. Januar 2027 entgegen.",
+          "Die Amtszeit beträgt vier Jahre und kann höchstens dreimal erneuert werden. Die Kommission tagt an zwei Tagen pro Jahr, mit Taggeld. Die Ausschreibung ist von Vincent Salvadé und Giorgio Tebaldi unterzeichnet."
+        ]
+      },
+      "it": {
+        "titre": "SUISA: quattro seggi da rinnovare nella Commissione di ripartizione e delle opere, candidature entro il 14 gennaio",
+        "chapo": "Il 20 novembre la SUISA ha lanciato un bando per quattro dei 22 seggi della sua Commissione di ripartizione e delle opere, che saranno assegnati dall'Assemblea generale del 22 giugno 2027 a Berna.",
+        "corps": [
+          "Diciotto dei 22 membri attuali si ricandidano. Sono eleggibili solo i membri della SUISA con diritto di voto e di eleggibilità; le candidature vanno inviate entro il 14 gennaio 2027 a Martin Korrodi, presso la SUISA a Zurigo.",
+          "Il mandato dura quattro anni ed è rinnovabile al massimo tre volte. La commissione si riunisce due giornate all'anno, con un'indennità giornaliera. Il bando è firmato da Vincent Salvadé e Giorgio Tebaldi."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-24-pro-helvetia-une-nouvelle-aide-pour-les-manifestations-des-institutions-culturel",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-11-24",
+    "titre": "Pro Helvetia : une nouvelle aide pour les manifestations des institutions culturelles sur les mutations de la société",
+    "chapo": "Pro Helvetia a lancé début novembre « Manifestation : culture en mutation », une mesure qui soutient les institutions et organisations culturelles suisses organisant des manifestations publiques sur les transformations sociétales, technologiques ou écologiques.",
+    "corps": [
+      "Les manifestations soutenues doivent faire intervenir des personnes extérieures au champ artistique. Les demandes peuvent être déposées toute l'année ; la page de la fondation n'indique pas de montant."
+    ],
+    "sources": [
+      {
+        "label": "Pro Helvetia",
+        "url": "https://prohelvetia.ch/fr/whats-on/manifestation-culture-en-mutation-une-mesure-de-soutien-pour-les-institutions-et-organisations-culturelles-de-suisse/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Pro Helvetia: Neue Förderung für Veranstaltungen von Kulturinstitutionen zum gesellschaftlichen Wandel",
+        "chapo": "Pro Helvetia hat Anfang November die Massnahme «Manifestation : culture en mutation» (französischer Titel) lanciert; sie unterstützt Schweizer Kulturinstitutionen und -organisationen, die öffentliche Veranstaltungen zu gesellschaftlichen, technologischen oder ökologischen Veränderungen durchführen.",
+        "corps": [
+          "An den unterstützten Veranstaltungen müssen Personen ausserhalb des Kunstbereichs mitwirken. Gesuche können das ganze Jahr eingereicht werden; einen Betrag nennt die Seite der Stiftung nicht."
+        ]
+      },
+      "it": {
+        "titre": "Pro Helvetia: un nuovo sostegno per le manifestazioni delle istituzioni culturali sui mutamenti della società",
+        "chapo": "All'inizio di novembre Pro Helvetia ha lanciato «Manifestation : culture en mutation» (titolo francese), una misura che sostiene le istituzioni e organizzazioni culturali svizzere che organizzano manifestazioni pubbliche sulle trasformazioni sociali, tecnologiche o ecologiche.",
+        "corps": [
+          "Le manifestazioni sostenute devono coinvolgere persone esterne al campo artistico. Le domande possono essere presentate tutto l'anno; la pagina della fondazione non indica importi."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-23-swiss-arts-pulse-deux-professionnel-les-de-la-culture-sur-trois-vivent-avec-4000",
     "rubrique": "Politique culturelle",
     "edition": "Matin",

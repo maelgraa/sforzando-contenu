@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-11-24-ocl-rafael-esparrell-remporte-l-audition-de-clarinette-2e-solo",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-24",
+    "titre": "OCL : Rafael Esparrell remporte l'audition de clarinette 2e solo",
+    "info": "L'Orchestre de Chambre de Lausanne a annoncé le 19 novembre que Rafael Esparrell a remporté l'audition du 16 novembre pour le poste de clarinette 2e solo.",
+    "source": {
+      "label": "Orchestre de Chambre de Lausanne",
+      "url": "https://www.ocl.ch/un-nouveau-clarinettiste-locl/"
+    },
+    "traductions": {
+      "de": {
+        "titre": "OCL: Rafael Esparrell gewinnt das Probespiel für die 2. Soloklarinette",
+        "info": "Das Orchestre de Chambre de Lausanne gab am 19. November bekannt, dass Rafael Esparrell das Probespiel vom 16. November für die Stelle der 2. Soloklarinette gewonnen hat."
+      },
+      "it": {
+        "titre": "OCL: Rafael Esparrell vince l'audizione per il secondo clarinetto solista",
+        "info": "Il 19 novembre l'Orchestre de Chambre de Lausanne ha annunciato che Rafael Esparrell ha vinto l'audizione del 16 novembre per il posto di secondo clarinetto solista."
+      }
+    }
+  },
+  {
     "id": "2026-11-18-concours-de-geneve-hanurij-lee-remporte-la-finale-de-composition",
     "categorie": "Auditions & concours",
     "date": "2026-11-18",

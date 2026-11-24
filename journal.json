@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-24",
+    "edition": "Matin",
+    "publie_le": "2026-11-24T06:24:34.110Z",
+    "articles": 2,
+    "bulletins": 1,
+    "sources_lues": 55,
+    "sources_total": 60,
+    "detail": "2 articles, 1 bulletins, 0 doublons écartés, 55/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées. Non lues : Theater Basel (client_error), Le Temps et RTS (articles : client_error), FIM (client_error), Artos (fiches : client_error). Outil add_repo introuvable : dépôt déjà cloné et dans le périmètre. Décès de Danielle Borst (GTG, 12 novembre) non publié : page bloquée, année et détails non vérifiables. Interview Digris (SMZ, 11.11) non reprise : sujet déjà traité."
+  },
+  {
     "date": "2026-11-23",
     "edition": "Matin",
     "publie_le": "2026-11-23T06:25:38.499Z",

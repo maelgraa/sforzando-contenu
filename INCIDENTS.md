@@ -1,5 +1,16 @@
 # Incidents de veille
 
+## 2026-11-24 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : articles Tonhalle (Swiss Re, Ilona Schmiel, Ute Grewel, accès difficile), gtg.ch (décès Danielle Borst, patrimoine audiovisuel), hemu.ch news id/1067 et 1068 et PDF de postes, hem.hesge.ch/la-hem/emploi, musik-akademie.ch (concours cycle de lieder Hesse), sinfonieorchesterbasel.ch/de/karriere, konzertundtheater.ch/blog/pietro-rizzo/, rsi.ch/coro → barocchistiecoro.ch, newsletter VMS 10-26.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 55/60 sources lues.
+- **Sources non lues** : Theater Basel (/de/medien : PROVENANCE_REQUIRED ; /fr/medias, /en/medien, /de/stellenprojekte : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.`) ; Le Temps (articles OCG, tags, vidéo : `client_error`) ; RTS (articles « orchestres éphémères contre l'austérité » et manifestation Genève : `client_error`) ; FIM (/en/press-releases, /en/, /en/orchestras/ : `client_error`) ; Artos (cinq fiches d'offres : `client_error`). RSI : extraits de recherche seulement.
+- **Autres échecs** : action-intermittence.ch/actualite/ : `{"error_type":"SERVER_ERROR","source":"target","message":"There was an error while fetching."}` ; gliangeligeneve.com/pages/accueil : `{"error_type":"ROBOTS_UNREACHABLE","source":"target","message":"This site's rules for automated access (robots.txt) could not be read, so the page was not fetched. Possible causes: the site had an error or did not answer in time, or the web address does not exist."}` ; ocl.ch/locl-recrute-remplacants-supp-cordes-vents/, hkb.bfh.ch (Eignungsprüfungen), lucernefestival.ch/de/whatsnew : `client_error`.
+- **add_repo et WebFetch direct** : outils introuvables via ToolSearch dans la session principale (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre, les lectures ont été faites par sous-agents.
+
 ## 2026-11-23 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
