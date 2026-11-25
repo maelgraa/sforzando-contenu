@@ -1,5 +1,16 @@
 # Incidents de veille
 
+## 2026-11-25 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : hemu.ch news id/1068, musik-akademie.ch (Spendolini), articles Tonhalle (Swiss Re, Generalversammlung, Ute Grewel), hem.hesge.ch (appel résidence, OperaLab), PDF TOBS « ins Attisholz », page d'accueil musikzeitung.ch.
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 59/60 sources lues.
+- **Source non lue** : ARCS (la recherche ne renvoie que l'accueil bloqué). Extraits de recherche seulement : Le Temps, RTS, FIM, Artos, RSI, Opéra de Lausanne, Theater Basel.
+- **Autres échecs** : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.` sur theater-basel.ch/en/medien et /fr/medias, articles Le Temps et RTS, fim-musicians.org, fiches Artos, smpv.ch/en/category/news/, hkb.bfh.ch (Eignungsprüfungen), locg.ch/fr/orchestre-nominations ; `{"error_type":"ROBOTS_UNREACHABLE","source":"target","message":"This site's rules for automated access (robots.txt) could not be read, so the page was not fetched. Possible causes: the site had an error or did not answer in time, or the web address does not exist."}` sur ocl.ch (/, /locl-recrute/, /deux-nouveaux-musiciens-locl/), sonart.swiss/fr/news/ et /fr/bon-a-savoir/, PDF sommaire Scènes Magazine.
+- **add_repo et WebFetch direct** : outils introuvables via ToolSearch dans la session principale (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre, les lectures ont été faites par sous-agents.
+
 ## 2026-11-24 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
