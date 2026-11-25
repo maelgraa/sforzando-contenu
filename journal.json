@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-25",
+    "edition": "Matin",
+    "publie_le": "2026-11-25T06:25:28.882Z",
+    "articles": 0,
+    "bulletins": 5,
+    "sources_lues": 59,
+    "sources_total": 60,
+    "detail": "0 articles, 5 bulletins, 0 doublons écartés, 59/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (sous-agents) : PROVENANCE_REQUIRED « The permission request for this URL was not answered in time… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… ». Repli WebSearch allowed_domains + WebFetch des URL renvoyées. Non lue : ARCS (recherche ne renvoie que l'accueil bloqué). Extraits de recherche seulement : Le Temps, RTS, FIM, Artos (fiches : client_error), RSI, Opéra de Lausanne, Theater Basel (/en/medien, /fr/medias : client_error), OCL (ROBOTS_UNREACHABLE). Pigarev (HEMU) et Spendolini (Musik-Akademie) vérifiés sur les listes d'actualités seulement (articles bloqués). Écartés : OSR premier soliste seconds violons (délai le 25.11), OCG Mattia Bornati (non daté), Swiss Re/Tonhalle (non vérifié), brèves SONART non datées. Divergence OSR alto tuttiste : délai 30.11 (FR) contre 29.11 (EN). add_repo introuvable via ToolSearch ; dépôt déjà cloné."
+  },
+  {
     "date": "2026-11-24",
     "edition": "Matin",
     "publie_le": "2026-11-24T06:24:34.110Z",

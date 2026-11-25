@@ -1,5 +1,111 @@
 [
   {
+    "id": "2026-11-25-orchestre-de-la-suisse-romande-trois-postes-de-violon-tuttiste-aux-premiers-viol",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-25",
+    "titre": "Orchestre de la Suisse Romande : trois postes de violon tuttiste aux premiers violons, concours le 14 mai 2027",
+    "info": "L'OSR met au concours trois postes de violon tuttiste dans le registre des premiers violons ; les inscriptions, via muvac, sont ouvertes du 1er décembre 2026 au 28 février 2027, pour un concours fixé au 14 mai 2027.",
+    "echeance": "2027-02-28",
+    "source": {
+      "label": "Orchestre de la Suisse Romande — auditions",
+      "url": "https://www.osr.ch/lorchestre/emploi/auditions"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Orchestre de la Suisse Romande: drei Tutti-Stellen in den ersten Violinen, Probespiel am 14. Mai 2027",
+        "info": "Das OSR schreibt drei Tutti-Stellen in der Gruppe der ersten Violinen aus; Anmeldungen über muvac sind vom 1. Dezember 2026 bis 28. Februar 2027 möglich, das Probespiel findet am 14. Mai 2027 statt."
+      },
+      "it": {
+        "titre": "Orchestre de la Suisse Romande: tre posti di violino di fila nei primi violini, concorso il 14 maggio 2027",
+        "info": "L'OSR mette a concorso tre posti di violino di fila nella sezione dei primi violini; le iscrizioni, tramite muvac, sono aperte dal 1° dicembre 2026 al 28 febbraio 2027, per un concorso fissato al 14 maggio 2027."
+      }
+    }
+  },
+  {
+    "id": "2026-11-25-concours-orpheus-le-quatuor-de-saxophones-osimun-remporte-le-premier-prix",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-25",
+    "titre": "Concours Orpheus : le Quatuor de saxophones Osimun remporte le premier prix",
+    "info": "Formé en 2022 par des étudiants de la HKB et de la Hochschule für Musik Basel, le quatuor bâlois devance le Trio Nigun (Conservatorio della Svizzera italiana) et le Trio Toth (Bâle) au Concours suisse de musique de chambre Orpheus, qui existe depuis 1974 ; la Fondation Nicati-de Luze permet aux trois premiers lauréats de commander une œuvre.",
+    "source": {
+      "label": "Revue musicale suisse — 24 novembre 2026",
+      "url": "https://www.musikzeitung.ch/en/news/2026/11/osimun-quartet-gewinnt-orpheus-wettbewerb"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Orpheus-Wettbewerb: Saxophonquartett Osimun gewinnt den ersten Preis",
+        "info": "Das 2022 von Studierenden der HKB und der Hochschule für Musik Basel gegründete Basler Quartett setzt sich am Schweizer Kammermusikwettbewerb Orpheus, den es seit 1974 gibt, vor dem Trio Nigun (Conservatorio della Svizzera italiana) und dem Trio Toth (Basel) durch; die Fondation Nicati-de Luze ermöglicht den drei Erstplatzierten einen Kompositionsauftrag."
+      },
+      "it": {
+        "titre": "Concorso Orpheus: il Quartetto di sassofoni Osimun vince il primo premio",
+        "info": "Fondato nel 2022 da studenti della HKB e della Hochschule für Musik Basel, il quartetto basilese precede il Trio Nigun (Conservatorio della Svizzera italiana) e il Trio Toth (Basilea) al Concorso svizzero di musica da camera Orpheus, che esiste dal 1974; la Fondation Nicati-de Luze permette ai primi tre classificati di commissionare un'opera."
+      }
+    }
+  },
+  {
+    "id": "2026-11-25-patricia-kopatchinskaja-instrumentalist-of-the-year-de-musical-america-worldwide",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-25",
+    "titre": "Patricia Kopatchinskaja : « Instrumentalist of the Year » de Musical America Worldwide",
+    "info": "Le magazine américain distingue la violoniste établie à Berne, saluée comme « bold experimenter and pioneering musician » ; Francesca Zambello est désignée artiste de l'année, et Elim Chan, Huang Ruo et Ryan Speedo Green figurent aussi parmi les lauréats.",
+    "source": {
+      "label": "Revue musicale suisse — 23 novembre 2026",
+      "url": "https://www.musikzeitung.ch/en/news/2026/11/kopatchinskaja-von-musical-america-worldwide-ausgezeichnet"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Patricia Kopatchinskaja: «Instrumentalist of the Year» von Musical America Worldwide",
+        "info": "Das amerikanische Magazin zeichnet die in Bern lebende Geigerin als «bold experimenter and pioneering musician» aus; Artist of the Year ist Francesca Zambello, ausgezeichnet werden zudem Elim Chan, Huang Ruo und Ryan Speedo Green."
+      },
+      "it": {
+        "titre": "Patricia Kopatchinskaja: «Instrumentalist of the Year» di Musical America Worldwide",
+        "info": "La rivista americana premia la violinista residente a Berna, definita «bold experimenter and pioneering musician»; artista dell'anno è Francesca Zambello, e tra i premiati figurano anche Elim Chan, Huang Ruo e Ryan Speedo Green."
+      }
+    }
+  },
+  {
+    "id": "2026-11-25-ivan-plaus-pigarev-hemu-l-etudiant-remporte-le-concours-de-trombone-solo-de-la-m",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-25",
+    "titre": "Ivan Plaus Pigarev (HEMU) : l'étudiant remporte le concours de trombone solo de la Mittelsächsische Philharmonie",
+    "info": "Selon l'HEMU, son étudiant en trombone a gagné le concours pour le poste de trombone solo de la Mittelsächsische Philharmonie, en Allemagne.",
+    "source": {
+      "label": "HEMU — actualités, 19 novembre 2026",
+      "url": "https://www.hemu.ch/lhemu/actualites/detail-des-actualites/news/detail/news/id/1068"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Ivan Plaus Pigarev (HEMU): Student gewinnt Probespiel für Soloposaune der Mittelsächsischen Philharmonie",
+        "info": "Laut der HEMU hat ihr Posaunenstudent das Probespiel für die Stelle der Soloposaune der Mittelsächsischen Philharmonie in Deutschland gewonnen."
+      },
+      "it": {
+        "titre": "Ivan Plaus Pigarev (HEMU): lo studente vince il concorso di trombone solista della Mittelsächsische Philharmonie",
+        "info": "Secondo l'HEMU, il suo studente di trombone ha vinto il concorso per il posto di trombone solista della Mittelsächsische Philharmonie, in Germania."
+      }
+    }
+  },
+  {
+    "id": "2026-11-25-francesco-spendolini-musik-akademie-basel-nouveau-charge-de-cours-de-clarinettes",
+    "categorie": "Emplois & enseignement",
+    "date": "2026-11-25",
+    "titre": "Francesco Spendolini (Musik-Akademie Basel) : nouveau chargé de cours de clarinettes historiques dès septembre 2027",
+    "info": "La Musik-Akademie Basel annonce le 24 novembre la nomination de Francesco Spendolini comme chargé de cours pour les instruments historiques de la famille des clarinettes, à partir de septembre 2027.",
+    "source": {
+      "label": "Musik-Akademie Basel — news, 24 novembre 2026",
+      "url": "https://www.musik-akademie.ch/de/news/detail/neuer-dozent-fuer-historische-klarinetteninstrumente-ab-september-2027-francesco-spendolini.html"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Francesco Spendolini (Musik-Akademie Basel): neuer Dozent für historische Klarinetteninstrumente ab September 2027",
+        "info": "Die Musik-Akademie Basel gibt am 24. November bekannt, dass Francesco Spendolini ab September 2027 als Dozent für historische Klarinetteninstrumente unterrichtet."
+      },
+      "it": {
+        "titre": "Francesco Spendolini (Musik-Akademie Basel): nuovo docente di clarinetti storici da settembre 2027",
+        "info": "La Musik-Akademie Basel annuncia il 24 novembre la nomina di Francesco Spendolini a docente per gli strumenti storici della famiglia dei clarinetti, a partire da settembre 2027."
+      }
+    }
+  },
+  {
     "id": "2026-11-24-ocl-rafael-esparrell-remporte-l-audition-de-clarinette-2e-solo",
     "categorie": "Auditions & concours",
     "date": "2026-11-24",
