@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-11-26-lucerne-festival-academy-2027-ouverture-des-candidatures-le-1er-decembre",
+    "categorie": "Auditions & concours",
+    "date": "2026-11-26",
+    "titre": "Lucerne Festival Academy 2027 : ouverture des candidatures le 1er décembre",
+    "info": "Les candidatures à la Lucerne Festival Academy 2027 ouvrent le 1er décembre 2026 ; le livret d'information, le répertoire d'audition et les traits d'orchestre seront disponibles à cette date.",
+    "source": {
+      "label": "Lucerne Festival – Academy, candidatures",
+      "url": "https://www.lucernefestival.ch/en/lucerne-festival-academy/apply"
+    },
+    "traductions": {
+      "de": {
+        "titre": "Lucerne Festival Academy 2027: Bewerbungen ab 1. Dezember",
+        "info": "Die Bewerbung für die Lucerne Festival Academy 2027 öffnet am 1. Dezember 2026; ab diesem Datum sind Informationsbroschüre, Probespielrepertoire und Orchesterstellen verfügbar."
+      },
+      "it": {
+        "titre": "Lucerne Festival Academy 2027: candidature dal 1° dicembre",
+        "info": "Le candidature per la Lucerne Festival Academy 2027 si aprono il 1° dicembre 2026; da quella data saranno disponibili l'opuscolo informativo, il repertorio d'audizione e i passi orchestrali."
+      }
+    }
+  },
+  {
     "id": "2026-11-25-orchestre-de-la-suisse-romande-trois-postes-de-violon-tuttiste-aux-premiers-viol",
     "categorie": "Auditions & concours",
     "date": "2026-11-25",

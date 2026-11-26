@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-26",
+    "edition": "Matin",
+    "publie_le": "2026-11-26T06:28:15.301Z",
+    "articles": 4,
+    "bulletins": 1,
+    "sources_lues": 51,
+    "sources_total": 60,
+    "detail": "4 articles, 1 bulletins, 0 doublons écartés, 51/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch direct refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED : « The permission request for this URL was not answered in time. Do not retry… » puis « The user did not answer an earlier permission request in time, so the request for this URL was not sent to them… »). Repli : WebSearch avec allowed_domains puis WebFetch des URL renvoyées, via sous-agents. Non lues : ARCS, OCG (ROBOTS_UNREACHABLE), RSI (redirection vers barocchistiecoro.ch bloquée), Le Temps, RTS, RMSR, Scènes Magazine (ROBOTS_UNREACHABLE), FIM et Artos (client_error). Outil add_repo introuvable (dépôt déjà cloné, dans le périmètre). Écartés faute de vérification : Monica Torti (prix Morges, article HEMU bloqué), Swiss Re partenaire principal Tonhalle (article bloqué), décès d'Andres Pellegrini (Musik-Akademie, article bloqué), baromètre ZHdK (page bloquée, proche de Swiss Arts PULSE). OSR clarinette solo : inscriptions closes."
+  },
+  {
     "date": "2026-11-25",
     "edition": "Matin",
     "publie_le": "2026-11-25T06:25:28.882Z",

@@ -1,5 +1,156 @@
 [
   {
+    "id": "2026-11-26-jugend-und-musik-le-conseil-federal-s-oppose-a-la-motion-candinas-les-forfaits-b",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-11-26",
+    "titre": "Jugend und Musik : le Conseil fédéral s'oppose à la motion Candinas, les forfaits baissent au 1er janvier 2027",
+    "chapo": "Le Conseil fédéral recommande de rejeter la motion du conseiller national Martin Candinas qui veut porter le plafond du programme Jugend und Musik d'environ 3 à 4 millions de francs dès 2027, alors que les montants par leçon doivent baisser d'environ 10 % au 1er janvier.",
+    "corps": [
+      "Selon la Revue musicale suisse (25 novembre), le programme Jugend und Musik (J+M), lancé il y a dix ans, a pour la première fois entièrement épuisé en 2025 son plafond de 3 millions de francs par an. Conséquence annoncée : au 1er janvier 2027, les montants versés par leçon diminueraient d'environ 10 %, et le forfait d'hébergement passerait de 20 à 15 francs par personne.",
+      "Le conseiller national Martin Candinas (Le Centre, Grisons) a déposé une motion pour relever ce plafond à environ 4 millions de francs en 2027 ; elle est notamment cosignée par des élus UDC. Le Conseil fédéral en recommande le rejet, faute de marge budgétaire.",
+      "Le Parlement ouvre sa session d'hiver le 30 novembre, avec le budget 2027 à l'ordre du jour. Le prochain message culture est attendu au plus tard à la mi-2027."
+    ],
+    "sources": [
+      {
+        "label": "Revue musicale suisse – Bundesrat wehrt sich gegen mehr Geld für «Jugend und Musik»",
+        "url": "https://www.musikzeitung.ch/en/politik/2026/11/bundesrat-wehrt-sich-gegen-mehr-geld-fuer-jugend-und-musik"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Jugend und Musik: Bundesrat lehnt Motion Candinas ab, Beiträge sinken per 1. Januar 2027",
+        "chapo": "Der Bundesrat beantragt, die Motion von Nationalrat Martin Candinas abzulehnen, die den Plafond des Programms Jugend und Musik ab 2027 von rund 3 auf 4 Millionen Franken erhöhen will – während die Beiträge pro Lektion per 1. Januar um rund 10 Prozent sinken sollen.",
+        "corps": [
+          "Wie die Schweizer Musikzeitung (25. November) berichtet, hat das vor zehn Jahren lancierte Programm Jugend und Musik (J+M) 2025 seinen Plafond von 3 Millionen Franken pro Jahr erstmals vollständig ausgeschöpft. Die Folge: Per 1. Januar 2027 würden die Beiträge pro Lektion um rund 10 Prozent gekürzt, die Unterkunftspauschale sänke von 20 auf 15 Franken pro Person.",
+          "Nationalrat Martin Candinas (Die Mitte, Graubünden) hat eine Motion eingereicht, die den Plafond 2027 auf rund 4 Millionen Franken anheben will; mitunterzeichnet haben sie unter anderem SVP-Ratsmitglieder. Der Bundesrat beantragt die Ablehnung, da der finanzielle Spielraum fehle.",
+          "Das Parlament beginnt am 30. November die Wintersession, mit dem Budget 2027 auf der Traktandenliste. Die nächste Kulturbotschaft wird spätestens Mitte 2027 erwartet."
+        ]
+      },
+      "it": {
+        "titre": "Jugend und Musik: il Consiglio federale respinge la mozione Candinas, i contributi calano dal 1° gennaio 2027",
+        "chapo": "Il Consiglio federale propone di respingere la mozione del consigliere nazionale Martin Candinas che chiede di portare il tetto del programma Jugend und Musik da circa 3 a 4 milioni di franchi dal 2027, mentre gli importi per lezione dovrebbero diminuire di circa il 10 % dal 1° gennaio.",
+        "corps": [
+          "Secondo la Rivista musicale svizzera (25 novembre), il programma Jugend und Musik (G+M), lanciato dieci anni fa, ha esaurito per la prima volta nel 2025 il suo tetto di 3 milioni di franchi all'anno. Di conseguenza, dal 1° gennaio 2027 gli importi per lezione diminuirebbero di circa il 10 % e il forfait per l'alloggio passerebbe da 20 a 15 franchi a persona.",
+          "Il consigliere nazionale Martin Candinas (Alleanza del Centro, Grigioni) ha depositato una mozione per alzare il tetto a circa 4 milioni di franchi nel 2027; tra i cofirmatari figurano anche deputati UDC. Il Consiglio federale ne raccomanda il rigetto per mancanza di margine finanziario.",
+          "Il Parlamento apre la sessione invernale il 30 novembre, con il preventivo 2027 all'ordine del giorno. Il prossimo messaggio sulla cultura è atteso al più tardi a metà 2027."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-26-initiative-musikvielfalt-de-99-a-375-francs-par-habitant-pour-la-musique-selon-l",
+    "rubrique": "Politique culturelle",
+    "edition": "Matin",
+    "date": "2026-11-26",
+    "titre": "Initiative Musikvielfalt : de 99 à 375 francs par habitant pour la musique selon les villes suisses",
+    "chapo": "L'Initiative Musikvielfalt a publié le premier comparatif du soutien public à la musique dans six villes suisses (données 2024) : Genève dépense 375 francs par habitant, Lugano 99, et la musique classique capte de 76 % à 95 % des montants.",
+    "corps": [
+      "L'étude additionne les fonds de la ville, du canton et de la loterie attribués à la musique dans six villes. En valeur absolue, Zurich arrive en tête avec 105,8 millions de francs, devant Genève (78,3 millions), Lausanne (29,1 millions), Berne (26,2 millions), Bâle (25,5 millions) et Lugano (6,8 millions). Par habitant, l'écart va de 99 francs à Lugano à 375 francs à Genève ; l'Observatoire romand de la culture, qui a relayé l'étude le 1er octobre, cite environ 201 francs à Lausanne et 236 francs à Zurich.",
+      "La musique classique reçoit entre 76 % (Lausanne) et 95 % (Zurich) des aides. La part des fonds versés de manière pluriannuelle aux mêmes bénéficiaires va de 81,8 % (Lausanne) à 96,1 % (Lugano), ce qui laisse peu de marge pour de nouveaux projets."
+    ],
+    "sources": [
+      {
+        "label": "Initiative Musikvielfalt – Städtevergleich",
+        "url": "https://musikvielfalt.ch/en/news/staedtevergleich/"
+      },
+      {
+        "label": "Observatoire romand de la culture – Premier comparatif des villes sur le soutien public à la musique",
+        "url": "https://www.observatoire-culture.ch/premier-comparatif-des-villes-sur-le-soutien-public-a-la-musique/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Initiative Musikvielfalt: 99 bis 375 Franken pro Kopf für die Musik – je nach Schweizer Stadt",
+        "chapo": "Die Initiative Musikvielfalt hat den ersten Vergleich der öffentlichen Musikförderung in sechs Schweizer Städten veröffentlicht (Daten 2024): Genf gibt 375 Franken pro Einwohner:in aus, Lugano 99, und die klassische Musik erhält 76 bis 95 Prozent der Mittel.",
+        "corps": [
+          "Die Studie zählt die Mittel von Stadt, Kanton und Lotteriefonds für die Musik in sechs Städten zusammen. In absoluten Zahlen liegt Zürich mit 105,8 Millionen Franken vorn, vor Genf (78,3 Millionen), Lausanne (29,1 Millionen), Bern (26,2 Millionen), Basel (25,5 Millionen) und Lugano (6,8 Millionen). Pro Kopf reicht die Spanne von 99 Franken in Lugano bis 375 Franken in Genf; das Observatoire romand de la culture, das die Studie am 1. Oktober aufgriff, nennt rund 201 Franken für Lausanne und 236 Franken für Zürich.",
+          "Die klassische Musik erhält zwischen 76 Prozent (Lausanne) und 95 Prozent (Zürich) der Förderung. Der Anteil der Mittel, die mehrjährig an dieselben Empfänger gehen, liegt zwischen 81,8 Prozent (Lausanne) und 96,1 Prozent (Lugano) – wenig Spielraum für neue Projekte."
+        ]
+      },
+      "it": {
+        "titre": "Initiative Musikvielfalt: da 99 a 375 franchi per abitante per la musica a seconda della città svizzera",
+        "chapo": "L'Initiative Musikvielfalt ha pubblicato il primo confronto del sostegno pubblico alla musica in sei città svizzere (dati 2024): Ginevra spende 375 franchi per abitante, Lugano 99, e la musica classica riceve dal 76 % al 95 % dei fondi.",
+        "corps": [
+          "Lo studio somma i fondi di città, cantone e lotteria destinati alla musica in sei città. In valore assoluto è in testa Zurigo con 105,8 milioni di franchi, davanti a Ginevra (78,3 milioni), Losanna (29,1 milioni), Berna (26,2 milioni), Basilea (25,5 milioni) e Lugano (6,8 milioni). Per abitante si va dai 99 franchi di Lugano ai 375 di Ginevra; l'Observatoire romand de la culture, che ha ripreso lo studio il 1° ottobre, indica circa 201 franchi per Losanna e 236 per Zurigo.",
+          "La musica classica riceve tra il 76 % (Losanna) e il 95 % (Zurigo) dei contributi. La quota dei fondi versati su più anni agli stessi beneficiari va dall'81,8 % (Losanna) al 96,1 % (Lugano), lasciando poco margine a nuovi progetti."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-26-danielle-borst-la-soprano-genevoise-est-morte",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-26",
+    "titre": "Danielle Borst : la soprano genevoise est morte",
+    "chapo": "Le Grand Théâtre de Genève annonce la mort, le 12 novembre, de la soprano genevoise Danielle Borst, née en 1946, qui avait fait ses débuts sur sa scène en 1966 avant d'enseigner à la Haute école de musique de Genève.",
+    "corps": [
+      "Danielle Borst avait débuté au Grand Théâtre en 1966 dans l'un des Trois Garçons de La Flûte enchantée, sous la direction d'Ernest Ansermet. En 1984, elle y chante Oscar dans Un bal masqué aux côtés de Luciano Pavarotti, sous la direction de Riccardo Chailly, avant de se produire à Vienne, Paris et Lyon ; elle a notamment enregistré Poppea avec René Jacobs.",
+      "Retirée de la scène en 2000, elle a enseigné à la HEM de Genève, où la soprano Sonya Yoncheva a été son élève. Elle était l'épouse du baryton Philippe Huttenlocher. Sa disparition a été annoncée par Alain Perroux, directeur général du Grand Théâtre."
+    ],
+    "sources": [
+      {
+        "label": "Grand Théâtre de Genève – Décès de la soprano Danielle Borst",
+        "url": "https://www.gtg.ch/en/news/death-soprano-danielle-borst/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Danielle Borst: Die Genfer Sopranistin ist gestorben",
+        "chapo": "Das Grand Théâtre de Genève meldet den Tod der 1946 geborenen Genfer Sopranistin Danielle Borst am 12. November; sie hatte 1966 auf seiner Bühne debütiert und später an der Haute école de musique de Genève unterrichtet.",
+        "corps": [
+          "Danielle Borst debütierte 1966 am Grand Théâtre als einer der Drei Knaben in der Zauberflöte unter der Leitung von Ernest Ansermet. 1984 sang sie dort den Oscar in Un ballo in maschera an der Seite von Luciano Pavarotti unter Riccardo Chailly und trat danach in Wien, Paris und Lyon auf; unter anderem spielte sie Poppea mit René Jacobs ein.",
+          "Nach ihrem Bühnenabschied im Jahr 2000 unterrichtete sie an der HEM Genf, wo die Sopranistin Sonya Yoncheva ihre Schülerin war. Sie war mit dem Bariton Philippe Huttenlocher verheiratet. Ihren Tod gab Alain Perroux, Generaldirektor des Grand Théâtre, bekannt."
+        ]
+      },
+      "it": {
+        "titre": "Danielle Borst: è morta la soprano ginevrina",
+        "chapo": "Il Grand Théâtre de Genève annuncia la morte, il 12 novembre, della soprano ginevrina Danielle Borst, nata nel 1946, che aveva debuttato sul suo palcoscenico nel 1966 prima di insegnare alla Haute école de musique de Genève.",
+        "corps": [
+          "Danielle Borst aveva debuttato al Grand Théâtre nel 1966 come uno dei Tre Fanciulli nel Flauto magico, sotto la direzione di Ernest Ansermet. Nel 1984 vi cantò Oscar in Un ballo in maschera accanto a Luciano Pavarotti, diretta da Riccardo Chailly, prima di esibirsi a Vienna, Parigi e Lione; ha tra l'altro registrato Poppea con René Jacobs.",
+          "Ritiratasi dalle scene nel 2000, ha insegnato alla HEM di Ginevra, dove la soprano Sonya Yoncheva è stata sua allieva. Era la moglie del baritono Philippe Huttenlocher. La scomparsa è stata annunciata da Alain Perroux, direttore generale del Grand Théâtre."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-26-poto-wegener-suisa-nouvelle-edition-du-manuel-juridique-musik-recht-pour-les-mus",
+    "rubrique": "Associations",
+    "edition": "Matin",
+    "date": "2026-11-26",
+    "titre": "Poto Wegener (SUISA) : nouvelle édition du manuel juridique « musik & recht » pour les musicien·nes",
+    "chapo": "La nouvelle édition de « musik & recht. Handbuch für Musikschaffende » de Poto Wegener, du service juridique de SUISA, paraît le 25 novembre aux Éditions Schulthess, plus de vingt ans après la première édition de 2003.",
+    "corps": [
+      "L'ouvrage compte plus de 1000 pages réparties en 16 chapitres, avec une préface du conseiller fédéral Beat Jans. Il est complété par des modèles de contrats au format Word, mis à jour en cas de changement juridique.",
+      "SUISA est partenaire de la publication, soutenue par SONART, l'USDAM et la CHEMS ; les membres de SUISA bénéficient d'un prix préférentiel."
+    ],
+    "sources": [
+      {
+        "label": "SUISA Blog – Même les non-juristes pourront accéder à cet ouvrage",
+        "url": "https://blog.suisa.ch/fr/meme-les-non-juristes-pourront-acceder-a-cet-ouvrage/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Poto Wegener (SUISA): Neuauflage des Rechtshandbuchs «musik & recht» für Musikschaffende",
+        "chapo": "Die Neuauflage von «musik & recht. Handbuch für Musikschaffende» von Poto Wegener, Rechtsdienst der SUISA, erscheint am 25. November im Verlag Schulthess – mehr als zwanzig Jahre nach der Erstausgabe von 2003.",
+        "corps": [
+          "Das Werk umfasst über 1000 Seiten in 16 Kapiteln, mit einem Vorwort von Bundesrat Beat Jans. Ergänzt wird es durch Vertragsvorlagen im Word-Format, die bei Rechtsänderungen aktualisiert werden.",
+          "Die SUISA ist Partnerin der Publikation, unterstützt von SONART, dem SMV und der KMHS; SUISA-Mitglieder erhalten einen Vorzugspreis."
+        ]
+      },
+      "it": {
+        "titre": "Poto Wegener (SUISA): nuova edizione del manuale giuridico «musik & recht» per i musicisti",
+        "chapo": "La nuova edizione di «musik & recht. Handbuch für Musikschaffende» di Poto Wegener, del servizio giuridico della SUISA, esce il 25 novembre per le Edizioni Schulthess, oltre vent'anni dopo la prima edizione del 2003.",
+        "corps": [
+          "L'opera conta più di 1000 pagine in 16 capitoli, con una prefazione del consigliere federale Beat Jans. È completata da modelli di contratto in formato Word, aggiornati in caso di modifiche giuridiche.",
+          "La SUISA è partner della pubblicazione, sostenuta da SONART, dall'SMV e dalla CSSM; i membri della SUISA beneficiano di un prezzo preferenziale."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-24-suisa-quatre-sieges-a-repourvoir-a-la-commission-de-repartition-et-des-uvres-can",
     "rubrique": "Associations",
     "edition": "Matin",
