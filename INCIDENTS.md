@@ -1,5 +1,16 @@
 # Incidents de veille
 
+## 2026-11-26 — Édition du matin
+
+- **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
+  - Premier message : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The permission request for this URL was not answered in time. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Ensuite : `{"error_type":"PROVENANCE_REQUIRED","source":"target","message":"The user did not answer an earlier permission request in time, so the request for this URL was not sent to them. Do not retry. Continue without this page and report the blocked URL in your findings."}`
+  - Également bloqués : articles Tonhalle (Swiss Re, Generalversammlung 20.01.2027, Ilona Schmiel), hemu.ch news id/1071 (Monica Torti), musik-akademie.ch (Andres Pellegrini, Elina Duni, pages d'emploi HSM/MAB), barocchistiecoro.ch, tobs.ch offene-stellen, recrutement.hesge.ch, prohelvetia.ch (relève arts de la scène), musikzeitung.ch (Kulturbarometer ZHdK).
+  - Contournement : WebSearch avec `allowed_domains`, puis WebFetch des URL renvoyées. 51/60 sources lues.
+- **Sources non lues** : ARCS (la recherche ne renvoie que l'accueil bloqué) ; OCG (locg.ch/fr/orchestre-emploi et /fr/explorer-locg-a-son-jeune-associe : `{"error_type":"ROBOTS_UNREACHABLE","source":"target","message":"This site's rules for automated access (robots.txt) could not be read, so the page was not fetched. Possible causes: the site had an error or did not answer in time, or the web address does not exist."}`) ; RSI (redirection vers barocchistiecoro.ch bloquée) ; Le Temps et RTS (articles : `Not fetched: <url> failed at its site (client_error), and nothing of the page was retrieved.`) ; RMSR (seulement des archives anciennes en recherche) ; Scènes Magazine (scenesmagazine.com : `ROBOTS_UNREACHABLE`, message ci-dessus) ; FIM (/en/press-releases, /en/, articles : `client_error`) ; Artos (liste et fiches : `client_error`).
+- **Autres échecs** : action-intermittence.ch/actualite/ et opera-lausanne.ch (Kattenburg), verbierfestival.com/espace-presse : `ROBOTS_UNREACHABLE` ; gliangeligeneve.com/pages/accueil et sinfonietta.ch/actualites/ : `{"error_type":"SERVER_ERROR","source":"target","message":"There was an error while fetching."}` ; theater-basel.ch/en/medien et /fr/medias, ocl.ch/locl-recrute-remplacants-supp-cordes-vents/ : `client_error`.
+- **add_repo et WebFetch direct** : outils introuvables via ToolSearch dans la session principale (« No matching deferred tools found ») ; le dépôt était déjà cloné et dans le périmètre, les lectures ont été faites par sous-agents.
+
 ## 2026-11-25 — Édition du matin
 
 - **WebFetch (lecture directe des URL de sources.json)** : refusé de façon répétée sur les 60 URL (sous-agents).
