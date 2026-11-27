@@ -1,5 +1,74 @@
 [
   {
+    "id": "2026-11-27-observatoire-romand-de-la-culture-le-cout-freine-la-formation-continue-de-81-des",
+    "rubrique": "Suisse",
+    "edition": "Matin",
+    "date": "2026-11-27",
+    "titre": "Observatoire romand de la culture : le coût freine la formation continue de 81 % des acteur·ices culturel·les",
+    "chapo": "L'Observatoire romand de la culture (ORC) a publié le 26 novembre une étude sur la formation continue des acteur·ices culturel·les, qui citent le coût (81,4 %) et le manque de temps (77,8 %) comme principaux freins.",
+    "corps": [
+      "Intitulée « Formation continue des acteur·ices culturel·les : besoins du terrain et offre existante », l'étude repose sur 15 entretiens menés avec 16 personnes et sur un questionnaire en ligne. Elle établit un référentiel de 10 compétences réparties en 4 champs et cartographie 56 formations récurrentes et 32 prestataires ponctuels. Les besoins les plus cités sont de développer son réseau professionnel (79,9 %), d'échanger sur sa démarche artistique avec des pair·es ou des mentor·es (79,4 %) et d'instaurer un cadre de travail respectueux (74,2 %).",
+      "Pour le financement des formations, les ressources personnelles (52,2 %) pèsent bien plus que le soutien public (3,5 %). Les répondant·es privilégient le présentiel (95,9 %) et les modules courts (90 %). Sur l'intelligence artificielle, 73,4 % souhaitent une réflexion éthique et juridique, et 21,3 % seulement se disent d'accord avec son usage dans la création."
+    ],
+    "sources": [
+      {
+        "label": "Observatoire romand de la culture — étude sur la formation continue des acteur·ices culturel·les",
+        "url": "https://www.observatoire-culture.ch/lorc-publie-une-etude-sur-la-formation-continue-des-acteur%c2%b7ices-culturel%c2%b7les/"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Observatoire romand de la culture: Für 81 % der Kulturschaffenden sind die Kosten ein Hindernis für die Weiterbildung",
+        "chapo": "Das Observatoire romand de la culture (ORC) hat am 26. November eine Studie zur Weiterbildung von Kulturschaffenden veröffentlicht; als wichtigste Hindernisse nennen diese die Kosten (81,4 %) und den Zeitmangel (77,8 %).",
+        "corps": [
+          "Die Studie mit dem Titel «Formation continue des acteur·ices culturel·les : besoins du terrain et offre existante» stützt sich auf 15 Gespräche mit 16 Personen und auf einen Online-Fragebogen. Sie erstellt ein Referenzsystem von 10 Kompetenzen in 4 Bereichen und erfasst 56 wiederkehrende Weiterbildungen sowie 32 punktuelle Anbieter. Am häufigsten genannt werden die Bedürfnisse, das berufliche Netzwerk auszubauen (79,9 %), sich mit Peers oder Mentor:innen über die eigene künstlerische Arbeit auszutauschen (79,4 %) und ein respektvolles Arbeitsumfeld zu schaffen (74,2 %).",
+          "Bei der Finanzierung der Weiterbildungen fallen die eigenen Mittel (52,2 %) weit stärker ins Gewicht als die öffentliche Unterstützung (3,5 %). Die Befragten bevorzugen Präsenzformate (95,9 %) und kurze Module (90 %). Zur künstlichen Intelligenz wünschen sich 73,4 % eine ethische und rechtliche Auseinandersetzung; nur 21,3 % befürworten ihren Einsatz im künstlerischen Schaffen."
+        ]
+      },
+      "it": {
+        "titre": "Observatoire romand de la culture: per l'81 % degli operatori culturali i costi frenano la formazione continua",
+        "chapo": "L'Observatoire romand de la culture (ORC) ha pubblicato il 26 novembre uno studio sulla formazione continua degli operatori e delle operatrici culturali, che indicano i costi (81,4 %) e la mancanza di tempo (77,8 %) come ostacoli principali.",
+        "corps": [
+          "Lo studio, intitolato «Formation continue des acteur·ices culturel·les : besoins du terrain et offre existante», si basa su 15 interviste con 16 persone e su un questionario online. Definisce un quadro di riferimento di 10 competenze suddivise in 4 ambiti e censisce 56 formazioni ricorrenti e 32 fornitori occasionali. I bisogni più citati sono sviluppare la propria rete professionale (79,9 %), confrontarsi sul proprio percorso artistico con pari o mentori (79,4 %) e instaurare un ambiente di lavoro rispettoso (74,2 %).",
+          "Nel finanziamento delle formazioni, le risorse personali (52,2 %) pesano molto più del sostegno pubblico (3,5 %). Le persone interpellate preferiscono la formazione in presenza (95,9 %) e i moduli brevi (90 %). Sull'intelligenza artificiale, il 73,4 % auspica una riflessione etica e giuridica, mentre solo il 21,3 % si dice d'accordo con il suo uso nella creazione."
+        ]
+      }
+    }
+  },
+  {
+    "id": "2026-11-27-lukas-sternath-le-pianiste-autrichien-met-fin-a-sa-carriere-de-concertiste-a-25-",
+    "rubrique": "International",
+    "edition": "Matin",
+    "date": "2026-11-27",
+    "titre": "Lukas Sternath : le pianiste autrichien met fin à sa carrière de concertiste à 25 ans",
+    "chapo": "Le pianiste autrichien Lukas Sternath, 25 ans, se retire de la vie de concert pour protéger sa santé physique et mentale, a rapporté Bachtrack le 26 novembre.",
+    "corps": [
+      "Lukas Sternath avait percé sur la scène internationale après ses victoires au Concours international de l'ARD en 2022. Il justifie son retrait par la volonté de « protéger sa santé physique et mentale » (« to protect his physical and mental health »)."
+    ],
+    "sources": [
+      {
+        "label": "Bachtrack — Lukas Sternath ends career at 25",
+        "url": "https://bachtrack.com/news-lukas-sternath-ends-career-at-25-november-2026"
+      }
+    ],
+    "traductions": {
+      "de": {
+        "titre": "Lukas Sternath: Der österreichische Pianist beendet mit 25 Jahren seine Konzertkarriere",
+        "chapo": "Der 25-jährige österreichische Pianist Lukas Sternath zieht sich vom Konzertleben zurück, um seine körperliche und psychische Gesundheit zu schützen, wie Bachtrack am 26. November berichtete.",
+        "corps": [
+          "Lukas Sternath war nach seinen Erfolgen beim Internationalen Musikwettbewerb der ARD 2022 international bekannt geworden. Er begründet seinen Rückzug mit dem Wunsch, «seine körperliche und psychische Gesundheit zu schützen» («to protect his physical and mental health»)."
+        ]
+      },
+      "it": {
+        "titre": "Lukas Sternath: il pianista austriaco chiude la carriera concertistica a 25 anni",
+        "chapo": "Il pianista austriaco Lukas Sternath, 25 anni, si ritira dalla vita concertistica per proteggere la sua salute fisica e mentale, ha riferito Bachtrack il 26 novembre.",
+        "corps": [
+          "Lukas Sternath si era affermato a livello internazionale dopo le vittorie al Concorso internazionale dell'ARD nel 2022. Motiva il ritiro con la volontà di «proteggere la sua salute fisica e mentale» («to protect his physical and mental health»)."
+        ]
+      }
+    }
+  },
+  {
     "id": "2026-11-26-jugend-und-musik-le-conseil-federal-s-oppose-a-la-motion-candinas-les-forfaits-b",
     "rubrique": "Politique culturelle",
     "edition": "Matin",

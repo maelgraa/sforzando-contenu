@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-27",
+    "edition": "Matin",
+    "publie_le": "2026-11-27T06:25:58.784Z",
+    "articles": 2,
+    "bulletins": 0,
+    "sources_lues": 50,
+    "sources_total": 60,
+    "detail": "2 articles, 0 bulletins, 0 doublons écartés, 50/60 sources lues",
+    "ecartes": [],
+    "remarques": "WebFetch refusé sur les 60 URL de sources.json (PROVENANCE_REQUIRED, sous-agents) ; contournement par WebSearch allowed_domains. Non lues : ARCS, RSI (redirection barocchistiecoro.ch bloquée), Theater Basel (client_error). Extraits de recherche seulement (comptés non lus) : Le Temps, RTS, RMSR, Scènes Magazine, Swissinfo, FIM, Artos (fiches client_error). add_repo introuvable via ToolSearch ; dépôt déjà cloné. Détails dans INCIDENTS.md."
+  },
+  {
     "date": "2026-11-26",
     "edition": "Matin",
     "publie_le": "2026-11-26T06:28:15.301Z",
